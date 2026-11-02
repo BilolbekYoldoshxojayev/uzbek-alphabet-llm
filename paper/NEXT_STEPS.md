@@ -16,7 +16,7 @@ All experiments and analyses are done. The two converted-text samples were revie
 5. **Submit**, using your own accounts. arXiv needs an endorser for a first-time cs.CL submitter; ask a mentor.
 
 ## Strongly recommended
-- **Spot-check the two error columns** in the `handcheck_sample.tsv` files. Reviewers will find it odd that a native-speaking author who built the converter did not check its output. If you confirm the errors, change the two "AI review" sentences in §3 and the matching phrases in Limitations and the AI-use statement.
+- **Hand-check: done by you.** If you found any correction, put it in the `handcheck_sample.tsv` files so the counts can be updated. A second native speaker would make the error rates independent.
 
 ## If the paper is too long
 Cut in this order: the context sentence in RQ3, the dose-response paragraph, the UzLiB and Kletz sentences in Related Work.

@@ -63,12 +63,13 @@ The full experiment run takes about 17 hours. Finished steps are skipped on rest
 ## Known limits
 
 - New-alphabet and Cyrillic text are machine-converted, not written by people.
-- The conversion error rates come from an AI review of a sample, whose findings the author checked. It isn't independent native-speaker annotation.
+- The conversion error rates come from one annotator, the author of the converter, who hand-checked a sample after a first AI review. They are not independent.
+- We had limited GPU power (one 12 GB laptop GPU), so models stop at 12B, and training runs are small.
 - `results/rq2/` contains the re-run Llama results only. An early run was discarded because of a corrupted weight file.
 
 ## Use of AI
 
-Claude (an AI assistant) wrote the evaluation and analysis code, ran the experiments, reviewed the converted text samples, contributed to the detailed study design and drafted the paper. The author conceived the study, defined its research questions and conditions, proposed the training comparison, and built the YangiAlifbo converter. See [docs/WALKTHROUGH.md](docs/WALKTHROUGH.md).
+Claude (an AI assistant) wrote the evaluation and analysis code, ran the experiments, did a first review of the converted text samples, contributed to the detailed study design and drafted the paper. The author conceived the study, defined its research questions and conditions, proposed the training comparison, built the YangiAlifbo converter, and hand-checked the converted text samples. See [docs/WALKTHROUGH.md](docs/WALKTHROUGH.md).
 
 ## Data and licenses
 
