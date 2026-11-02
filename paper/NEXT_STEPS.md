@@ -10,7 +10,7 @@ All experiments and analyses are done. The two converted-text samples were revie
 
 ## Only you can do these
 1. **Compile.** `cd paper; ..\tools\tectonic\tectonic.exe -X compile main.tex`. Claude is blocked from running it. Check that Table 2 no longer overlaps the text and that the body still ends on page 4.
-2. **Read the whole paper and be able to explain it.** The AI-use statement says you reviewed it and take responsibility for it. Delete the red note after that.
+2. **Read both papers: done by you.** Be ready to explain every result if asked.
 3. **Google Scholar check: done by you.** You found only Ro'zimatov, which is cited.
 4. **Choose a venue.** No 2027 call for papers was found for SIGTURK or LoResLM. Check their AI-use policy, page limit and whether review is anonymous when the calls appear. LoResLM 2026 allowed 4-page short papers, with references not counted, and required a limitations section.
 5. **Submit**, using your own accounts. arXiv needs an endorser for a first-time cs.CL submitter; ask a mentor.
