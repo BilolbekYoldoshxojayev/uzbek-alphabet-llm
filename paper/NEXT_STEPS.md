@@ -30,6 +30,6 @@ Cut in this order: the context sentence in RQ3, the dose-response paragraph, the
 - Upstream fixes to YangiAlifbo (`docs/WALKTHROUGH.md` §4.3).
 
 ## Release checklist
-- GitHub repo: done, https://github.com/BilolbekYoldoshxojayev/uzbek-alphabet-llm. The short paper omits the link so it stays anonymous for review; add it to the final version.
+- GitHub repo: created but **private**, https://github.com/BilolbekYoldoshxojayev/uzbek-alphabet-llm. Make it public before posting the long paper, or its link will not work: `gh repo edit BilolbekYoldoshxojayev/uzbek-alphabet-llm --visibility public --accept-visibility-change-consequences`. The short paper omits the link so it stays anonymous for review; add it to the final version.
 - Hugging Face dataset of the parallel FLORES + Belebele under CC BY-SA 4.0. Not done: it needs your Hugging Face login. The data is in the GitHub repo for now.
 - One-page summary for Kuriyozov, Sharipov, Isbarov, Wegmann, Nguyen and Kletz.
