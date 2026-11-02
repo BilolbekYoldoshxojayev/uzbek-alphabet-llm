@@ -1,0 +1,22 @@
+2026-11-01 15:02:47  [rq2] unsloth/gemma-3-12b-it @ 9478e66: downloading (if needed) and loading
+2026-11-01 15:03:27  [rq2] unsloth/gemma-3-12b-it: loaded, GPU memory 7.8 GB
+2026-11-01 15:04:06  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 100/900
+2026-11-01 15:04:40  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 200/900
+2026-11-01 15:05:14  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 300/900
+2026-11-01 15:05:52  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 400/900
+2026-11-01 15:06:28  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 500/900
+2026-11-01 15:07:02  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 600/900
+2026-11-01 15:07:34  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 700/900
+2026-11-01 15:08:10  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 800/900
+2026-11-01 15:08:44  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 900/900
+2026-11-01 15:08:44  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina     DONE acc=0.8589  n=900  316.6s
+2026-11-01 15:09:17  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 100/900
+2026-11-01 15:09:55  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 200/900
+2026-11-01 15:10:32  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 300/900
+2026-11-01 15:11:06  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 400/900
+2026-11-01 15:11:42  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 500/900
+2026-11-01 15:12:18  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 600/900
+2026-11-01 15:12:52  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 700/900
+2026-11-01 15:13:27  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 800/900
+2026-11-01 15:14:05  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 900/900
+2026-11-01 15:14:05  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026         DONE acc=0.8278  n=900  321.8s

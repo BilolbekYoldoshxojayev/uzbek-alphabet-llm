@@ -1,0 +1,28 @@
+[
+ {
+  "condition":"latin_okina",
+  "n":900,
+  "acc":0.8322222222,
+  "acc_lo":0.807938501,
+  "acc_hi":0.857616405,
+  "diff":null,
+  "diff_lo":null,
+  "diff_hi":null,
+  "gained":null,
+  "lost":null,
+  "mcnemar_p":null
+ },
+ {
+  "condition":"new2026",
+  "n":900,
+  "acc":0.7988888889,
+  "acc_lo":0.7704111725,
+  "acc_hi":0.8255591248,
+  "diff":-0.0333333333,
+  "diff_lo":-0.0517439966,
+  "diff_hi":-0.0142515008,
+  "gained":24.0,
+  "lost":54.0,
+  "mcnemar_p":0.0009010035
+ }
+]

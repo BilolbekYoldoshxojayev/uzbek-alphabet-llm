@@ -1,0 +1,22 @@
+2026-11-01 14:48:26  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-11-01 14:48:52  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-11-01 14:49:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 100/900
+2026-11-01 14:49:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 200/900
+2026-11-01 14:49:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 300/900
+2026-11-01 14:50:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 400/900
+2026-11-01 14:50:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 500/900
+2026-11-01 14:50:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 600/900
+2026-11-01 14:51:14  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 700/900
+2026-11-01 14:51:36  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 800/900
+2026-11-01 14:51:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 900/900
+2026-11-01 14:51:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina     DONE acc=0.6678  n=900  185.8s
+2026-11-01 14:52:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 100/900
+2026-11-01 14:52:35  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 200/900
+2026-11-01 14:52:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 300/900
+2026-11-01 14:53:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 400/900
+2026-11-01 14:53:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 500/900
+2026-11-01 14:53:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 600/900
+2026-11-01 14:54:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 700/900
+2026-11-01 14:54:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 800/900
+2026-11-01 14:54:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 900/900
+2026-11-01 14:54:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026         DONE acc=0.5911  n=900  176.8s

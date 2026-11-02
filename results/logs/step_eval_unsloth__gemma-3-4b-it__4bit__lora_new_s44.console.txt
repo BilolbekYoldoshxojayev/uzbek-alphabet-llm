@@ -1,0 +1,22 @@
+2026-11-01 23:21:21  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 23:21:39  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.3 GB
+2026-11-01 23:22:22  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 100/900
+2026-11-01 23:23:00  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 200/900
+2026-11-01 23:23:37  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 300/900
+2026-11-01 23:24:13  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 400/900
+2026-11-01 23:24:49  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 500/900
+2026-11-01 23:25:27  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 600/900
+2026-11-01 23:26:11  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 700/900
+2026-11-01 23:26:50  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 800/900
+2026-11-01 23:27:28  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 900/900
+2026-11-01 23:27:28  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina     DONE acc=0.5756  n=900  349.2s
+2026-11-01 23:28:07  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 100/900
+2026-11-01 23:28:46  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 200/900
+2026-11-01 23:29:22  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 300/900
+2026-11-01 23:30:01  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 400/900
+2026-11-01 23:30:39  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 500/900
+2026-11-01 23:31:16  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 600/900
+2026-11-01 23:31:57  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 700/900
+2026-11-01 23:32:34  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 800/900
+2026-11-01 23:33:12  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 900/900
+2026-11-01 23:33:12  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026         DONE acc=0.5833  n=900  343.5s

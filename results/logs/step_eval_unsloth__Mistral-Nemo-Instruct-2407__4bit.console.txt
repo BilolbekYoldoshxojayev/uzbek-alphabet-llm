@@ -1,0 +1,30 @@
+2026-11-01 14:24:44  [rq2] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: downloading (if needed) and loading
+2026-11-01 14:25:21  [rq2] unsloth/Mistral-Nemo-Instruct-2407: loaded, GPU memory 8.3 GB
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: already complete, skipping
+2026-11-01 14:25:47  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 100/900
+2026-11-01 14:26:12  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 200/900
+2026-11-01 14:26:36  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 300/900
+2026-11-01 14:26:59  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 400/900
+2026-11-01 14:27:23  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 500/900
+2026-11-01 14:27:49  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 600/900
+2026-11-01 14:28:14  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 700/900
+2026-11-01 14:28:40  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 800/900
+2026-11-01 14:29:06  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 900/900
+2026-11-01 14:29:06  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv        DONE acc=0.7467  n=900  224.3s
+2026-11-01 14:29:30  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 100/900
+2026-11-01 14:29:55  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 200/900
+2026-11-01 14:30:19  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 300/900
+2026-11-01 14:30:42  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 400/900
+2026-11-01 14:31:07  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 500/900
+2026-11-01 14:31:33  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 600/900
+2026-11-01 14:31:58  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 700/900
+2026-11-01 14:32:25  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 800/900
+2026-11-01 14:32:51  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 900/900
+2026-11-01 14:32:51  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe DONE acc=0.7489  n=900  225.1s

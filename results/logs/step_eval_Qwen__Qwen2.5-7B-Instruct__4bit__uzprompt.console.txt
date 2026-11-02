@@ -1,0 +1,22 @@
+2026-11-01 15:31:23  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-11-01 15:31:49  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-11-01 15:32:07  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:32:24  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:32:41  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:32:58  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:33:16  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:33:35  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:33:53  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:34:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:34:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:34:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina     DONE acc=0.6000  n=900  162.2s
+2026-11-01 15:34:48  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 100/900
+2026-11-01 15:35:05  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 200/900
+2026-11-01 15:35:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 300/900
+2026-11-01 15:35:39  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 400/900
+2026-11-01 15:35:56  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 500/900
+2026-11-01 15:36:14  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 600/900
+2026-11-01 15:36:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 700/900
+2026-11-01 15:36:50  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 800/900
+2026-11-01 15:37:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 900/900
+2026-11-01 15:37:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026         DONE acc=0.5622  n=900  158.0s

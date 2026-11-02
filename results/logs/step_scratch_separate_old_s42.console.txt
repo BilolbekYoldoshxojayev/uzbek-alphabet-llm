@@ -1,0 +1,10 @@
+2026-11-01 23:36:13  [train-A] separate_old_s42: tokenizer 28s; train 200,001,319 chars -> 43,725,901 tokens (0.219 tok/char); 85,402 sequences
+`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+2026-11-01 23:42:38  [train-A] separate_old_s42: step 200/1334 valid bits/word 16.229 (6.2 min)
+2026-11-01 23:48:28  [train-A] separate_old_s42: step 400/1334 valid bits/word 14.577 (11.8 min)
+2026-11-01 23:54:21  [train-A] separate_old_s42: step 600/1334 valid bits/word 13.454 (17.5 min)
+2026-11-02 00:00:14  [train-A] separate_old_s42: step 800/1334 valid bits/word 12.708 (23.1 min)
+2026-11-02 00:06:06  [train-A] separate_old_s42: step 1000/1334 valid bits/word 12.263 (28.8 min)
+2026-11-02 00:11:59  [train-A] separate_old_s42: step 1200/1334 valid bits/word 12.075 (34.5 min)
+2026-11-02 00:16:00  [train-A] separate_old_s42: step 1334/1334 valid bits/word 12.055 (38.3 min)
+2026-11-02 00:16:00  [train-A] separate_old_s42: DONE 98M params, 38.3 min, 59 Wh, final valid bits/word 12.055

@@ -1,0 +1,28 @@
+2026-10-30 11:14:59  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-10-30 11:15:23  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.2 GB
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit new2026: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: already complete, skipping
+2026-10-30 11:15:58  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 100/900
+2026-10-30 11:16:31  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 200/900
+2026-10-30 11:16:58  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 300/900
+2026-10-30 11:17:31  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 400/900
+2026-10-30 11:18:00  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 500/900
+2026-10-30 11:18:28  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 600/900
+2026-10-30 11:18:57  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 700/900
+2026-10-30 11:19:27  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 800/900
+2026-10-30 11:19:59  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 900/900
+2026-10-30 11:19:59  [rq2] unsloth__gemma-3-4b-it__4bit new_og          DONE acc=0.5856  n=900  276.7s
+2026-10-30 11:20:31  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 100/900
+2026-10-30 11:21:04  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 200/900
+2026-10-30 11:21:32  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 300/900
+2026-10-30 11:22:02  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 400/900
+2026-10-30 11:22:31  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 500/900
+2026-10-30 11:22:55  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 600/900
+2026-10-30 11:23:21  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 700/900
+2026-10-30 11:23:46  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 800/900
+2026-10-30 11:24:11  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 900/900
+2026-10-30 11:24:11  [rq2] unsloth__gemma-3-4b-it__4bit new_shch        DONE acc=0.5600  n=900  251.1s

@@ -1,0 +1,151 @@
+row	field	latin_okina	new2026	cyrillic	new2026_errors	cyrillic_errors	notes
+25	question	Qaysi voqeadan keyin Lyuksemburgning ayrim hududlari Belgiyaga aylandi?	Qaysi voqeadan keyin Lyuksemburgning ayrim hududlari Belgiyaga aylandi?	Қайси воқеадан кейин Люксембургнинг айрим ҳудудлари Белгияга айланди?			
+25	mc_answer1	Birinchi jahon urushi	Birinçi jahon uruşi	Биринчи жаҳон уруши			
+25	mc_answer2	Belgiya inqilobi	Belgiya inqilobi	Белгия инқилоби			
+25	mc_answer3	Ikkinchi jahon urushi	Ikkinçi jahon uruşi	Иккинчи жаҳон уруши			
+25	mc_answer4	Yevropa Ittifoqining tashkil etilishi	Yevropa Ittifoqining taşkil etilişi	Европа Иттифоқининг ташкил этилиши			
+27	question	Turkiya umumiy maydonining necha kvadrat kilometri Yevropada joylashgan?	Turkiya umumiy maydonining neça kvadrat kilometri Yevropada joylaşgan?	Туркия умумий майдонининг неча квадрат километри Европада жойлашган?			
+27	mc_answer1	9174	9174	9174			
+27	mc_answer2	755 688	755 688	755 688			
+27	mc_answer3	1600	1600	1600			
+27	mc_answer4	23 764	23 764	23 764			
+30	question	Vatikan shahrida italyan tili nima uchun ishlatilmaydi?	Vatikan şahrida italyan tili nima uçun işlatilmaydi?	Ватикан шаҳрида италян тили нима учун ишлатилмайди?		италян → итальян	
+30	mc_answer1	Qonunchilik	Qonunçilik	Қонунчилик			
+30	mc_answer2	Rasmiy muloqot	Rasmiy muloqot	Расмий мулоқот			
+30	mc_answer3	Diniy marosimlar	Diniy marosimlar	Диний маросимлар			
+30	mc_answer4	Har kunlik muloqot	Har kunlik muloqot	Ҳар кунлик мулоқот			
+32	question	Matnga koʻra, qaysi joydagi koʻpchilik uylarda oqiziluvchi hojatxonalar boʻlgan?	Matnga köra, qaysi joydagi köpçilik uylarda oqiziluvçi hojatxonalar bölgan?	Матнга кўра, қайси жойдаги кўпчилик уйларда оқизилувчи ҳожатхоналар бўлган?			
+32	mc_answer1	Moxenjo-daro	Moxenjo-daro	Мохенжо-даро			
+32	mc_answer2	Forslar davlati	Forslar davlati	Форслар давлати			
+32	mc_answer3	Santorini	Santorini	Санторини			
+32	mc_answer4	Xitoy	Xitoy	Хитой			
+89	question	Quyidagilardan qaysi biri qizil armiya tomonidan amalga oshirilmagan?	Quyidagilardan qaysi biri qizil armiya tomonidan amalga oşirilmagan?	Қуйидагилардан қайси бири қизил армия томонидан амалга оширилмаган?			
+89	mc_answer1	Ukrain frontining yaratilishi 	Ukrain frontining yaratilişi 	Украин фронтининг яратилиши 			
+89	mc_answer2	Sharqiy hududlarni bosib olish	Şarqiy hududlarni bosib oliş	Шарқий ҳудудларни босиб олиш			
+89	mc_answer3	Platsdarm boʻylab qayta shakllanish	Platsdarm böylab qayta şakllaniş	Платсдарм бўйлаб қайта шаклланиш		Платсдарм → Плацдарм	
+89	mc_answer4	Shartnomani buzish	Şartnomani buziş	Шартномани бузиш			
+95	question	Matnga koʻra, ovqat tortilgan vaqtda kim bagʻishlov qoʻshiqni taqdim etdi?	Matnga köra, ovqat tortilgan vaqtda kim bağişlov qöşiqni taqdim etdi?	Матнга кўра, овқат тортилган вақтда ким бағишлов қўшиқни тақдим этди?			
+95	mc_answer1	Lakkxa Singx	Lakkxa Singx	Лаккха Сингх			
+95	mc_answer2	Jay Shankar Choudxari	Jay Shankar Choudxari	Жай Шанкар Чоудхари	Shankar → Şankar; Choudxari → Çoudxari		
+95	mc_answer3	Shri Shyam	Shri Shyam	Шри Шям	Shri → Şri; Shyam → Şyam		
+95	mc_answer4	Sanju Sharma	Sanju Şarma	Санжу Шарма			
+104	question	Zilzila markazi Byuttega nisbatan qayerda joylashgandi?	Zilzila markazi Byuttega nisbatan qayerda joylaşgandi?	Зилзила маркази Бюттега нисбатан қаерда жойлашганди?			
+104	mc_answer1	20 mil janubda	20 mil janubda	20 мил жанубда		мил → миль	
+104	mc_answer2	40 mil janubda	40 mil janubda	40 мил жанубда		мил → миль	
+104	mc_answer3	40 mil shimoli-shimoli-sharqda	40 mil şimoli-şimoli-şarqda	40 мил шимоли-шимоли-шарқда		мил → миль	
+104	mc_answer4	65 mil shimolda	65 mil şimolda	65 мил шимолда		мил → миль	
+114	question	“Reading Rainbow” serialining bekor qilinishiga nima hissa qoʻshgan boʻlishi mumkin?	“Reading Rainbow” serialining bekor qilinişiga nima hissa qöşgan bölişi mumkin?	“Реадинг Rainbow” сериалининг бекор қилинишига нима ҳисса қўшган бўлиши мумкин?		Реадинг → Reading	
+114	mc_answer1	Moliyalashtirish mablagʻlarining yetishmasligi	Moliyalaştiriş mablağlarining yetişmasligi	Молиялаштириш маблағларининг етишмаслиги			
+114	mc_answer2	Emmy mukofotining yoʻqligi	Emmy mukofotining yöqligi	Эммй мукофотининг йўқлиги		Эммй → Эмми	
+114	mc_answer3	Jon Grant fikri	Jon Grant fikri	Жон Грант фикри			
+114	mc_answer4	“Janob Rojerning mahallasi” muvaffaqiyati	“Janob Rojerning mahallasi” muvaffaqiyati	“Жаноб Рожернинг маҳалласи” муваффақияти			
+142	question	Matnga koʻra, bomba portlashidan keyin qanday maʼlumot maʼlum?	Matnga köra, bomba portlaşidan keyin qanday maʼlumot maʼlum?	Матнга кўра, бомба портлашидан кейин қандай маълумот маълум?			
+142	mc_answer1	Jarohatlarning yakuniy soni	Jarohatlarning yakuniy soni	Жароҳатларнинг якуний сони			
+142	mc_answer2	Bombalar qaysi binolar yaqinida portlagani	Bombalar qaysi binolar yaqinida portlagani	Бомбалар қайси бинолар яқинида портлагани			
+142	mc_answer3	Qoʻshimcha bombalar portlatilishi rejalashtirilgan yoki yoʻqligi 	Qöşimça bombalar portlatilişi rejalaştirilgan yoki yöqligi 	Қўшимча бомбалар портлатилиши режалаштирилган ёки йўқлиги 			
+142	mc_answer4	Rasmiy qurbonlar soni	Rasmiy qurbonlar soni	Расмий қурбонлар сони			
+203	question	JAS 39C Gripen halokatidan keyin aeroport nimalar uchun yopildi?	JAS 39C Gripen halokatidan keyin aeroport nimalar uçun yopildi?	ЖАС 39C Грипен ҳалокатидан кейин аэропорт нималар учун ёпилди?			Cyrillic, uncertain: ЖАС
+203	mc_answer1	Tijoriy parvozlar	Tijoriy parvozlar	Тижорий парвозлар			
+203	mc_answer2	Oʻt oʻchirish mashinalari	Öt öçiriş maşinalari	Ўт ўчириш машиналари			
+203	mc_answer3	Mahalliy ommaviy axborot vositalari	Mahalliy ommaviy axborot vositalari	Маҳаллий оммавий ахборот воситалари			
+203	mc_answer4	Uchuvchi boʻlinma rahbarlari	Uçuvçi bölinma rahbarlari	Учувчи бўлинма раҳбарлари			
+223	question	Artur Ginnes dastlab Avliyo Jeyms darvozasi pivo zavodini necha yilga ijaraga bergandi?	Artur Ginnes dastlab Avliyo Jeyms darvozasi pivo zavodini neça yilga ijaraga bergandi?	Артур Гиннес дастлаб Авлиё Жеймс дарвозаси пиво заводини неча йилга ижарага берганди?			
+223	mc_answer1	250	250	250			
+223	mc_answer2	10	10	10			
+223	mc_answer3	1759	1759	1759			
+223	mc_answer4	9000	9000	9000			
+228	question	Qaysi joydan chiqindilar bu kasallikning tarqalishiga hissa qoʻshgan?	Qaysi joydan çiqindilar bu kasallikning tarqalişiga hissa qöşgan?	Қайси жойдан чиқиндилар бу касалликнинг тарқалишига ҳисса қўшган?			
+228	mc_answer1	Artibonit daryosi	Artibonit daryosi	Артибонит дарёси			
+228	mc_answer2	BMT lageri	BMT lageri	БМТ лагери			
+228	mc_answer3	2010-yilgi zilzila joyi	2010-yilgi zilzila joyi	2010-йилги зилзила жойи			
+228	mc_answer4	Gaiti Adolat va demokratiya instituti	Gaiti Adolat va demokratiya instituti	Гаити Адолат ва демократия институти			
+238	question	Armand Versache soʻzlariga koʻra, olomon ob-havoga reaksiya bildirishni boshlashdan oldin nima sodir boʻlgan?	Armand Versache sözlariga köra, olomon ob-havoga reaksiya bildirişni boşlaşdan oldin nima sodir bölgan?	Арманд Версаче сўзларига кўра, оломон об-ҳавога реаксия билдиришни бошлашдан олдин нима содир бўлган?	Versache → Versaçe	реаксия → реакция	
+238	mc_answer1	Doʻl yogʻa boshlari	Döl yoğa boşlari	Дўл ёға бошлари			
+238	mc_answer2	Besh daqiqa avval koʻrgazma boʻlayotgandi	Beş daqiqa avval körgazma bölayotgandi	Беш дақиқа аввал кўргазма бўлаётганди			
+238	mc_answer3	Kuchli shamol esayotgandi	Kuçli şamol esayotgandi	Кучли шамол эсаётганди			
+238	mc_answer4	U oila aʼzosini yoʻqotib qoʻydi	U oila aʼzosini yöqotib qöydi	У оила аъзосини йўқотиб қўйди			
+250	question	Matnga koʻra, bu kasallikka qarshi qaysi himoya chorasi eng oxirgi amalga oshiriladi?	Matnga köra, bu kasallikka qarşi qaysi himoya çorasi eng oxirgi amalga oşiriladi?	Матнга кўра, бу касалликка қарши қайси ҳимоя чораси энг охирги амалга оширилади?			
+250	mc_answer1	Pestitsidlar	Pestitsidlar	Пеститсидлар		Пеститсидлар → Пестицидлар	
+250	mc_answer2	Choʻchqa tutuvchilar	Çöçqa tutuvçilar	Чўчқа тутувчилар			
+250	mc_answer3	Ensefalitga qarshi vaksinalar	Ensefalitga qarşi vaksinalar	Энсефалитга қарши ваксиналар		ваксиналар → вакциналар; Энсефалитга → Энцефалитга	
+250	mc_answer4	Chivinga qarshi pardalar	Çivinga qarşi pardalar	Чивинга қарши пардалар			
+281	question	Matnda taʼkidlanganidek, Karolin Uilson shaharni tark etishidan avval qayerda ishlagan?	Matnda taʼkidlanganidek, Karolin Uilson şaharni tark etişidan avval qayerda işlagan?	Матнда таъкидланганидек, Каролин Уилсон шаҳарни тарк этишидан аввал қаерда ишлаган?			
+281	mc_answer1	Sharqiy Koʻrfaz hamjamiyati huquqiy markazi	Şarqiy Körfaz hamjamiyati huquqiy markazi	Шарқий Кўрфаз ҳамжамияти ҳуқуқий маркази			
+281	mc_answer2	Oklend politsiyasi	Oklend politsiyasi	Окленд полицияси			
+281	mc_answer3	OHA	OHA	ОҲА			Cyrillic, uncertain: ОҲА
+281	mc_answer4	Lokvud Gardens	Lokvud Gardens	Локвуд Гарденс			
+429	question	Halokatga nima sabab boʻlgan deb ishonilmoqda?	Halokatga nima sabab bölgan deb işonilmoqda?	Ҳалокатга нима сабаб бўлган деб ишонилмоқда?			
+429	mc_answer1	Qattiq yer sharoiti	Qattiq yer şaroiti	Қаттиқ ер шароити			
+429	mc_answer2	Dushman oʻt ochishi	Duşman öt oçişi	Душман ўт очиши			
+429	mc_answer3	Togʻli hudud	Toğli hudud	Тоғли ҳудуд			
+429	mc_answer4	Yomon ob-havo	Yomon ob-havo	Ёмон об-ҳаво			
+432	question	Quyidagilarning qaysi biri toʻgʻonning qurilishiga qaytarilmas taʼsir koʻrsatdi?	Quyidagilarning qaysi biri töğonning qurilişiga qaytarilmas taʼsir körsatdi?	Қуйидагиларнинг қайси бири тўғоннинг қурилишига қайтарилмас таъсир кўрсатди?			
+432	mc_answer1	Qumloqlar	Qumloqlar	Қумлоқлар			
+432	mc_answer2	Bukri baliqlar	Bukri baliqlar	Букри балиқлар			
+432	mc_answer3	Yovvoyi hayvonlar uchun yashash joylari	Yovvoyi hayvonlar uçun yaşaş joylari	Ёввойи ҳайвонлар учун яшаш жойлари			
+432	mc_answer4	Choʻkindilar tarqalishi	Çökindilar tarqalişi	Чўкиндилар тарқалиши			
+517	question	Changʻida uchishni hordiq chiqarish mashgʻuloti sifatida ommalashtirish kimga tegishli boʻlishi mumkin?	Çanğida uçişni hordiq çiqariş maşğuloti sifatida ommalaştiriş kimga tegişli bölişi mumkin?	Чанғида учишни ҳордиқ чиқариш машғулоти сифатида оммалаштириш кимга тегишли бўлиши мумкин?			
+517	mc_answer1	Changʻi daydilari	Çanği daydilari	Чанғи дайдилари			
+517	mc_answer2	Norvegiyaliklar	Norvegiyaliklar	Норвегияликлар			
+517	mc_answer3	Gʻorda yashovchilar	Ğorda yaşovçilar	Ғорда яшовчилар			
+517	mc_answer4	Avstriyaliklar	Avstriyaliklar	Австрияликлар			
+558	question	Quyidagilardan qaysi biri hozirda markaziy maydon sifatida ishlatiladi?	Quyidagilardan qaysi biri hozirda markaziy maydon sifatida işlatiladi?	Қуйидагилардан қайси бири ҳозирда марказий майдон сифатида ишлатилади?			
+558	mc_answer1	Jardín de la Unión	Jardín de la Unión	Жардíн де ла Униóн		Жардíн → Жардин; Униóн → Унион	
+558	mc_answer2	Boʻsa xiyoboni	Bösa xiyoboni	Бўса хиёбони			
+558	mc_answer3	Templo de San Diego	Templo de San Diego	Темпло де Сан Диэго		Диэго → Диего	
+558	mc_answer4	Callejon del Beso	Callejon del Beso	Callejon дел Бесо			Cyrillic, uncertain: Callejon
+574	question	Matnga koʻra, qaysi turdagi mehmonni umumiy hostel xonasida uchratish ehtimoli eng past?	Matnga köra, qaysi turdagi mehmonni umumiy hostel xonasida uçratiş ehtimoli eng past?	Матнга кўра, қайси турдаги меҳмонни умумий ҳостел хонасида учратиш эҳтимоли энг паст?			
+574	mc_answer1	Endigina yigirma yoshdan oshgan mehmon	Endigina yigirma yoşdan oşgan mehmon	Эндигина йигирма ёшдан ошган меҳмон			
+574	mc_answer2	Yakka sayohat qilayotgan mehmon	Yakka sayohat qilayotgan mehmon	Якка саёҳат қилаётган меҳмон			
+574	mc_answer3	Kichik bolalar bilan sayohat qilayotgan mehmon	Kiçik bolalar bilan sayohat qilayotgan mehmon	Кичик болалар билан саёҳат қилаётган меҳмон			
+574	mc_answer4	Oʻttiz besh yoshlardagi mehmon	Öttiz beş yoşlardagi mehmon	Ўттиз беш ёшлардаги меҳмон			
+604	question	Pridnestrovye respublikasida quyidagilardan qaysi biri Moldovaning boshqa qismidagidan farq qiladi?  	Pridnestrovye respublikasida quyidagilardan qaysi biri Moldovaning boşqa qismidagidan farq qiladi?  	Приднестрове республикасида қуйидагилардан қайси бири Молдованинг бошқа қисмидагидан фарқ қилади?  		Приднестрове → Приднестровье	
+604	mc_answer1	Til	Til	Тил			
+604	mc_answer2	Din	Din	Дин			
+604	mc_answer3	BMT tan olishi	BMT tan olişi	БМТ тан олиши			
+604	mc_answer4	Valyuta	Valyuta	Валюта			
+616	question	Matnga koʻra, quyidagilardan qaysi biri parijliklarning stereotipik sifati hisoblanmaydi?	Matnga köra, quyidagilardan qaysi biri parijliklarning stereotipik sifati hisoblanmaydi?	Матнга кўра, қуйидагилардан қайси бири парижликларнинг стереотипик сифати ҳисобланмайди?			
+616	mc_answer1	Dimogʻdorlik	Dimoğdorlik	Димоғдорлик			
+616	mc_answer2	Qoʻpollik	Qöpollik	Қўполлик			
+616	mc_answer3	Oʻynoqilik	Öynoqilik	Ўйноқилик			
+616	mc_answer4	Keskinlik	Keskinlik	Кескинлик			
+654	question	Rezonansli tibbiy tasvirlash uchun birinchi patent qaysi yilda berilgan? 	Rezonansli tibbiy tasvirlaş uçun birinçi patent qaysi yilda berilgan? 	Резонансли тиббий тасвирлаш учун биринчи патент қайси йилда берилган? 			
+654	mc_answer1	1977	1977	1977			
+654	mc_answer2	1974	1974	1974			
+654	mc_answer3	1930	1930	1930			
+654	mc_answer4	1970	1970	1970			
+665	question	Quyidagilardan qaysi biri davomiy munosabatlar uchun internetdan foydalanishga motivatsiyani aks ettirmaydi?	Quyidagilardan qaysi biri davomiy munosabatlar uçun internetdan foydalanişga motivatsiyani aks ettirmaydi?	Қуйидагилардан қайси бири давомий муносабатлар учун интернетдан фойдаланишга мотивацияни акс эттирмайди?			
+665	mc_answer1	Biznes aloqalarini oʻrnatish	Biznes aloqalarini örnatiş	Бизнес алоқаларини ўрнатиш			
+665	mc_answer2	Oila bilan aloqada boʻlish	Oila bilan aloqada böliş	Оила билан алоқада бўлиш			
+665	mc_answer3	Sayohat boʻyicha izlanish qilish	Sayohat böyiça izlaniş qiliş	Саёҳат бўйича изланиш қилиш			
+665	mc_answer4	Yangi odamlar bilan tanishish	Yangi odamlar bilan tanişiş	Янги одамлар билан танишиш			
+692	question	Matnda keltirilgan maʼlumotlarga koʻra, mutatsiyalarning turli xil taʼsiri nimaga tayanmaydi?	Matnda keltirilgan maʼlumotlarga köra, mutatsiyalarning turli xil taʼsiri nimaga tayanmaydi?	Матнда келтирилган маълумотларга кўра, мутацияларнинг турли хил таъсири нимага таянмайди?			
+692	mc_answer1	Genetik materialning qancha qismi taʼsirlangan	Genetik materialning qança qismi taʼsirlangan	Генетик материалнинг қанча қисми таъсирланган			
+692	mc_answer2	Taʼsirlangan hujayralarning jinsiy hujayralar ekani yoki emasligi	Taʼsirlangan hujayralarning jinsiy hujayralar ekani yoki emasligi	Таъсирланган ҳужайраларнинг жинсий ҳужайралар экани ёки эмаслиги			
+692	mc_answer3	Taʼsirlangan genetik materialning ahamiyati	Taʼsirlangan genetik materialning ahamiyati	Таъсирланган генетик материалнинг аҳамияти			
+692	mc_answer4	Taʼsirlangan mutatsiya turi	Taʼsirlangan mutatsiya turi	Таъсирланган мутация тури			
+718	question	Matnga koʻra, quyidagilardan qaysi biri yovvoyilashgan bolaning tarbiyasi bilan bogʻliq emas?	Matnga köra, quyidagilardan qaysi biri yovvoyilaşgan bolaning tarbiyasi bilan boğliq emas?	Матнга кўра, қуйидагилардан қайси бири ёввойилашган боланинг тарбияси билан боғлиқ эмас?			
+718	mc_answer1	Mustaqil yashash	Mustaqil yaşaş	Мустақил яшаш			
+718	mc_answer2	Kuchli suhbatlashish koʻnikmalari	Kuçli suhbatlaşiş könikmalari	Кучли суҳбатлашиш кўникмалари			
+718	mc_answer3	Tarki dunyochilikka moyillik	Tarki dunyoçilikka moyillik	Тарки дунёчиликка мойиллик			
+718	mc_answer4	Ijtimoiy xavotir	Ijtimoiy xavotir	Ижтимоий хавотир			
+733	question	Matnga asosan, jismoniy va virtual jamoalar haqidagi qaysi bayonot notoʻgʻri?	Matnga asosan, jismoniy va virtual jamoalar haqidagi qaysi bayonot notöğri?	Матнга асосан, жисмоний ва виртуал жамоалар ҳақидаги қайси баёнот нотўғри?			
+733	mc_answer1	Odatiy jamoalar odatda yuqoriroq standartga amal qiladi	Odatiy jamoalar odatda yuqoriroq standartga amal qiladi	Одатий жамоалар одатда юқорироқ стандартга амал қилади			
+733	mc_answer2	Virtual jamoalar tez-tez odatiy jamoalar uchun aloqa punkti boʻlib xizmat qiladi	Virtual jamoalar tez-tez odatiy jamoalar uçun aloqa punkti bölib xizmat qiladi	Виртуал жамоалар тез-тез одатий жамоалар учун алоқа пункти бўлиб хизмат қилади			
+733	mc_answer3	Odatiy jamoalar virtual jamoalarga qaraganda kamroq avtonomiyaga ega	Odatiy jamoalar virtual jamoalarga qaraganda kamroq avtonomiyaga ega	Одатий жамоалар виртуал жамоаларга қараганда камроқ автономияга эга			
+733	mc_answer4	Turli vaqt zonalari virtual jamoalar uchun foydali boʻlishi mumkin	Turli vaqt zonalari virtual jamoalar uçun foydali bölişi mumkin	Турли вақт зоналари виртуал жамоалар учун фойдали бўлиши мумкин			
+754	question	Koʻrish qobiliyati nimaga bogʻliq?	Köriş qobiliyati nimaga boğliq?	Кўриш қобилияти нимага боғлиқ?			
+754	mc_answer1	Sezgi aʼzolarining koʻrish tizimi	Sezgi aʼzolarining köriş tizimi	Сезги аъзоларининг кўриш тизими			
+754	mc_answer2	Organizm talablari 	Organizm talablari 	Организм талаблари 			
+754	mc_answer3	Muayyan toʻlqin uzunliklariga nisbatan sezuvchanlik	Muayyan tölqin uzunliklariga nisbatan sezuvçanlik	Муайян тўлқин узунликларига нисбатан сезувчанлик			
+754	mc_answer4	Turli keskinlik darajalari	Turli keskinlik darajalari	Турли кескинлик даражалари			
+758	question	Matnga koʻra, diqqatni jamlay olmaslik buzilishiga yoʻliqqan bolalar nimaga diqqatini jamlashga qiynalishi mumkin?	Matnga köra, diqqatni jamlay olmaslik buzilişiga yöliqqan bolalar nimaga diqqatini jamlaşga qiynalişi mumkin?	Матнга кўра, диққатни жамлай олмаслик бузилишига йўлиққан болалар нимага диққатини жамлашга қийналиши мумкин?			
+758	mc_answer1	Oʻquv mashgʻulotlari	Öquv maşğulotlari	Ўқув машғулотлари			
+758	mc_answer2	Oʻyinlar oʻynash	Öyinlar öynaş	Ўйинлар ўйнаш			
+758	mc_answer3	Multfilmlar tomosha qilish	Multfilmlar tomoşa qiliş	Мултфилмлар томоша қилиш		Мултфилмлар → Мультфильмлар	
+758	mc_answer4	Oʻzlari bajarishdan zavqlanadigan narsalar	Özlari bajarişdan zavqlanadigan narsalar	Ўзлари бажаришдан завқланадиган нарсалар			
+759	question	Matnga koʻra, diqqatni jamlay olmaslik buzilishiga yoʻliqqan bolalar nega qaltis xatti-harakatlarda ishtirok etishga moyil?	Matnga köra, diqqatni jamlay olmaslik buzilişiga yöliqqan bolalar nega qaltis xatti-harakatlarda iştirok etişga moyil?	Матнга кўра, диққатни жамлай олмаслик бузилишига йўлиққан болалар нега қалтис хатти-ҳаракатларда иштирок этишга мойил?			
+759	mc_answer1	Giperfaollikni kamaytirish uchun	Giperfaollikni kamaytiriş uçun	Гиперфаолликни камайтириш учун			
+759	mc_answer2	Tengdoshlari bilan aloqa qilishga yordam berish uchun	Tengdoşlari bilan aloqa qilişga yordam beriş uçun	Тенгдошлари билан алоқа қилишга ёрдам бериш учун			
+759	mc_answer3	Ota-onalari eʼtiborini jalb qilish uchun	Ota-onalari eʼtiborini jalb qiliş uçun	Ота-оналари эътиборини жалб қилиш учун			
+759	mc_answer4	Ongini ragʻbatlantirish uchun	Ongini rağbatlantiriş uçun	Онгини рағбатлантириш учун			

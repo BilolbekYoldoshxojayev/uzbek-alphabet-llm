@@ -1,0 +1,75 @@
+{
+ "belebele_fields_identical": 0.9968518518518519,
+ "belebele_example_differences": [
+  [
+   "AQSHni",
+   "AQShni"
+  ],
+  [
+   "AQSHga",
+   "AQShga"
+  ],
+  [
+   "AQSHga",
+   "AQShga"
+  ],
+  [
+   "AQSHni",
+   "AQShni"
+  ],
+  [
+   "AQSHni",
+   "AQShni"
+  ],
+  [
+   "AQSHda",
+   "AQShda"
+  ],
+  [
+   "AQSHda",
+   "AQShda"
+  ],
+  [
+   "AQSHda",
+   "AQShda"
+  ],
+  [
+   "AQSHda",
+   "AQShda"
+  ],
+  [
+   "AQSHning",
+   "AQShning"
+  ],
+  [
+   "AQSHning",
+   "AQShning"
+  ],
+  [
+   "AQSHning",
+   "AQShning"
+  ],
+  [
+   "AQSHga",
+   "AQShga"
+  ],
+  [
+   "AQSHga",
+   "AQShga"
+  ],
+  [
+   "AQSHga",
+   "AQShga"
+  ],
+  [
+   "AQSHlik",
+   "AQShlik"
+  ],
+  [
+   "AQSHlik",
+   "AQShlik"
+  ]
+ ],
+ "flores_devtest_lines_identical": 0.9970355731225297,
+ "flores_dev_lines_identical": 0.995987963891675
+}

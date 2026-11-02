@@ -1,0 +1,8 @@
+2026-11-01 11:37:51  [train-A] shared_new_s999: tokenizer 9s; train 2,890,074 chars -> 648,133 tokens (0.224 tok/char); 1,265 sequences
+`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+2026-11-01 11:38:31  [train-A] shared_new_s999: step 19/19 valid bits/word 21.319 (0.4 min)
+2026-11-01 11:38:32  [train-A] shared_new_s999: DONE 98M params, 0.4 min, 1 Wh, final valid bits/word 21.319
+2026-11-01 11:39:00  [train-A] separate_old_s999: tokenizer 3s; train 3,003,329 chars -> 631,798 tokens (0.210 tok/char); 1,233 sequences
+`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+2026-11-01 11:39:39  [train-A] separate_old_s999: step 19/19 valid bits/word 21.006 (0.4 min)
+2026-11-01 11:39:40  [train-A] separate_old_s999: DONE 98M params, 0.4 min, 1 Wh, final valid bits/word 21.006

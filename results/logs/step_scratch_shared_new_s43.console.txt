@@ -1,0 +1,10 @@
+2026-11-02 03:01:25  [train-A] shared_new_s43: tokenizer 57s; train 192,390,984 chars -> 44,771,911 tokens (0.233 tok/char); 87,445 sequences
+`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+2026-11-02 03:05:51  [train-A] shared_new_s43: step 200/1366 valid bits/word 16.595 (4.2 min)
+2026-11-02 03:10:14  [train-A] shared_new_s43: step 400/1366 valid bits/word 14.875 (8.4 min)
+2026-11-02 03:14:37  [train-A] shared_new_s43: step 600/1366 valid bits/word 13.785 (12.6 min)
+2026-11-02 03:19:00  [train-A] shared_new_s43: step 800/1366 valid bits/word 12.998 (16.7 min)
+2026-11-02 03:23:23  [train-A] shared_new_s43: step 1000/1366 valid bits/word 12.515 (20.9 min)
+2026-11-02 03:27:46  [train-A] shared_new_s43: step 1200/1366 valid bits/word 12.291 (25.1 min)
+2026-11-02 03:31:27  [train-A] shared_new_s43: step 1366/1366 valid bits/word 12.254 (28.6 min)
+2026-11-02 03:31:27  [train-A] shared_new_s43: DONE 98M params, 28.6 min, 53 Wh, final valid bits/word 12.254

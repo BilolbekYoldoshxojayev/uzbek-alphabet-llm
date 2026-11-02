@@ -1,0 +1,93 @@
+2026-11-01 13:40:32  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-11-01 13:40:57  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-11-01 13:40:57  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: already complete, skipping
+2026-11-01 13:41:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 100/900
+2026-11-01 13:41:35  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 200/900
+2026-11-01 13:41:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 300/900
+2026-11-01 13:42:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 400/900
+2026-11-01 13:42:30  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 500/900
+2026-11-01 13:42:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 600/900
+2026-11-01 13:43:09  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 700/900
+2026-11-01 13:43:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 800/900
+2026-11-01 13:43:48  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 900/900
+2026-11-01 13:43:48  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii     DONE acc=0.6967  n=900  170.9s
+2026-11-01 13:44:08  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 100/900
+2026-11-01 13:44:26  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 200/900
+2026-11-01 13:44:44  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 300/900
+2026-11-01 13:45:02  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 400/900
+2026-11-01 13:45:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 500/900
+2026-11-01 13:45:39  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 600/900
+2026-11-01 13:45:57  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 700/900
+2026-11-01 13:46:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 800/900
+2026-11-01 13:46:36  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 900/900
+2026-11-01 13:46:36  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick  DONE acc=0.6922  n=900  167.3s
+2026-11-01 13:46:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 100/900
+2026-11-01 13:47:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 200/900
+2026-11-01 13:47:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 300/900
+2026-11-01 13:47:46  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 400/900
+2026-11-01 13:48:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 500/900
+2026-11-01 13:48:23  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 600/900
+2026-11-01 13:48:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 700/900
+2026-11-01 13:49:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 800/900
+2026-11-01 13:49:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 900/900
+2026-11-01 13:49:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo     DONE acc=0.6900  n=900  164.3s
+2026-11-01 13:49:37  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 100/900
+2026-11-01 13:49:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 200/900
+2026-11-01 13:50:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 300/900
+2026-11-01 13:50:27  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 400/900
+2026-11-01 13:50:45  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 500/900
+2026-11-01 13:51:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 600/900
+2026-11-01 13:51:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 700/900
+2026-11-01 13:51:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 800/900
+2026-11-01 13:52:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 900/900
+2026-11-01 13:52:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026         DONE acc=0.6222  n=900  159.8s
+2026-11-01 13:52:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 100/900
+2026-11-01 13:52:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 200/900
+2026-11-01 13:53:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 300/900
+2026-11-01 13:53:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 400/900
+2026-11-01 13:53:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 500/900
+2026-11-01 13:54:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 600/900
+2026-11-01 13:54:25  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 700/900
+2026-11-01 13:54:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 800/900
+2026-11-01 13:55:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 900/900
+2026-11-01 13:55:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic        DONE acc=0.6044  n=900  191.8s
+2026-11-01 13:55:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 100/900
+2026-11-01 13:55:46  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 200/900
+2026-11-01 13:56:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 300/900
+2026-11-01 13:56:21  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 400/900
+2026-11-01 13:56:38  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 500/900
+2026-11-01 13:56:57  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 600/900
+2026-11-01 13:57:15  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 700/900
+2026-11-01 13:57:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 800/900
+2026-11-01 13:57:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 900/900
+2026-11-01 13:57:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og          DONE acc=0.6667  n=900  160.9s
+2026-11-01 13:58:10  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 100/900
+2026-11-01 13:58:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 200/900
+2026-11-01 13:58:46  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 300/900
+2026-11-01 13:59:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 400/900
+2026-11-01 13:59:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 500/900
+2026-11-01 13:59:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 600/900
+2026-11-01 14:00:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 700/900
+2026-11-01 14:00:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 800/900
+2026-11-01 14:00:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 900/900
+2026-11-01 14:00:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch        DONE acc=0.6611  n=900  167.4s
+2026-11-01 14:00:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 100/900
+2026-11-01 14:01:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 200/900
+2026-11-01 14:01:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 300/900
+2026-11-01 14:01:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 400/900
+2026-11-01 14:02:10  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 500/900
+2026-11-01 14:02:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 600/900
+2026-11-01 14:02:48  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 700/900
+2026-11-01 14:03:08  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 800/900
+2026-11-01 14:03:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 900/900
+2026-11-01 14:03:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv        DONE acc=0.6922  n=900  167.8s
+2026-11-01 14:03:45  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 100/900
+2026-11-01 14:04:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 200/900
+2026-11-01 14:04:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 300/900
+2026-11-01 14:04:38  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 400/900
+2026-11-01 14:04:56  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 500/900
+2026-11-01 14:05:15  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 600/900
+2026-11-01 14:05:33  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 700/900
+2026-11-01 14:05:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 800/900
+2026-11-01 14:06:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 900/900
+2026-11-01 14:06:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe DONE acc=0.6989  n=900  164.4s

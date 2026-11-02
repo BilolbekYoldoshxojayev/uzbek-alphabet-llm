@@ -1,0 +1,43 @@
+{
+ "time": "2026-10-30 12:05:45",
+ "model": "Qwen/Qwen3-8B",
+ "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+ "load_4bit": true,
+ "dataset": "belebele_uzn",
+ "limit": null,
+ "seed": 42,
+ "template_sha256": "0d700020eb014214aa4e9a8d9cf5dfb4d6291e92bef3c8696e978937603fc6a4",
+ "letter_token_ids": [
+  362,
+  425,
+  356,
+  422
+ ],
+ "versions": {
+  "python": "3.12.10",
+  "torch": "2.9.0+cu128",
+  "transformers": "4.57.1",
+  "cuda": "12.8"
+ },
+ "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU",
+ "accuracy": {
+  "latin_okina": 0.6966666666666667,
+  "latin_ascii": 0.7055555555555556,
+  "latin_backtick": 0.7011111111111111,
+  "latin_rsquo": 0.7022222222222222,
+  "new2026": 0.6533333333333333,
+  "cyrillic": 0.6633333333333333,
+  "new_og": 0.6788888888888889,
+  "new_shch": 0.6855555555555556
+ },
+ "seconds": {
+  "latin_okina": 212.0,
+  "latin_ascii": 213.1,
+  "latin_backtick": 284.3,
+  "latin_rsquo": 231.6,
+  "new2026": 229.7,
+  "cyrillic": 250.0,
+  "new_og": 229.0,
+  "new_shch": 230.5
+ }
+}

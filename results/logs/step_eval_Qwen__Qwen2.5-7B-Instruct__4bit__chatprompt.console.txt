@@ -1,0 +1,22 @@
+2026-11-01 14:42:18  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-11-01 14:42:43  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-11-01 14:43:02  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 100/900
+2026-11-01 14:43:19  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 200/900
+2026-11-01 14:43:37  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 300/900
+2026-11-01 14:43:54  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 400/900
+2026-11-01 14:44:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 500/900
+2026-11-01 14:44:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 600/900
+2026-11-01 14:44:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 700/900
+2026-11-01 14:45:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 800/900
+2026-11-01 14:45:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 900/900
+2026-11-01 14:45:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina     DONE acc=0.5789  n=900  165.3s
+2026-11-01 14:45:46  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 100/900
+2026-11-01 14:46:04  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 200/900
+2026-11-01 14:46:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 300/900
+2026-11-01 14:46:39  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 400/900
+2026-11-01 14:46:57  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 500/900
+2026-11-01 14:47:15  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 600/900
+2026-11-01 14:47:33  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 700/900
+2026-11-01 14:47:53  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 800/900
+2026-11-01 14:48:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 900/900
+2026-11-01 14:48:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026         DONE acc=0.5522  n=900  163.8s

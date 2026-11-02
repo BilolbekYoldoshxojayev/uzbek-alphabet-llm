@@ -1,0 +1,30 @@
+2026-11-01 11:40:49  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 11:41:04  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 8.0 GB
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_okina: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_ascii: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_backtick: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_rsquo: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it new2026: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it cyrillic: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it new_og: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it new_shch: already complete, skipping
+2026-11-01 11:41:26  [rq2] unsloth__gemma-3-4b-it backconv: 100/900
+2026-11-01 11:41:47  [rq2] unsloth__gemma-3-4b-it backconv: 200/900
+2026-11-01 11:42:07  [rq2] unsloth__gemma-3-4b-it backconv: 300/900
+2026-11-01 11:42:27  [rq2] unsloth__gemma-3-4b-it backconv: 400/900
+2026-11-01 11:42:48  [rq2] unsloth__gemma-3-4b-it backconv: 500/900
+2026-11-01 11:43:07  [rq2] unsloth__gemma-3-4b-it backconv: 600/900
+2026-11-01 11:43:25  [rq2] unsloth__gemma-3-4b-it backconv: 700/900
+2026-11-01 11:43:43  [rq2] unsloth__gemma-3-4b-it backconv: 800/900
+2026-11-01 11:44:05  [rq2] unsloth__gemma-3-4b-it backconv: 900/900
+2026-11-01 11:44:05  [rq2] unsloth__gemma-3-4b-it backconv        DONE acc=0.6389  n=900  180.3s
+2026-11-01 11:44:28  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 100/900
+2026-11-01 11:44:53  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 200/900
+2026-11-01 11:46:24  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 300/900
+2026-11-01 11:47:47  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 400/900
+2026-11-01 11:49:01  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 500/900
+2026-11-01 11:50:15  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 600/900
+2026-11-01 11:51:32  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 700/900
+2026-11-01 11:53:01  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 800/900
+2026-11-01 11:54:24  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 900/900
+2026-11-01 11:54:24  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe DONE acc=0.6389  n=900  620.0s

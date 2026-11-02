@@ -1,0 +1,22 @@
+2026-11-01 15:43:52  [rq2] Qwen/Qwen3-8B @ b968826: downloading (if needed) and loading
+2026-11-01 15:44:19  [rq2] Qwen/Qwen3-8B: loaded, GPU memory 6.0 GB
+2026-11-01 15:44:42  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:45:04  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:45:26  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:45:49  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:46:11  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:46:34  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:46:55  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:47:18  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:47:42  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:47:42  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina     DONE acc=0.6267  n=900  202.8s
+2026-11-01 15:48:05  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 100/900
+2026-11-01 15:48:27  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 200/900
+2026-11-01 15:48:49  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 300/900
+2026-11-01 15:49:11  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 400/900
+2026-11-01 15:49:34  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 500/900
+2026-11-01 15:49:58  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 600/900
+2026-11-01 15:50:22  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 700/900
+2026-11-01 15:50:46  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 800/900
+2026-11-01 15:51:09  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 900/900
+2026-11-01 15:51:09  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026         DONE acc=0.5722  n=900  206.9s

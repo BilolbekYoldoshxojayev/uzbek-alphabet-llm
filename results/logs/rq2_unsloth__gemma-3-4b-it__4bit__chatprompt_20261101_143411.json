@@ -1,0 +1,33 @@
+{
+ "time": "2026-11-01 14:34:11",
+ "model": "unsloth/gemma-3-4b-it",
+ "revision": "bf46152c47f5dd20b896357cb51abc4c03b8ee8c",
+ "load_4bit": true,
+ "adapter": null,
+ "prompt": "chat",
+ "dataset": "belebele_uzn",
+ "limit": null,
+ "seed": 42,
+ "template_sha256": "0d700020eb014214aa4e9a8d9cf5dfb4d6291e92bef3c8696e978937603fc6a4",
+ "letter_token_ids": [
+  236776,
+  236799,
+  236780,
+  236796
+ ],
+ "versions": {
+  "python": "3.12.10",
+  "torch": "2.9.0+cu128",
+  "transformers": "4.57.1",
+  "cuda": "12.8"
+ },
+ "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU",
+ "accuracy": {
+  "latin_okina": 0.6477777777777778,
+  "new2026": 0.59
+ },
+ "seconds": {
+  "latin_okina": 232.1,
+  "new2026": 241.7
+ }
+}

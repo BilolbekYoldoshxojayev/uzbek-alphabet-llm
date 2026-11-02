@@ -1,0 +1,82 @@
+2026-10-30 11:31:09  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-10-30 11:31:40  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-10-30 11:32:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 100/900
+2026-10-30 11:32:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 200/900
+2026-10-30 11:32:39  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 300/900
+2026-10-30 11:33:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 400/900
+2026-10-30 11:33:21  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 500/900
+2026-10-30 11:33:43  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 600/900
+2026-10-30 11:34:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 700/900
+2026-10-30 11:34:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 800/900
+2026-10-30 11:34:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 900/900
+2026-10-30 11:34:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina     DONE acc=0.6767  n=900  190.7s
+2026-10-30 11:35:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 100/900
+2026-10-30 11:35:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 200/900
+2026-10-30 11:35:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 300/900
+2026-10-30 11:36:13  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 400/900
+2026-10-30 11:36:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 500/900
+2026-10-30 11:36:56  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 600/900
+2026-10-30 11:37:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 700/900
+2026-10-30 11:37:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 800/900
+2026-10-30 11:38:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 900/900
+2026-10-30 11:38:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii     DONE acc=0.6744  n=900  192.2s
+2026-10-30 11:38:24  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 100/900
+2026-10-30 11:38:45  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 200/900
+2026-10-30 11:39:05  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 300/900
+2026-10-30 11:39:26  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 400/900
+2026-10-30 11:39:47  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 500/900
+2026-10-30 11:40:09  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 600/900
+2026-10-30 11:40:31  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 700/900
+2026-10-30 11:40:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 800/900
+2026-10-30 11:41:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 900/900
+2026-10-30 11:41:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick  DONE acc=0.6778  n=900  193.8s
+2026-10-30 11:41:38  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 100/900
+2026-10-30 11:41:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 200/900
+2026-10-30 11:42:19  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 300/900
+2026-10-30 11:42:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 400/900
+2026-10-30 11:43:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 500/900
+2026-10-30 11:43:23  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 600/900
+2026-10-30 11:43:44  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 700/900
+2026-10-30 11:44:07  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 800/900
+2026-10-30 11:44:31  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 900/900
+2026-10-30 11:44:31  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo     DONE acc=0.6889  n=900  193.5s
+2026-10-30 11:44:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 100/900
+2026-10-30 11:45:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 200/900
+2026-10-30 11:45:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 300/900
+2026-10-30 11:45:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 400/900
+2026-10-30 11:46:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 500/900
+2026-10-30 11:46:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 600/900
+2026-10-30 11:46:55  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 700/900
+2026-10-30 11:47:18  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 800/900
+2026-10-30 11:47:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 900/900
+2026-10-30 11:47:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026         DONE acc=0.5989  n=900  189.5s
+2026-10-30 11:48:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 100/900
+2026-10-30 11:48:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 200/900
+2026-10-30 11:48:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 300/900
+2026-10-30 11:49:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 400/900
+2026-10-30 11:49:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 500/900
+2026-10-30 11:50:08  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 600/900
+2026-10-30 11:50:33  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 700/900
+2026-10-30 11:51:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 800/900
+2026-10-30 11:51:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 900/900
+2026-10-30 11:51:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic        DONE acc=0.5822  n=900  228.7s
+2026-10-30 11:51:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 100/900
+2026-10-30 11:52:09  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 200/900
+2026-10-30 11:52:30  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 300/900
+2026-10-30 11:52:50  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 400/900
+2026-10-30 11:53:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 500/900
+2026-10-30 11:53:33  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 600/900
+2026-10-30 11:53:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 700/900
+2026-10-30 11:54:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 800/900
+2026-10-30 11:54:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 900/900
+2026-10-30 11:54:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og          DONE acc=0.6578  n=900  190.7s
+2026-10-30 11:55:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 100/900
+2026-10-30 11:55:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 200/900
+2026-10-30 11:55:43  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 300/900
+2026-10-30 11:56:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 400/900
+2026-10-30 11:56:26  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 500/900
+2026-10-30 11:56:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 600/900
+2026-10-30 11:57:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 700/900
+2026-10-30 11:57:35  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 800/900
+2026-10-30 11:57:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 900/900
+2026-10-30 11:57:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch        DONE acc=0.6356  n=900  198.6s

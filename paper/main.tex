@@ -1,0 +1,30 @@
+% 4-page short paper (SIGTURK / LoResLM, ACL format). The long arXiv version is main_long.tex.
+% Build: put acl.sty, acl_natbib.bst from https://github.com/acl-org/acl-style-files next to this
+% file (or upload the folder to Overleaf with the ACL template), then pdflatex + bibtex.
+% Every number below comes from results/ in this repo. \todo{...} marks what is still missing.
+\documentclass[11pt]{article}
+\usepackage[review]{acl}
+\usepackage{latexsym}
+\usepackage{iftex}
+\ifXeTeX
+  % Local preview with Tectonic (XeTeX): a system font that has Latin and Cyrillic.
+  \usepackage{fontspec}
+  \setmainfont{Times New Roman}
+  \newcommand{\cyrillic}[1]{#1}
+\else
+  % pdfLaTeX (Overleaf, the ACL default)
+  \usepackage{times}
+  \usepackage[T2A,T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \newcommand{\cyrillic}[1]{{\fontencoding{T2A}\selectfont #1}}
+\fi
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\newcommand{\todo}[1]{\textcolor{red}{[TODO: #1]}}
+\graphicspath{{../results/rq1/}{../results/rq2/}}
+
+\begin{document}
+\input{content}
+\end{document}

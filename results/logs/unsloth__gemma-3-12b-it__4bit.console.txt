@@ -1,0 +1,82 @@
+2026-10-30 12:37:23  [rq2] unsloth/gemma-3-12b-it @ 9478e66: downloading (if needed) and loading
+2026-10-30 12:38:10  [rq2] unsloth/gemma-3-12b-it: loaded, GPU memory 7.8 GB
+2026-10-30 12:38:52  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 100/900
+2026-10-30 12:39:29  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 200/900
+2026-10-30 12:40:08  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 300/900
+2026-10-30 12:40:45  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 400/900
+2026-10-30 12:41:23  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 500/900
+2026-10-30 12:42:04  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 600/900
+2026-10-30 12:42:45  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 700/900
+2026-10-30 12:43:23  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 800/900
+2026-10-30 12:44:02  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 900/900
+2026-10-30 12:44:02  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina     DONE acc=0.8489  n=900  352.5s
+2026-10-30 12:44:41  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 100/900
+2026-10-30 12:45:19  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 200/900
+2026-10-30 12:45:59  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 300/900
+2026-10-30 12:46:40  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 400/900
+2026-10-30 12:47:17  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 500/900
+2026-10-30 12:47:56  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 600/900
+2026-10-30 12:48:34  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 700/900
+2026-10-30 12:49:12  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 800/900
+2026-10-30 12:49:52  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 900/900
+2026-10-30 12:49:52  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii     DONE acc=0.8589  n=900  349.8s
+2026-10-30 12:50:33  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 100/900
+2026-10-30 12:51:10  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 200/900
+2026-10-30 12:51:47  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 300/900
+2026-10-30 12:52:26  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 400/900
+2026-10-30 12:53:03  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 500/900
+2026-10-30 12:53:42  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 600/900
+2026-10-30 12:54:24  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 700/900
+2026-10-30 12:55:03  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 800/900
+2026-10-30 12:55:40  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 900/900
+2026-10-30 12:55:40  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick  DONE acc=0.8578  n=900  348.3s
+2026-10-30 12:56:18  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 100/900
+2026-10-30 12:56:56  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 200/900
+2026-10-30 12:57:35  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 300/900
+2026-10-30 12:58:15  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 400/900
+2026-10-30 12:58:53  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 500/900
+2026-10-30 12:59:31  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 600/900
+2026-10-30 13:00:09  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 700/900
+2026-10-30 13:00:49  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 800/900
+2026-10-30 13:01:28  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 900/900
+2026-10-30 13:01:28  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo     DONE acc=0.8567  n=900  347.3s
+2026-10-30 13:02:07  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 100/900
+2026-10-30 13:02:46  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 200/900
+2026-10-30 13:03:22  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 300/900
+2026-10-30 13:04:00  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 400/900
+2026-10-30 13:04:38  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 500/900
+2026-10-30 13:05:17  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 600/900
+2026-10-30 13:05:56  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 700/900
+2026-10-30 13:06:37  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 800/900
+2026-10-30 13:07:15  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 900/900
+2026-10-30 13:07:15  [rq2] unsloth__gemma-3-12b-it__4bit new2026         DONE acc=0.8178  n=900  346.9s
+2026-10-30 13:07:52  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 100/900
+2026-10-30 13:08:32  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 200/900
+2026-10-30 13:09:10  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 300/900
+2026-10-30 13:09:48  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 400/900
+2026-10-30 13:10:37  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 500/900
+2026-10-30 13:11:25  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 600/900
+2026-10-30 13:12:13  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 700/900
+2026-10-30 13:12:51  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 800/900
+2026-10-30 13:13:28  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 900/900
+2026-10-30 13:13:28  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic        DONE acc=0.8422  n=900  373.4s
+2026-10-30 13:14:06  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 100/900
+2026-10-30 13:14:46  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 200/900
+2026-10-30 13:15:21  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 300/900
+2026-10-30 13:16:00  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 400/900
+2026-10-30 13:16:38  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 500/900
+2026-10-30 13:17:16  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 600/900
+2026-10-30 13:17:56  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 700/900
+2026-10-30 13:18:36  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 800/900
+2026-10-30 13:19:12  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 900/900
+2026-10-30 13:19:12  [rq2] unsloth__gemma-3-12b-it__4bit new_og          DONE acc=0.8389  n=900  344.3s
+2026-10-30 13:19:51  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 100/900
+2026-10-30 13:20:28  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 200/900
+2026-10-30 13:21:05  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 300/900
+2026-10-30 13:21:43  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 400/900
+2026-10-30 13:22:23  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 500/900
+2026-10-30 13:23:00  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 600/900
+2026-10-30 13:23:36  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 700/900
+2026-10-30 13:24:15  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 800/900
+2026-10-30 13:24:51  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 900/900
+2026-10-30 13:24:51  [rq2] unsloth__gemma-3-12b-it__4bit new_shch        DONE acc=0.8344  n=900  339.2s

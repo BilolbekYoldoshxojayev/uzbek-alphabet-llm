@@ -1,0 +1,27 @@
+.venv/
+external/
+data/raw/
+data/train/
+bin/
+obj/
+__pycache__/
+*.new.tsv
+tools/
+
+# Model weights and caches: rebuild them with the scripts
+*.safetensors
+*.bin
+*.pt
+*.gguf
+results/train/**/model/
+results/train/**/adapter/
+results/train/smoke/
+results/rq2_quarantine/
+
+# LaTeX build output
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.pdf

@@ -1,0 +1,31 @@
+{
+ "time": "2026-10-30 11:24:52",
+ "model": "Qwen/Qwen2.5-7B-Instruct",
+ "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+ "load_4bit": true,
+ "dataset": "belebele_uzn",
+ "limit": null,
+ "seed": 42,
+ "template_sha256": "0d700020eb014214aa4e9a8d9cf5dfb4d6291e92bef3c8696e978937603fc6a4",
+ "letter_token_ids": [
+  362,
+  425,
+  356,
+  422
+ ],
+ "versions": {
+  "python": "3.12.10",
+  "torch": "2.9.0+cu128",
+  "transformers": "4.57.1",
+  "cuda": "12.8"
+ },
+ "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU",
+ "accuracy": {
+  "new_og": 0.59,
+  "new_shch": 0.5977777777777777
+ },
+ "seconds": {
+  "new_og": 174.0,
+  "new_shch": 185.7
+ }
+}

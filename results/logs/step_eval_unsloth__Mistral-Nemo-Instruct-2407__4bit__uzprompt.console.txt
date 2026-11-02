@@ -1,0 +1,22 @@
+2026-11-01 16:03:02  [rq2] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: downloading (if needed) and loading
+2026-11-01 16:03:40  [rq2] unsloth/Mistral-Nemo-Instruct-2407: loaded, GPU memory 8.3 GB
+2026-11-01 16:04:05  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 100/900
+2026-11-01 16:04:30  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 200/900
+2026-11-01 16:04:54  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 300/900
+2026-11-01 16:05:18  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 400/900
+2026-11-01 16:05:42  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 500/900
+2026-11-01 16:06:09  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 600/900
+2026-11-01 16:06:34  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 700/900
+2026-11-01 16:07:01  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 800/900
+2026-11-01 16:07:28  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 900/900
+2026-11-01 16:07:28  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina     DONE acc=0.7189  n=900  227.6s
+2026-11-01 16:07:53  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 100/900
+2026-11-01 16:08:18  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 200/900
+2026-11-01 16:08:43  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 300/900
+2026-11-01 16:09:08  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 400/900
+2026-11-01 16:09:33  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 500/900
+2026-11-01 16:10:00  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 600/900
+2026-11-01 16:10:27  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 700/900
+2026-11-01 16:10:54  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 800/900
+2026-11-01 16:11:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 900/900
+2026-11-01 16:11:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026         DONE acc=0.6356  n=900  233.7s

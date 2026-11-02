@@ -1,0 +1,33 @@
+{
+ "time": "2026-11-01 14:48:52",
+ "model": "unsloth/Llama-3.1-8B-Instruct",
+ "revision": "4699cc75b550f9c6f3173fb80f4703b62d946aa5",
+ "load_4bit": true,
+ "adapter": null,
+ "prompt": "chat",
+ "dataset": "belebele_uzn",
+ "limit": null,
+ "seed": 42,
+ "template_sha256": "0d700020eb014214aa4e9a8d9cf5dfb4d6291e92bef3c8696e978937603fc6a4",
+ "letter_token_ids": [
+  32,
+  33,
+  34,
+  35
+ ],
+ "versions": {
+  "python": "3.12.10",
+  "torch": "2.9.0+cu128",
+  "transformers": "4.57.1",
+  "cuda": "12.8"
+ },
+ "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU",
+ "accuracy": {
+  "latin_okina": 0.6677777777777778,
+  "new2026": 0.5911111111111111
+ },
+ "seconds": {
+  "latin_okina": 185.8,
+  "new2026": 176.8
+ }
+}

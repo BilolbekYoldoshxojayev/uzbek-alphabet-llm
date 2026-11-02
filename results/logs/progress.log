@@ -1,0 +1,1782 @@
+2026-10-30 09:22:10  [queue] start: 6 models
+2026-10-30 09:22:11  [download] unsloth/gemma-3-4b-it: start
+2026-10-30 09:22:13  [download] unsloth/gemma-3-4b-it: FAILED OSError: [WinError 1314] A required privilege is not held by the client: '..\\..\\blobs\\719b0cd0d7a373a400b0c119ee0e051f41ea88d9' -> 'C:\\Users\\Bilolbek\\.cache\\huggingface\\hub\\models--unsloth--gemma-3-4b
+2026-10-30 09:22:13  [download] Qwen/Qwen2.5-7B-Instruct: start
+2026-10-30 09:22:22  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-10-30 09:22:35  [rq1] flores_dev: GPT-4o (o200k) done
+2026-10-30 09:22:36  [rq1] flores_dev: GPT-4 (cl100k) done
+2026-10-30 09:22:41  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.2 GB
+2026-10-30 09:22:49  [rq1] flores_dev: Llama 3.x done
+2026-10-30 09:22:53  [rq1] flores_dev: Qwen 2.5 done
+2026-10-30 09:22:56  [rq1] flores_dev: Qwen 3 done
+2026-10-30 09:23:00  [rq1] flores_dev: Gemma 3 done
+2026-10-30 09:23:03  [rq1] flores_dev: Mistral Nemo done
+2026-10-30 09:23:05  [rq1] flores_dev: Aya Expanse SKIPPED (OSError: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/CohereLabs/aya-)
+2026-10-30 09:23:08  [rq1] flores_dev: DeepSeek V3 done
+2026-10-30 09:23:10  [rq1] flores_dev: Phi-4 done
+2026-10-30 09:23:10  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 100/900
+2026-10-30 09:23:10  [rq1] flores_dev: UTF-8 bytes done
+2026-10-30 09:23:38  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 200/900
+2026-10-30 09:24:04  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 300/900
+2026-10-30 09:24:24  [rq3] flores_devtest: wrote results/rq3/flores_devtest_context.md and flores_devtest_cost.md
+2026-10-30 09:24:38  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 400/900
+2026-10-30 09:25:09  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 500/900
+2026-10-30 09:25:25  [ablations] belebele_uzn: wrote new_og, new_shch
+2026-10-30 09:25:25  [ablations] flores_devtest: wrote new_og, new_shch
+2026-10-30 09:25:25  [ablations] flores_dev: wrote new_og, new_shch
+2026-10-30 09:25:44  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 600/900
+2026-10-30 09:25:45  [rq1] flores_devtest: GPT-4o (o200k) done
+2026-10-30 09:25:45  [rq1] flores_devtest: GPT-4 (cl100k) done
+2026-10-30 09:26:06  [rq1] flores_devtest: Llama 3.x done
+2026-10-30 09:26:09  [rq1] flores_devtest: Qwen 2.5 done
+2026-10-30 09:26:13  [rq1] flores_devtest: Qwen 3 done
+2026-10-30 09:26:19  [rq1] flores_devtest: Gemma 3 done
+2026-10-30 09:26:20  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 700/900
+2026-10-30 09:26:23  [rq1] flores_devtest: Mistral Nemo done
+2026-10-30 09:26:24  [rq1] flores_devtest: Aya Expanse SKIPPED (OSError: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/CohereLabs/aya-)
+2026-10-30 09:26:28  [rq1] flores_devtest: DeepSeek V3 done
+2026-10-30 09:26:31  [rq1] flores_devtest: Phi-4 done
+2026-10-30 09:26:32  [rq1] flores_devtest: UTF-8 bytes done
+2026-10-30 09:26:54  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 800/900
+2026-10-30 09:27:27  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: 900/900
+2026-10-30 09:27:27  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina     DONE acc=0.5989  n=900  286.1s
+2026-10-30 09:27:57  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 100/900
+2026-10-30 09:28:27  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 200/900
+2026-10-30 09:28:54  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 300/900
+2026-10-30 09:29:19  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 400/900
+2026-10-30 09:29:44  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 500/900
+2026-10-30 09:30:08  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 600/900
+2026-10-30 09:30:31  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 700/900
+2026-10-30 09:30:54  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 800/900
+2026-10-30 09:31:19  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: 900/900
+2026-10-30 09:31:19  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii     DONE acc=0.6033  n=900  232.0s
+2026-10-30 09:31:44  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 100/900
+2026-10-30 09:32:09  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 200/900
+2026-10-30 09:32:34  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 300/900
+2026-10-30 09:32:58  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 400/900
+2026-10-30 09:33:22  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 500/900
+2026-10-30 09:33:46  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 600/900
+2026-10-30 09:34:10  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 700/900
+2026-10-30 09:34:34  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 800/900
+2026-10-30 09:35:01  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: 900/900
+2026-10-30 09:35:01  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick  DONE acc=0.5967  n=900  222.3s
+2026-10-30 09:35:27  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 100/900
+2026-10-30 09:35:51  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 200/900
+2026-10-30 09:36:16  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 300/900
+2026-10-30 09:36:40  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 400/900
+2026-10-30 09:37:06  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 500/900
+2026-10-30 09:37:33  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 600/900
+2026-10-30 09:37:57  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 700/900
+2026-10-30 09:38:20  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 800/900
+2026-10-30 09:38:44  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: 900/900
+2026-10-30 09:38:44  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo     DONE acc=0.6022  n=900  222.5s
+2026-10-30 09:39:10  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 100/900
+2026-10-30 09:39:39  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 200/900
+2026-10-30 09:40:09  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 300/900
+2026-10-30 09:40:39  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 400/900
+2026-10-30 09:41:09  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 500/900
+2026-10-30 09:41:37  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 600/900
+2026-10-30 09:42:08  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 700/900
+2026-10-30 09:42:37  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 800/900
+2026-10-30 09:43:04  [rq2] unsloth__gemma-3-4b-it__4bit new2026: 900/900
+2026-10-30 09:43:04  [rq2] unsloth__gemma-3-4b-it__4bit new2026         DONE acc=0.5311  n=900  260.2s
+2026-10-30 09:43:31  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 100/900
+2026-10-30 09:43:54  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 200/900
+2026-10-30 09:44:25  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 300/900
+2026-10-30 09:44:52  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 400/900
+2026-10-30 09:45:17  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 500/900
+2026-10-30 09:45:41  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 600/900
+2026-10-30 09:46:04  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 700/900
+2026-10-30 09:46:30  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 800/900
+2026-10-30 09:46:58  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: 900/900
+2026-10-30 09:46:58  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic        DONE acc=0.5733  n=900  234.5s
+2026-10-30 09:47:10  [queue] unsloth__gemma-3-4b-it__4bit: analyzed
+### unsloth__gemma-3-4b-it__4bit
+
+| condition      |   n | accuracy [95% CI]   | Δ vs okina, pts [95% CI]   | gained/lost   | McNemar p   |
+|:---------------|----:|:--------------------|:---------------------------|:--------------|:------------|
+| latin_okina    | 900 | 59.9 [56.8, 63.1]   | —                          | —             | —           |
+| latin_ascii    | 900 | 60.3 [57.3, 63.4]   | +0.4 [-0.7, +1.5]          | 15/11         | 0.557       |
+| latin_backtick | 900 | 59.7 [56.4, 62.9]   | -0.2 [-1.7, +1.1]          | 20/22         | 0.878       |
+| latin_rsquo    | 900 | 60.2 [57.0, 63.5]   | +0.3 [-0.9, +1.5]          | 16/13         | 0.711       |
+| new2026        | 900 | 53.1 [49.9, 56.4]   | -6.8 [-9.7, -4.0]          | 51/112        | 0.000       |
+| cyrillic       | 900 | 57.3 [53.9, 61.0]   | -2.6 [-5.5, +0.3]          | 83/106        | 0.109       |
+2026-10-30 09:47:54  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-10-30 10:04:35  [queue] start: 6 models
+2026-10-30 10:04:35  [queue] unsloth__gemma-3-4b-it__4bit: already complete, skipping
+2026-10-30 10:04:46  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-10-30 10:04:51  [queue] start: 6 models
+2026-10-30 10:05:03  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-10-30 10:05:26  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.2 GB
+2026-10-30 10:05:26  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: already complete, skipping
+2026-10-30 10:05:26  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: already complete, skipping
+2026-10-30 10:05:26  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: already complete, skipping
+2026-10-30 10:05:26  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: already complete, skipping
+2026-10-30 10:05:26  [rq2] unsloth__gemma-3-4b-it__4bit new2026: already complete, skipping
+2026-10-30 10:05:26  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: already complete, skipping
+2026-10-30 10:08:50  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-10-30 10:09:16  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 100/900
+2026-10-30 10:09:45  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 200/900
+2026-10-30 10:10:11  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 300/900
+2026-10-30 10:10:35  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 400/900
+2026-10-30 10:11:02  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 500/900
+2026-10-30 10:11:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 600/900
+2026-10-30 10:11:54  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 700/900
+2026-10-30 10:12:01  [prefetch] unsloth/Mistral-Nemo-Instruct-2407: downloading
+2026-10-30 10:12:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 800/900
+2026-10-30 10:12:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: 900/900
+2026-10-30 10:12:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina     DONE acc=0.6022  n=900  238.8s
+2026-10-30 10:13:13  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 100/900
+2026-10-30 10:13:38  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 200/900
+2026-10-30 10:14:02  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 300/900
+2026-10-30 10:14:27  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 400/900
+2026-10-30 10:14:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 500/900
+2026-10-30 10:15:17  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 600/900
+2026-10-30 10:15:43  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 700/900
+2026-10-30 10:16:11  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 800/900
+2026-10-30 10:16:38  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: 900/900
+2026-10-30 10:16:38  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii     DONE acc=0.5967  n=900  229.1s
+2026-10-30 10:17:02  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 100/900
+2026-10-30 10:17:27  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 200/900
+2026-10-30 10:17:51  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 300/900
+2026-10-30 10:18:16  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 400/900
+2026-10-30 10:18:42  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 500/900
+2026-10-30 10:19:08  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 600/900
+2026-10-30 10:19:34  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 700/900
+2026-10-30 10:20:02  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 800/900
+2026-10-30 10:20:30  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: 900/900
+2026-10-30 10:20:30  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick  DONE acc=0.5933  n=900  231.6s
+2026-10-30 10:20:55  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 100/900
+2026-10-30 10:21:20  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 200/900
+2026-10-30 10:21:45  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 300/900
+2026-10-30 10:22:10  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 400/900
+2026-10-30 10:22:36  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 500/900
+2026-10-30 10:23:04  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 600/900
+2026-10-30 10:23:32  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 700/900
+2026-10-30 10:24:02  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 800/900
+2026-10-30 10:24:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: 900/900
+2026-10-30 10:24:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo     DONE acc=0.6044  n=900  241.7s
+2026-10-30 10:24:57  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 100/900
+2026-10-30 10:25:23  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 200/900
+2026-10-30 10:25:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 300/900
+2026-10-30 10:26:15  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 400/900
+2026-10-30 10:26:41  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 500/900
+2026-10-30 10:27:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 600/900
+2026-10-30 10:27:36  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 700/900
+2026-10-30 10:28:05  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 800/900
+2026-10-30 10:28:34  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: 900/900
+2026-10-30 10:28:34  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026         DONE acc=0.5556  n=900  242.1s
+2026-10-30 10:29:04  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 100/900
+2026-10-30 10:29:35  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 200/900
+2026-10-30 10:30:05  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 300/900
+2026-10-30 10:30:36  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 400/900
+2026-10-30 10:31:07  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 500/900
+2026-10-30 10:31:41  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 600/900
+2026-10-30 10:32:14  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 700/900
+2026-10-30 10:32:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 800/900
+2026-10-30 10:33:25  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: 900/900
+2026-10-30 10:33:25  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic        DONE acc=0.5556  n=900  291.2s
+2026-10-30 10:33:34  [queue] Qwen__Qwen2.5-7B-Instruct__4bit: analyzed
+### Qwen__Qwen2.5-7B-Instruct__4bit
+
+| condition      |   n | accuracy [95% CI]   | Δ vs okina, pts [95% CI]   | gained/lost   | McNemar p   |
+|:---------------|----:|:--------------------|:---------------------------|:--------------|:------------|
+| latin_okina    | 900 | 60.2 [56.8, 63.7]   | —                          | —             | —           |
+| latin_ascii    | 900 | 59.7 [56.3, 63.0]   | -0.6 [-2.0, +0.9]          | 22/27         | 0.568       |
+| latin_backtick | 900 | 59.3 [56.2, 62.6]   | -0.9 [-2.3, +0.5]          | 17/25         | 0.280       |
+| latin_rsquo    | 900 | 60.4 [57.3, 63.8]   | +0.2 [-1.2, +1.8]          | 25/23         | 0.885       |
+| new2026        | 900 | 55.6 [52.4, 58.8]   | -4.7 [-7.4, -1.7]          | 68/110        | 0.002       |
+| cyrillic       | 900 | 55.6 [52.4, 58.8]   | -4.7 [-8.0, -1.6]          | 87/129        | 0.005       |
+2026-10-30 10:33:51  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-10-30 11:14:48  [queue] start: 6 models
+2026-10-30 11:14:48  [prefetch] unsloth/Mistral-Nemo-Instruct-2407: downloading
+2026-10-30 11:14:51  [prefetch] unsloth/Mistral-Nemo-Instruct-2407: FAILED OSError: [WinError 1314] A required privilege is not held by the client: '..\\..\\blobs\\cec7e36f1451270477569401d5c06af9df8f12da341ff446322796979a30d88b' -> '
+2026-10-30 11:14:51  [prefetch] unsloth/gemma-3-12b-it: downloading
+2026-10-30 11:14:59  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-10-30 11:15:23  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.2 GB
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit new2026: already complete, skipping
+2026-10-30 11:15:23  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: already complete, skipping
+2026-10-30 11:15:58  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 100/900
+2026-10-30 11:16:31  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 200/900
+2026-10-30 11:16:58  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 300/900
+2026-10-30 11:17:31  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 400/900
+2026-10-30 11:17:53  [prefetch] unsloth/Mistral-Nemo-Instruct-2407: downloading
+2026-10-30 11:17:55  [prefetch] unsloth/Mistral-Nemo-Instruct-2407: done (22.8 GB)
+2026-10-30 11:17:55  [prefetch] unsloth/gemma-3-12b-it: downloading
+2026-10-30 11:18:00  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 500/900
+2026-10-30 11:18:28  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 600/900
+2026-10-30 11:18:57  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 700/900
+2026-10-30 11:19:27  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 800/900
+2026-10-30 11:19:59  [rq2] unsloth__gemma-3-4b-it__4bit new_og: 900/900
+2026-10-30 11:19:59  [rq2] unsloth__gemma-3-4b-it__4bit new_og          DONE acc=0.5856  n=900  276.7s
+2026-10-30 11:20:31  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 100/900
+2026-10-30 11:21:04  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 200/900
+2026-10-30 11:21:32  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 300/900
+2026-10-30 11:22:02  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 400/900
+2026-10-30 11:22:31  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 500/900
+2026-10-30 11:22:55  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 600/900
+2026-10-30 11:23:21  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 700/900
+2026-10-30 11:23:46  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 800/900
+2026-10-30 11:24:11  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: 900/900
+2026-10-30 11:24:11  [rq2] unsloth__gemma-3-4b-it__4bit new_shch        DONE acc=0.5600  n=900  251.1s
+2026-10-30 11:24:16  [queue] unsloth__gemma-3-4b-it__4bit: analyzed
+### unsloth__gemma-3-4b-it__4bit
+
+| condition      |   n | accuracy [95% CI]   | Δ vs okina, pts [95% CI]   | gained/lost   | McNemar p   |
+|:---------------|----:|:--------------------|:---------------------------|:--------------|:------------|
+| latin_okina    | 900 | 59.9 [56.8, 63.1]   | —                          | —             | —           |
+| latin_ascii    | 900 | 60.3 [57.3, 63.4]   | +0.4 [-0.7, +1.5]          | 15/11         | 0.557       |
+| latin_backtick | 900 | 59.7 [56.4, 62.9]   | -0.2 [-1.7, +1.1]          | 20/22         | 0.878       |
+| latin_rsquo    | 900 | 60.2 [57.0, 63.5]   | +0.3 [-0.9, +1.5]          | 16/13         | 0.711       |
+| new2026        | 900 | 53.1 [49.9, 56.4]   | -6.8 [-9.7, -4.0]          | 51/112        | 0.000       |
+| cyrillic       | 900 | 57.3 [53.9, 61.0]   | -2.6 [-5.5, +0.3]          | 83/106        | 0.109       |
+| new_og         | 900 | 58.6 [55.3, 61.8]   | -1.3 [-3.6, +0.8]          | 39/51         | 0.246       |
+| new_shch       | 900 | 56.0 [52.6, 59.6]   | -3.9 [-6.6, -1.0]          | 53/88         | 0.004       |
+2026-10-30 11:24:26  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-10-30 11:24:52  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: already complete, skipping
+2026-10-30 11:25:10  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 100/900
+2026-10-30 11:25:27  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 200/900
+2026-10-30 11:25:44  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 300/900
+2026-10-30 11:26:01  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 400/900
+2026-10-30 11:26:19  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 500/900
+2026-10-30 11:26:40  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 600/900
+2026-10-30 11:27:00  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 700/900
+2026-10-30 11:27:23  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 800/900
+2026-10-30 11:27:46  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 900/900
+2026-10-30 11:27:46  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og          DONE acc=0.5900  n=900  174.0s
+2026-10-30 11:28:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 100/900
+2026-10-30 11:28:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 200/900
+2026-10-30 11:28:50  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 300/900
+2026-10-30 11:29:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 400/900
+2026-10-30 11:29:29  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 500/900
+2026-10-30 11:29:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 600/900
+2026-10-30 11:30:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 700/900
+2026-10-30 11:30:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 800/900
+2026-10-30 11:30:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 900/900
+2026-10-30 11:30:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch        DONE acc=0.5978  n=900  185.7s
+2026-10-30 11:30:57  [queue] Qwen__Qwen2.5-7B-Instruct__4bit: analyzed
+### Qwen__Qwen2.5-7B-Instruct__4bit
+
+| condition      |   n | accuracy [95% CI]   | Δ vs okina, pts [95% CI]   | gained/lost   | McNemar p   |
+|:---------------|----:|:--------------------|:---------------------------|:--------------|:------------|
+| latin_okina    | 900 | 60.2 [56.8, 63.7]   | —                          | —             | —           |
+| latin_ascii    | 900 | 59.7 [56.3, 63.0]   | -0.6 [-2.0, +0.9]          | 22/27         | 0.568       |
+| latin_backtick | 900 | 59.3 [56.2, 62.6]   | -0.9 [-2.3, +0.5]          | 17/25         | 0.280       |
+| latin_rsquo    | 900 | 60.4 [57.3, 63.8]   | +0.2 [-1.2, +1.8]          | 25/23         | 0.885       |
+| new2026        | 900 | 55.6 [52.4, 58.8]   | -4.7 [-7.4, -1.7]          | 68/110        | 0.002       |
+| cyrillic       | 900 | 55.6 [52.4, 58.8]   | -4.7 [-8.0, -1.6]          | 87/129        | 0.005       |
+| new_og         | 900 | 59.0 [55.6, 62.3]   | -1.2 [-3.2, +0.9]          | 40/51         | 0.294       |
+| new_shch       | 900 | 59.8 [56.5, 63.0]   | -0.4 [-3.1, +2.2]          | 70/74         | 0.803       |
+2026-10-30 11:31:09  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-10-30 11:31:40  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-10-30 11:32:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 100/900
+2026-10-30 11:32:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 200/900
+2026-10-30 11:32:39  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 300/900
+2026-10-30 11:33:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 400/900
+2026-10-30 11:33:21  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 500/900
+2026-10-30 11:33:43  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 600/900
+2026-10-30 11:34:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 700/900
+2026-10-30 11:34:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 800/900
+2026-10-30 11:34:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 900/900
+2026-10-30 11:34:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina     DONE acc=0.6767  n=900  190.7s
+2026-10-30 11:35:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 100/900
+2026-10-30 11:35:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 200/900
+2026-10-30 11:35:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 300/900
+2026-10-30 11:36:13  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 400/900
+2026-10-30 11:36:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 500/900
+2026-10-30 11:36:56  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 600/900
+2026-10-30 11:37:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 700/900
+2026-10-30 11:37:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 800/900
+2026-10-30 11:38:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 900/900
+2026-10-30 11:38:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii     DONE acc=0.6744  n=900  192.2s
+2026-10-30 11:38:24  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 100/900
+2026-10-30 11:38:45  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 200/900
+2026-10-30 11:39:05  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 300/900
+2026-10-30 11:39:26  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 400/900
+2026-10-30 11:39:47  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 500/900
+2026-10-30 11:40:09  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 600/900
+2026-10-30 11:40:31  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 700/900
+2026-10-30 11:40:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 800/900
+2026-10-30 11:41:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 900/900
+2026-10-30 11:41:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick  DONE acc=0.6778  n=900  193.8s
+2026-10-30 11:41:38  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 100/900
+2026-10-30 11:41:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 200/900
+2026-10-30 11:42:19  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 300/900
+2026-10-30 11:42:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 400/900
+2026-10-30 11:43:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 500/900
+2026-10-30 11:43:23  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 600/900
+2026-10-30 11:43:44  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 700/900
+2026-10-30 11:44:07  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 800/900
+2026-10-30 11:44:31  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 900/900
+2026-10-30 11:44:31  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo     DONE acc=0.6889  n=900  193.5s
+2026-10-30 11:44:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 100/900
+2026-10-30 11:45:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 200/900
+2026-10-30 11:45:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 300/900
+2026-10-30 11:45:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 400/900
+2026-10-30 11:46:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 500/900
+2026-10-30 11:46:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 600/900
+2026-10-30 11:46:55  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 700/900
+2026-10-30 11:47:18  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 800/900
+2026-10-30 11:47:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 900/900
+2026-10-30 11:47:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026         DONE acc=0.5989  n=900  189.5s
+2026-10-30 11:47:56  [prefetch] unsloth/gemma-3-12b-it: done (22.7 GB)
+2026-10-30 11:47:56  [prefetch] Qwen/Qwen3-8B: downloading
+2026-10-30 11:48:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 100/900
+2026-10-30 11:48:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 200/900
+2026-10-30 11:48:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 300/900
+2026-10-30 11:49:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 400/900
+2026-10-30 11:49:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 500/900
+2026-10-30 11:50:08  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 600/900
+2026-10-30 11:50:33  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 700/900
+2026-10-30 11:51:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 800/900
+2026-10-30 11:51:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 900/900
+2026-10-30 11:51:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic        DONE acc=0.5822  n=900  228.7s
+2026-10-30 11:51:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 100/900
+2026-10-30 11:52:09  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 200/900
+2026-10-30 11:52:30  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 300/900
+2026-10-30 11:52:50  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 400/900
+2026-10-30 11:53:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 500/900
+2026-10-30 11:53:33  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 600/900
+2026-10-30 11:53:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 700/900
+2026-10-30 11:54:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 800/900
+2026-10-30 11:54:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 900/900
+2026-10-30 11:54:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og          DONE acc=0.6578  n=900  190.7s
+2026-10-30 11:55:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 100/900
+2026-10-30 11:55:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 200/900
+2026-10-30 11:55:43  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 300/900
+2026-10-30 11:56:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 400/900
+2026-10-30 11:56:26  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 500/900
+2026-10-30 11:56:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 600/900
+2026-10-30 11:57:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 700/900
+2026-10-30 11:57:35  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 800/900
+2026-10-30 11:57:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 900/900
+2026-10-30 11:57:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch        DONE acc=0.6356  n=900  198.6s
+2026-10-30 11:58:04  [queue] unsloth__Llama-3.1-8B-Instruct__4bit: analyzed
+### unsloth__Llama-3.1-8B-Instruct__4bit
+
+| condition      |   n | accuracy [95% CI]   | Δ vs okina, pts [95% CI]   | gained/lost   | McNemar p   |
+|:---------------|----:|:--------------------|:---------------------------|:--------------|:------------|
+| latin_okina    | 900 | 67.7 [64.3, 70.7]   | —                          | —             | —           |
+| latin_ascii    | 900 | 67.4 [64.4, 70.3]   | -0.2 [-1.7, +1.3]          | 27/29         | 0.894       |
+| latin_backtick | 900 | 67.8 [64.7, 70.8]   | +0.1 [-1.6, +1.8]          | 32/31         | 1.000       |
+| latin_rsquo    | 900 | 68.9 [65.8, 71.9]   | +1.2 [-0.4, +3.0]          | 36/25         | 0.200       |
+| new2026        | 900 | 59.9 [56.8, 63.1]   | -7.8 [-10.4, -4.9]         | 55/125        | 0.000       |
+| cyrillic       | 900 | 58.2 [54.9, 61.4]   | -9.4 [-12.4, -6.2]         | 69/154        | 0.000       |
+| new_og         | 900 | 65.8 [62.5, 68.8]   | -1.9 [-4.0, +0.1]          | 40/57         | 0.104       |
+| new_shch       | 900 | 63.6 [60.5, 66.6]   | -4.1 [-6.2, -2.1]          | 31/68         | 0.000       |
+2026-10-30 11:58:15  [rq2] Qwen/Qwen3-8B @ b968826: downloading (if needed) and loading
+2026-10-30 12:05:23  [prefetch] Qwen/Qwen3-8B: done (15.3 GB)
+2026-10-30 12:05:23  [prefetch] unsloth/Llama-3.1-8B-Instruct: queue already started it, skipping
+2026-10-30 12:05:23  [prefetch] Qwen/Qwen2.5-7B-Instruct: queue already started it, skipping
+2026-10-30 12:05:23  [prefetch] unsloth/gemma-3-4b-it: queue already started it, skipping
+2026-10-30 12:05:23  [prefetch] finished
+2026-10-30 12:05:45  [rq2] Qwen/Qwen3-8B: loaded, GPU memory 6.0 GB
+2026-10-30 12:06:11  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 100/900
+2026-10-30 12:06:34  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 200/900
+2026-10-30 12:06:55  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 300/900
+2026-10-30 12:07:19  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 400/900
+2026-10-30 12:07:41  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 500/900
+2026-10-30 12:08:04  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 600/900
+2026-10-30 12:08:28  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 700/900
+2026-10-30 12:08:53  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 800/900
+2026-10-30 12:09:17  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 900/900
+2026-10-30 12:09:17  [rq2] Qwen__Qwen3-8B__4bit latin_okina     DONE acc=0.6967  n=900  212.0s
+2026-10-30 12:09:40  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 100/900
+2026-10-30 12:10:03  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 200/900
+2026-10-30 12:10:25  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 300/900
+2026-10-30 12:10:47  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 400/900
+2026-10-30 12:11:10  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 500/900
+2026-10-30 12:11:35  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 600/900
+2026-10-30 12:11:59  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 700/900
+2026-10-30 12:12:25  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 800/900
+2026-10-30 12:12:50  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 900/900
+2026-10-30 12:12:50  [rq2] Qwen__Qwen3-8B__4bit latin_ascii     DONE acc=0.7056  n=900  213.1s
+2026-10-30 12:13:14  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 100/900
+2026-10-30 12:13:38  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 200/900
+2026-10-30 12:14:01  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 300/900
+2026-10-30 12:14:39  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 400/900
+2026-10-30 12:15:21  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 500/900
+2026-10-30 12:15:59  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 600/900
+2026-10-30 12:16:29  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 700/900
+2026-10-30 12:17:10  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 800/900
+2026-10-30 12:17:35  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 900/900
+2026-10-30 12:17:35  [rq2] Qwen__Qwen3-8B__4bit latin_backtick  DONE acc=0.7011  n=900  284.3s
+2026-10-30 12:18:01  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 100/900
+2026-10-30 12:18:28  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 200/900
+2026-10-30 12:18:53  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 300/900
+2026-10-30 12:19:18  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 400/900
+2026-10-30 12:19:43  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 500/900
+2026-10-30 12:20:10  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 600/900
+2026-10-30 12:20:35  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 700/900
+2026-10-30 12:21:01  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 800/900
+2026-10-30 12:21:26  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 900/900
+2026-10-30 12:21:26  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo     DONE acc=0.7022  n=900  231.6s
+2026-10-30 12:21:52  [rq2] Qwen__Qwen3-8B__4bit new2026: 100/900
+2026-10-30 12:22:18  [rq2] Qwen__Qwen3-8B__4bit new2026: 200/900
+2026-10-30 12:22:45  [rq2] Qwen__Qwen3-8B__4bit new2026: 300/900
+2026-10-30 12:23:10  [rq2] Qwen__Qwen3-8B__4bit new2026: 400/900
+2026-10-30 12:23:34  [rq2] Qwen__Qwen3-8B__4bit new2026: 500/900
+2026-10-30 12:24:01  [rq2] Qwen__Qwen3-8B__4bit new2026: 600/900
+2026-10-30 12:24:26  [rq2] Qwen__Qwen3-8B__4bit new2026: 700/900
+2026-10-30 12:24:51  [rq2] Qwen__Qwen3-8B__4bit new2026: 800/900
+2026-10-30 12:25:16  [rq2] Qwen__Qwen3-8B__4bit new2026: 900/900
+2026-10-30 12:25:16  [rq2] Qwen__Qwen3-8B__4bit new2026         DONE acc=0.6533  n=900  229.7s
+2026-10-30 12:25:43  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 100/900
+2026-10-30 12:26:11  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 200/900
+2026-10-30 12:26:38  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 300/900
+2026-10-30 12:27:03  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 400/900
+2026-10-30 12:27:30  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 500/900
+2026-10-30 12:28:00  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 600/900
+2026-10-30 12:28:27  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 700/900
+2026-10-30 12:28:57  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 800/900
+2026-10-30 12:29:26  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 900/900
+2026-10-30 12:29:26  [rq2] Qwen__Qwen3-8B__4bit cyrillic        DONE acc=0.6633  n=900  250.0s
+2026-10-30 12:29:52  [rq2] Qwen__Qwen3-8B__4bit new_og: 100/900
+2026-10-30 12:30:18  [rq2] Qwen__Qwen3-8B__4bit new_og: 200/900
+2026-10-30 12:30:43  [rq2] Qwen__Qwen3-8B__4bit new_og: 300/900
+2026-10-30 12:31:08  [rq2] Qwen__Qwen3-8B__4bit new_og: 400/900
+2026-10-30 12:31:32  [rq2] Qwen__Qwen3-8B__4bit new_og: 500/900
+2026-10-30 12:31:58  [rq2] Qwen__Qwen3-8B__4bit new_og: 600/900
+2026-10-30 12:32:23  [rq2] Qwen__Qwen3-8B__4bit new_og: 700/900
+2026-10-30 12:32:50  [rq2] Qwen__Qwen3-8B__4bit new_og: 800/900
+2026-10-30 12:33:15  [rq2] Qwen__Qwen3-8B__4bit new_og: 900/900
+2026-10-30 12:33:15  [rq2] Qwen__Qwen3-8B__4bit new_og          DONE acc=0.6789  n=900  229.0s
+2026-10-30 12:33:40  [rq2] Qwen__Qwen3-8B__4bit new_shch: 100/900
+2026-10-30 12:34:07  [rq2] Qwen__Qwen3-8B__4bit new_shch: 200/900
+2026-10-30 12:34:32  [rq2] Qwen__Qwen3-8B__4bit new_shch: 300/900
+2026-10-30 12:34:57  [rq2] Qwen__Qwen3-8B__4bit new_shch: 400/900
+2026-10-30 12:35:22  [rq2] Qwen__Qwen3-8B__4bit new_shch: 500/900
+2026-10-30 12:35:48  [rq2] Qwen__Qwen3-8B__4bit new_shch: 600/900
+2026-10-30 12:36:14  [rq2] Qwen__Qwen3-8B__4bit new_shch: 700/900
+2026-10-30 12:36:40  [rq2] Qwen__Qwen3-8B__4bit new_shch: 800/900
+2026-10-30 12:37:06  [rq2] Qwen__Qwen3-8B__4bit new_shch: 900/900
+2026-10-30 12:37:06  [rq2] Qwen__Qwen3-8B__4bit new_shch        DONE acc=0.6856  n=900  230.5s
+2026-10-30 12:37:12  [queue] Qwen__Qwen3-8B__4bit: analyzed
+### Qwen__Qwen3-8B__4bit
+
+| condition      |   n | accuracy [95% CI]   | Δ vs okina, pts [95% CI]   | gained/lost   | McNemar p   |
+|:---------------|----:|:--------------------|:---------------------------|:--------------|:------------|
+| latin_okina    | 900 | 69.7 [66.4, 72.7]   | —                          | —             | —           |
+| latin_ascii    | 900 | 70.6 [67.6, 73.5]   | +0.9 [-0.3, +2.2]          | 18/10         | 0.185       |
+| latin_backtick | 900 | 70.1 [67.1, 73.2]   | +0.4 [-0.6, +1.6]          | 15/11         | 0.557       |
+| latin_rsquo    | 900 | 70.2 [67.2, 73.3]   | +0.6 [-0.4, +1.7]          | 16/11         | 0.442       |
+| new2026        | 900 | 65.3 [62.1, 68.4]   | -4.3 [-6.5, -2.0]          | 35/74         | 0.000       |
+| cyrillic       | 900 | 66.3 [63.0, 69.6]   | -3.3 [-5.9, -0.8]          | 58/88         | 0.016       |
+| new_og         | 900 | 67.9 [64.8, 71.1]   | -1.8 [-3.3, +0.0]          | 23/39         | 0.056       |
+| new_shch       | 900 | 68.6 [65.4, 71.7]   | -1.1 [-3.0, +0.8]          | 31/41         | 0.289       |
+2026-10-30 12:37:23  [rq2] unsloth/gemma-3-12b-it @ 9478e66: downloading (if needed) and loading
+2026-10-30 12:38:10  [rq2] unsloth/gemma-3-12b-it: loaded, GPU memory 7.8 GB
+2026-10-30 12:38:52  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 100/900
+2026-10-30 12:39:29  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 200/900
+2026-10-30 12:40:08  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 300/900
+2026-10-30 12:40:45  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 400/900
+2026-10-30 12:41:23  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 500/900
+2026-10-30 12:42:04  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 600/900
+2026-10-30 12:42:45  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 700/900
+2026-10-30 12:43:23  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 800/900
+2026-10-30 12:44:02  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: 900/900
+2026-10-30 12:44:02  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina     DONE acc=0.8489  n=900  352.5s
+2026-10-30 12:44:41  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 100/900
+2026-10-30 12:45:19  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 200/900
+2026-10-30 12:45:59  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 300/900
+2026-10-30 12:46:40  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 400/900
+2026-10-30 12:47:17  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 500/900
+2026-10-30 12:47:56  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 600/900
+2026-10-30 12:48:34  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 700/900
+2026-10-30 12:49:12  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 800/900
+2026-10-30 12:49:52  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: 900/900
+2026-10-30 12:49:52  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii     DONE acc=0.8589  n=900  349.8s
+2026-10-30 12:50:33  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 100/900
+2026-10-30 12:51:10  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 200/900
+2026-10-30 12:51:47  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 300/900
+2026-10-30 12:52:26  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 400/900
+2026-10-30 12:53:03  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 500/900
+2026-10-30 12:53:42  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 600/900
+2026-10-30 12:54:24  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 700/900
+2026-10-30 12:55:03  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 800/900
+2026-10-30 12:55:40  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: 900/900
+2026-10-30 12:55:40  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick  DONE acc=0.8578  n=900  348.3s
+2026-10-30 12:56:18  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 100/900
+2026-10-30 12:56:56  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 200/900
+2026-10-30 12:57:35  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 300/900
+2026-10-30 12:58:15  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 400/900
+2026-10-30 12:58:53  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 500/900
+2026-10-30 12:59:31  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 600/900
+2026-10-30 13:00:09  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 700/900
+2026-10-30 13:00:49  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 800/900
+2026-10-30 13:01:28  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: 900/900
+2026-10-30 13:01:28  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo     DONE acc=0.8567  n=900  347.3s
+2026-10-30 13:02:07  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 100/900
+2026-10-30 13:02:46  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 200/900
+2026-10-30 13:03:22  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 300/900
+2026-10-30 13:04:00  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 400/900
+2026-10-30 13:04:38  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 500/900
+2026-10-30 13:05:17  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 600/900
+2026-10-30 13:05:56  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 700/900
+2026-10-30 13:06:37  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 800/900
+2026-10-30 13:07:15  [rq2] unsloth__gemma-3-12b-it__4bit new2026: 900/900
+2026-10-30 13:07:15  [rq2] unsloth__gemma-3-12b-it__4bit new2026         DONE acc=0.8178  n=900  346.9s
+2026-10-30 13:07:52  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 100/900
+2026-10-30 13:08:32  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 200/900
+2026-10-30 13:09:10  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 300/900
+2026-10-30 13:09:48  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 400/900
+2026-10-30 13:10:37  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 500/900
+2026-10-30 13:11:25  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 600/900
+2026-10-30 13:12:13  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 700/900
+2026-10-30 13:12:51  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 800/900
+2026-10-30 13:13:28  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: 900/900
+2026-10-30 13:13:28  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic        DONE acc=0.8422  n=900  373.4s
+2026-10-30 13:14:06  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 100/900
+2026-10-30 13:14:46  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 200/900
+2026-10-30 13:15:21  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 300/900
+2026-10-30 13:16:00  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 400/900
+2026-10-30 13:16:38  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 500/900
+2026-10-30 13:17:16  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 600/900
+2026-10-30 13:17:56  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 700/900
+2026-10-30 13:18:36  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 800/900
+2026-10-30 13:19:12  [rq2] unsloth__gemma-3-12b-it__4bit new_og: 900/900
+2026-10-30 13:19:12  [rq2] unsloth__gemma-3-12b-it__4bit new_og          DONE acc=0.8389  n=900  344.3s
+2026-10-30 13:19:51  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 100/900
+2026-10-30 13:20:28  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 200/900
+2026-10-30 13:21:05  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 300/900
+2026-10-30 13:21:43  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 400/900
+2026-10-30 13:22:23  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 500/900
+2026-10-30 13:23:00  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 600/900
+2026-10-30 13:23:36  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 700/900
+2026-10-30 13:24:15  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 800/900
+2026-10-30 13:24:51  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: 900/900
+2026-10-30 13:24:51  [rq2] unsloth__gemma-3-12b-it__4bit new_shch        DONE acc=0.8344  n=900  339.2s
+2026-10-30 13:24:58  [queue] unsloth__gemma-3-12b-it__4bit: analyzed
+### unsloth__gemma-3-12b-it__4bit
+
+| condition      |   n | accuracy [95% CI]   | Δ vs okina, pts [95% CI]   | gained/lost   | McNemar p   |
+|:---------------|----:|:--------------------|:---------------------------|:--------------|:------------|
+| latin_okina    | 900 | 84.9 [82.3, 87.3]   | —                          | —             | —           |
+| latin_ascii    | 900 | 85.9 [83.6, 88.1]   | +1.0 [+0.1, +1.9]          | 13/4          | 0.049       |
+| latin_backtick | 900 | 85.8 [83.4, 88.2]   | +0.9 [-0.1, +1.9]          | 14/6          | 0.115       |
+| latin_rsquo    | 900 | 85.7 [83.3, 88.0]   | +0.8 [+0.0, +1.8]          | 12/5          | 0.143       |
+| new2026        | 900 | 81.8 [79.2, 84.4]   | -3.1 [-4.8, -1.4]          | 16/44         | 0.000       |
+| cyrillic       | 900 | 84.2 [81.8, 86.6]   | -0.7 [-2.4, +1.2]          | 29/35         | 0.532       |
+| new_og         | 900 | 83.9 [81.4, 86.2]   | -1.0 [-2.2, +0.3]          | 14/23         | 0.188       |
+| new_shch       | 900 | 83.4 [80.9, 85.9]   | -1.4 [-3.1, +0.1]          | 20/33         | 0.098       |
+2026-10-30 13:25:10  [rq2] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: downloading (if needed) and loading
+2026-10-30 13:25:19  [queue] unsloth__Mistral-Nemo-Instruct-2407__4bit: FAILED (exit 1), see results/logs/unsloth__Mistral-Nemo-Instruct-2407__4bit.console.txt; continuing
+2026-10-30 13:25:19  [queue] all models finished
+2026-10-30 13:27:01  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00001-of-00005.safetensors: BAD (4865522496 bytes), re-downloading
+2026-10-30 13:37:07  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00001-of-00005.safetensors: STILL BAD
+2026-10-30 13:37:15  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00002-of-00005.safetensors: BAD (4907529424 bytes), re-downloading
+2026-10-30 13:40:37  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-10-30 13:40:55  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 8.0 GB
+2026-10-30 13:41:15  [rq2] unsloth__gemma-3-4b-it new_og: 100/900
+2026-10-30 13:41:36  [rq2] unsloth__gemma-3-4b-it new_og: 200/900
+2026-10-30 13:42:02  [rq2] unsloth__gemma-3-4b-it new_og: 300/900
+2026-10-30 13:42:28  [rq2] unsloth__gemma-3-4b-it new_og: 400/900
+2026-10-30 13:42:51  [rq2] unsloth__gemma-3-4b-it new_og: 500/900
+2026-10-30 13:43:09  [rq2] unsloth__gemma-3-4b-it new_og: 600/900
+2026-10-30 13:43:30  [rq2] unsloth__gemma-3-4b-it new_og: 700/900
+2026-10-30 13:43:53  [rq2] unsloth__gemma-3-4b-it new_og: 800/900
+2026-10-30 13:44:19  [rq2] unsloth__gemma-3-4b-it new_og: 900/900
+2026-10-30 13:44:19  [rq2] unsloth__gemma-3-4b-it new_og          DONE acc=0.6089  n=900  203.6s
+2026-10-30 13:44:41  [rq2] unsloth__gemma-3-4b-it new_shch: 100/900
+2026-10-30 13:45:04  [rq2] unsloth__gemma-3-4b-it new_shch: 200/900
+2026-10-30 13:45:21  [rq2] unsloth__gemma-3-4b-it new_shch: 300/900
+2026-10-30 13:45:41  [rq2] unsloth__gemma-3-4b-it new_shch: 400/900
+2026-10-30 13:45:41  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00002-of-00005.safetensors: fixed
+2026-10-30 13:45:49  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00003-of-00005.safetensors: BAD (4907529456 bytes), re-downloading
+2026-10-30 13:45:58  [rq2] unsloth__gemma-3-4b-it new_shch: 500/900
+2026-10-30 13:46:19  [rq2] unsloth__gemma-3-4b-it new_shch: 600/900
+2026-10-30 13:46:42  [rq2] unsloth__gemma-3-4b-it new_shch: 700/900
+2026-10-30 13:47:06  [rq2] unsloth__gemma-3-4b-it new_shch: 800/900
+2026-10-30 13:47:29  [rq2] unsloth__gemma-3-4b-it new_shch: 900/900
+2026-10-30 13:47:29  [rq2] unsloth__gemma-3-4b-it new_shch        DONE acc=0.5811  n=900  190.3s
+2026-10-30 13:53:29  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00003-of-00005.safetensors: STILL BAD
+2026-10-30 13:53:37  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00004-of-00005.safetensors: BAD (4907529456 bytes), re-downloading
+2026-10-30 13:59:41  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00004-of-00005.safetensors: STILL BAD
+2026-10-30 13:59:49  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00005-of-00005.safetensors: BAD (4907496272 bytes), re-downloading
+2026-10-30 14:05:48  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00005-of-00005.safetensors: STILL BAD
+2026-10-30 14:05:48  [repair] unsloth/Mistral-Nemo-Instruct-2407: finished
+2026-10-30 14:07:03  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00001-of-00005.safetensors: fixed
+2026-10-30 14:07:12  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00002-of-00005.safetensors: ok
+2026-10-30 14:07:50  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00003-of-00005.safetensors: fixed
+2026-10-30 14:08:27  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00004-of-00005.safetensors: fixed
+2026-10-30 14:09:06  [repair] unsloth/Mistral-Nemo-Instruct-2407 model-00005-of-00005.safetensors: fixed
+2026-10-30 14:09:06  [repair] unsloth/Mistral-Nemo-Instruct-2407: finished
+2026-10-30 14:09:33  [rq2] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: downloading (if needed) and loading
+2026-10-30 14:10:14  [rq2] unsloth/Mistral-Nemo-Instruct-2407: loaded, GPU memory 8.3 GB
+2026-10-30 14:10:38  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 100/900
+2026-10-30 14:11:02  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 200/900
+2026-10-30 14:11:26  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 300/900
+2026-10-30 14:11:50  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 400/900
+2026-10-30 14:12:16  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 500/900
+2026-10-30 14:12:45  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 600/900
+2026-10-30 14:13:13  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 700/900
+2026-10-30 14:13:43  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 800/900
+2026-10-30 14:14:13  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: 900/900
+2026-10-30 14:14:13  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina     DONE acc=0.7467  n=900  239.1s
+2026-10-30 14:14:40  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 100/900
+2026-10-30 14:15:09  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 200/900
+2026-10-30 14:15:38  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 300/900
+2026-10-30 14:16:05  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 400/900
+2026-10-30 14:16:34  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 500/900
+2026-10-30 14:17:04  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 600/900
+2026-10-30 14:17:34  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 700/900
+2026-10-30 14:18:05  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 800/900
+2026-10-30 14:18:36  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: 900/900
+2026-10-30 14:18:36  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii     DONE acc=0.7533  n=900  262.7s
+2026-10-30 14:19:04  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 100/900
+2026-10-30 14:19:33  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 200/900
+2026-10-30 14:20:02  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 300/900
+2026-10-30 14:20:29  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 400/900
+2026-10-30 14:20:58  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 500/900
+2026-10-30 14:21:29  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 600/900
+2026-10-30 14:21:59  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 700/900
+2026-10-30 14:22:31  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 800/900
+2026-10-30 14:23:03  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: 900/900
+2026-10-30 14:23:03  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick  DONE acc=0.7500  n=900  266.9s
+2026-10-30 14:23:32  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 100/900
+2026-10-30 14:24:01  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 200/900
+2026-10-30 14:24:30  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 300/900
+2026-10-30 14:24:59  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 400/900
+2026-10-30 14:25:28  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 500/900
+2026-10-30 14:26:00  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 600/900
+2026-10-30 14:26:31  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 700/900
+2026-10-30 14:27:02  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 800/900
+2026-10-30 14:27:35  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: 900/900
+2026-10-30 14:27:35  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo     DONE acc=0.7444  n=900  272.0s
+2026-10-30 14:28:04  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 100/900
+2026-10-30 14:28:31  [data] fineweb-2 uzn_Latn: download start (1.9 GB)
+2026-10-30 14:28:34  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 200/900
+2026-10-30 14:29:04  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 300/900
+2026-10-30 14:29:35  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 400/900
+2026-10-30 14:30:08  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 500/900
+2026-10-30 14:30:41  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 600/900
+2026-10-30 14:31:12  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 700/900
+2026-10-30 14:31:39  [data] fineweb-2 data/uzn_Latn/train/000_00000.parquet: done
+2026-10-30 14:31:46  [data] fineweb-2 data/uzn_Latn/test/000_00000.parquet: done
+2026-10-30 14:31:47  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 800/900
+2026-10-30 14:32:04  [corpus] 2009 FLORES sentences used for decontamination
+2026-10-30 14:32:22  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: 900/900
+2026-10-30 14:32:22  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026         DONE acc=0.6511  n=900  287.1s
+2026-10-30 14:32:22  [corpus] read 1,233,463 FineWeb-2 documents
+2026-10-30 14:32:57  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 100/900
+2026-10-30 14:33:00  [queue-train] waiting for Mistral to finish, the GPU to be free, and the corpus to be built
+2026-10-30 14:33:14  [corpus] kept 106,658 documents, 400,000,749 chars; dropped 0 overlapping with FLORES
+2026-10-30 14:33:20  [corpus] valid: 1,066 docs, old 4,027,027 chars, new 3,872,834 chars (lines=19665 convertible_words=136732 converted=131131 kept=5601)
+2026-10-30 14:33:34  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 200/900
+2026-10-30 14:34:06  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 300/900
+2026-10-30 14:34:35  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 400/900
+2026-10-30 14:35:05  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 500/900
+2026-10-30 14:35:38  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 600/900
+2026-10-30 14:36:09  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 700/900
+2026-10-30 14:36:42  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 800/900
+2026-10-30 14:37:15  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: 900/900
+2026-10-30 14:37:15  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic        DONE acc=0.5611  n=900  292.9s
+2026-10-30 14:37:39  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 100/900
+2026-10-30 14:38:05  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 200/900
+2026-10-30 14:38:29  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 300/900
+2026-10-30 14:38:53  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 400/900
+2026-10-30 14:39:19  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 500/900
+2026-10-30 14:39:45  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 600/900
+2026-10-30 14:40:10  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 700/900
+2026-10-30 14:40:23  [corpus] train: 105,592 docs, old 395,973,722 chars, new 380,808,800 chars (lines=2015670 convertible_words=13473429 converted=12881143 kept=592286)
+2026-10-30 14:40:37  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 800/900
+2026-10-30 14:41:04  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: 900/900
+2026-10-30 14:41:04  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og          DONE acc=0.7089  n=900  229.6s
+2026-10-30 14:41:29  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 100/900
+2026-10-30 14:41:55  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 200/900
+2026-10-30 14:42:20  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 300/900
+2026-10-30 14:42:44  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 400/900
+2026-10-30 14:43:08  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 500/900
+2026-10-30 14:43:35  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 600/900
+2026-10-30 14:44:02  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 700/900
+2026-10-30 14:44:31  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 800/900
+2026-10-30 14:44:59  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: 900/900
+2026-10-30 14:44:59  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch        DONE acc=0.6778  n=900  234.3s
+2026-10-30 22:13:25  [verify] unsloth/gemma-3-4b-it @ bf46152: 11 ok, 0 BAD, 2 not in cache
+2026-10-30 22:13:53  [verify] Qwen/Qwen2.5-7B-Instruct @ a09a354: 10 ok, 0 BAD, 0 not in cache
+2026-10-30 22:14:11  [verify] unsloth/Llama-3.1-8B-Instruct model-00002-of-00004.safetensors: BAD
+2026-10-30 22:14:21  [verify] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: 9 ok, 1 BAD, 0 not in cache
+2026-10-30 22:14:50  [verify] Qwen/Qwen3-8B @ b968826: 11 ok, 0 BAD, 0 not in cache
+2026-10-30 22:15:32  [verify] unsloth/gemma-3-12b-it @ 9478e66: 16 ok, 0 BAD, 0 not in cache
+2026-10-30 22:16:16  [verify] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: 13 ok, 0 BAD, 0 not in cache
+2026-10-30 22:16:16  [verify] finished: 1 bad files
+2026-10-30 22:16:42  [repair] unsloth/Llama-3.1-8B-Instruct model-00001-of-00004.safetensors: ok
+2026-10-30 22:16:59  [repair] unsloth/Llama-3.1-8B-Instruct model-00002-of-00004.safetensors: BAD (4999802720 bytes), re-downloading
+2026-11-01 11:07:06  [repair] unsloth/Llama-3.1-8B-Instruct model-00001-of-00004.safetensors: ok
+2026-11-01 11:07:22  [repair] unsloth/Llama-3.1-8B-Instruct model-00002-of-00004.safetensors: BAD (4999802720 bytes), re-downloading
+2026-11-01 11:10:54  [rq4] back-conversion exact on 99.69% of Belebele fields
+2026-11-01 11:13:12  [repair] unsloth/Llama-3.1-8B-Instruct model-00002-of-00004.safetensors: fixed
+2026-11-01 11:13:21  [repair] unsloth/Llama-3.1-8B-Instruct model-00003-of-00004.safetensors: ok
+2026-11-01 11:13:23  [repair] unsloth/Llama-3.1-8B-Instruct model-00004-of-00004.safetensors: ok
+2026-11-01 11:13:23  [repair] unsloth/Llama-3.1-8B-Instruct: finished
+2026-11-01 11:13:37  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s999: 87 docs, 288,630 chars -> 103,693 tokens (0.359 tok/char), 101 sequences of 1024
+2026-11-01 11:13:40  [verify] unsloth/gemma-3-4b-it @ bf46152: 11 ok, 0 BAD, 2 not in cache
+2026-11-01 11:14:12  [verify] Qwen/Qwen2.5-7B-Instruct @ a09a354: 10 ok, 0 BAD, 0 not in cache
+2026-11-01 11:14:45  [verify] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: 10 ok, 0 BAD, 0 not in cache
+2026-11-01 11:15:19  [verify] Qwen/Qwen3-8B @ b968826: 11 ok, 0 BAD, 0 not in cache
+2026-11-01 11:16:06  [verify] unsloth/gemma-3-12b-it @ 9478e66: 16 ok, 0 BAD, 0 not in cache
+2026-11-01 11:16:56  [verify] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: 13 ok, 0 BAD, 0 not in cache
+2026-11-01 11:16:56  [verify] finished: 0 bad files
+2026-11-01 11:24:03  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s999: 87 docs, 288,630 chars -> 103,693 tokens (0.359 tok/char), 202 sequences of 512
+2026-11-01 11:26:00  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s999: before training, valid bits/word = 28.504; 12 optimizer steps
+2026-11-01 11:31:52  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s999: 28 docs, 96,420 chars -> 34,729 tokens (0.360 tok/char), 67 sequences of 512
+2026-11-01 11:33:23  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s999: before training, valid bits/word = 28.380; 4 optimizer steps
+2026-11-01 11:34:57  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s999: step 4/4 loss 5.6015 (1.6 min)
+2026-11-01 11:36:17  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s999: DONE in 1.6 min, 2 Wh, valid bits/word 28.380 -> 25.041
+2026-11-01 11:37:51  [train-A] shared_new_s999: tokenizer 9s; train 2,890,074 chars -> 648,133 tokens (0.224 tok/char); 1,265 sequences
+2026-11-01 11:38:31  [train-A] shared_new_s999: step 19/19 valid bits/word 21.319 (0.4 min)
+2026-11-01 11:38:32  [train-A] shared_new_s999: DONE 98M params, 0.4 min, 1 Wh, final valid bits/word 21.319
+2026-11-01 11:39:00  [train-A] separate_old_s999: tokenizer 3s; train 3,003,329 chars -> 631,798 tokens (0.210 tok/char); 1,233 sequences
+2026-11-01 11:39:39  [train-A] separate_old_s999: step 19/19 valid bits/word 21.006 (0.4 min)
+2026-11-01 11:39:40  [train-A] separate_old_s999: DONE 98M params, 0.4 min, 1 Wh, final valid bits/word 21.006
+2026-11-01 11:40:31  [all] ========== full experiment run started ==========
+2026-11-01 11:40:37  [all] manifest written: 37 files hashed
+2026-11-01 11:40:37  [all] PHASE 1: RQ2 completion
+2026-11-01 11:40:37  [all] START eval_unsloth__gemma-3-4b-it
+2026-11-01 11:40:49  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 11:41:04  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 8.0 GB
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_okina: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_ascii: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_backtick: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it latin_rsquo: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it new2026: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it cyrillic: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it new_og: already complete, skipping
+2026-11-01 11:41:04  [rq2] unsloth__gemma-3-4b-it new_shch: already complete, skipping
+2026-11-01 11:41:26  [rq2] unsloth__gemma-3-4b-it backconv: 100/900
+2026-11-01 11:41:47  [rq2] unsloth__gemma-3-4b-it backconv: 200/900
+2026-11-01 11:42:07  [rq2] unsloth__gemma-3-4b-it backconv: 300/900
+2026-11-01 11:42:27  [rq2] unsloth__gemma-3-4b-it backconv: 400/900
+2026-11-01 11:42:48  [rq2] unsloth__gemma-3-4b-it backconv: 500/900
+2026-11-01 11:43:07  [rq2] unsloth__gemma-3-4b-it backconv: 600/900
+2026-11-01 11:43:25  [rq2] unsloth__gemma-3-4b-it backconv: 700/900
+2026-11-01 11:43:43  [rq2] unsloth__gemma-3-4b-it backconv: 800/900
+2026-11-01 11:44:05  [rq2] unsloth__gemma-3-4b-it backconv: 900/900
+2026-11-01 11:44:05  [rq2] unsloth__gemma-3-4b-it backconv        DONE acc=0.6389  n=900  180.3s
+2026-11-01 11:44:28  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 100/900
+2026-11-01 11:44:53  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 200/900
+2026-11-01 11:46:24  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 300/900
+2026-11-01 11:47:47  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 400/900
+2026-11-01 11:49:01  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 500/900
+2026-11-01 11:50:15  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 600/900
+2026-11-01 11:51:32  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 700/900
+2026-11-01 11:53:01  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 800/900
+2026-11-01 11:54:24  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe: 900/900
+2026-11-01 11:54:24  [rq2] unsloth__gemma-3-4b-it mixed_apostrophe DONE acc=0.6389  n=900  620.0s
+2026-11-01 11:54:27  [all] FINISHED eval_unsloth__gemma-3-4b-it (13.8 min)
+2026-11-01 11:54:27  [all] START analyze_unsloth__gemma-3-4b-it
+2026-11-01 11:54:35  [all] FINISHED analyze_unsloth__gemma-3-4b-it (0.1 min)
+2026-11-01 11:54:35  [all] START eval_unsloth__gemma-3-4b-it__4bit
+2026-11-01 11:54:48  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 11:55:29  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.2 GB
+2026-11-01 11:55:29  [rq2] unsloth__gemma-3-4b-it__4bit latin_okina: already complete, skipping
+2026-11-01 11:55:29  [rq2] unsloth__gemma-3-4b-it__4bit latin_ascii: already complete, skipping
+2026-11-01 11:55:29  [rq2] unsloth__gemma-3-4b-it__4bit latin_backtick: already complete, skipping
+2026-11-01 11:55:29  [rq2] unsloth__gemma-3-4b-it__4bit latin_rsquo: already complete, skipping
+2026-11-01 11:55:29  [rq2] unsloth__gemma-3-4b-it__4bit new2026: already complete, skipping
+2026-11-01 11:55:29  [rq2] unsloth__gemma-3-4b-it__4bit cyrillic: already complete, skipping
+2026-11-01 11:55:29  [rq2] unsloth__gemma-3-4b-it__4bit new_og: already complete, skipping
+2026-11-01 11:55:30  [rq2] unsloth__gemma-3-4b-it__4bit new_shch: already complete, skipping
+2026-11-01 12:00:52  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 100/900
+2026-11-01 12:06:10  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 200/900
+2026-11-01 12:11:27  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 300/900
+2026-11-01 12:16:44  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 400/900
+2026-11-01 12:21:59  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 500/900
+2026-11-01 12:27:14  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 600/900
+2026-11-01 12:32:29  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 700/900
+2026-11-01 12:37:52  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 800/900
+2026-11-01 12:43:10  [rq2] unsloth__gemma-3-4b-it__4bit backconv: 900/900
+2026-11-01 12:43:10  [rq2] unsloth__gemma-3-4b-it__4bit backconv        DONE acc=0.5989  n=900  2860.4s
+2026-11-01 12:45:16  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 100/900
+2026-11-01 12:45:43  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 200/900
+2026-11-01 12:46:09  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 300/900
+2026-11-01 12:46:34  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 400/900
+2026-11-01 12:46:59  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 500/900
+2026-11-01 12:47:24  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 600/900
+2026-11-01 12:47:50  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 700/900
+2026-11-01 12:48:17  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 800/900
+2026-11-01 12:48:44  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe: 900/900
+2026-11-01 12:48:44  [rq2] unsloth__gemma-3-4b-it__4bit mixed_apostrophe DONE acc=0.6067  n=900  333.5s
+2026-11-01 12:48:45  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit (54.2 min)
+2026-11-01 12:48:45  [all] START analyze_unsloth__gemma-3-4b-it__4bit
+2026-11-01 12:48:49  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit (0.1 min)
+2026-11-01 12:48:49  [all] START eval_Qwen__Qwen2.5-7B-Instruct__4bit
+2026-11-01 12:49:00  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-11-01 12:49:28  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-11-01 12:49:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: already complete, skipping
+2026-11-01 12:49:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: already complete, skipping
+2026-11-01 12:49:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: already complete, skipping
+2026-11-01 12:49:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: already complete, skipping
+2026-11-01 12:49:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: already complete, skipping
+2026-11-01 12:49:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: already complete, skipping
+2026-11-01 12:49:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: already complete, skipping
+2026-11-01 12:49:29  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: already complete, skipping
+2026-11-01 12:49:46  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 100/900
+2026-11-01 13:25:35  [all] ========== full experiment run started ==========
+2026-11-01 13:25:38  [all] manifest written: 37 files hashed
+2026-11-01 13:25:38  [all] PHASE 1: RQ2 completion
+2026-11-01 13:25:38  [all] unsloth__gemma-3-4b-it: already complete, skipping
+2026-11-01 13:25:38  [all] START analyze_unsloth__gemma-3-4b-it
+2026-11-01 13:25:43  [all] FINISHED analyze_unsloth__gemma-3-4b-it (0.1 min)
+2026-11-01 13:25:43  [all] unsloth__gemma-3-4b-it__4bit: already complete, skipping
+2026-11-01 13:25:43  [all] START analyze_unsloth__gemma-3-4b-it__4bit
+2026-11-01 13:25:46  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit (0.1 min)
+2026-11-01 13:25:46  [all] START eval_Qwen__Qwen2.5-7B-Instruct__4bit
+2026-11-01 13:25:57  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-11-01 13:26:22  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: already complete, skipping
+2026-11-01 13:26:40  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 100/900
+2026-11-01 13:26:57  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 200/900
+2026-11-01 13:27:13  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 300/900
+2026-11-01 13:27:29  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 400/900
+2026-11-01 13:27:47  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 500/900
+2026-11-01 13:28:04  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 600/900
+2026-11-01 13:28:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 700/900
+2026-11-01 13:28:41  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 800/900
+2026-11-01 13:28:59  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 900/900
+2026-11-01 13:28:59  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv        DONE acc=0.6022  n=900  157.3s
+2026-11-01 13:29:16  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 100/900
+2026-11-01 13:29:34  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 200/900
+2026-11-01 13:29:51  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 300/900
+2026-11-01 13:30:08  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 400/900
+2026-11-01 13:30:26  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 500/900
+2026-11-01 13:30:45  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 600/900
+2026-11-01 13:31:03  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 700/900
+2026-11-01 13:31:23  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 800/900
+2026-11-01 13:31:42  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 900/900
+2026-11-01 13:31:42  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe DONE acc=0.5967  n=900  163.0s
+2026-11-01 13:31:44  [all] FINISHED eval_Qwen__Qwen2.5-7B-Instruct__4bit (6.0 min)
+2026-11-01 13:31:44  [all] START analyze_Qwen__Qwen2.5-7B-Instruct__4bit
+2026-11-01 13:31:47  [all] FINISHED analyze_Qwen__Qwen2.5-7B-Instruct__4bit (0.1 min)
+2026-11-01 13:31:47  [all] START eval_unsloth__Llama-3.1-8B-Instruct__4bit
+2026-11-01 13:31:57  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-11-01 13:32:23  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-11-01 13:32:42  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 100/900
+2026-11-01 13:33:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 200/900
+2026-11-01 13:33:19  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 300/900
+2026-11-01 13:33:37  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 400/900
+2026-11-01 13:33:57  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 500/900
+2026-11-01 13:34:17  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 600/900
+2026-11-01 13:34:38  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 700/900
+2026-11-01 13:35:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 800/900
+2026-11-01 13:35:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: 900/900
+2026-11-01 13:35:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina     DONE acc=0.6911  n=900  179.3s
+2026-11-01 13:35:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 100/900
+2026-11-01 13:36:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 200/900
+2026-11-01 13:36:19  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 300/900
+2026-11-01 13:36:39  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 400/900
+2026-11-01 13:36:59  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 500/900
+2026-11-01 13:37:19  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 600/900
+2026-11-01 13:39:32  [all] ========== full experiment run started ==========
+2026-11-01 13:39:37  [all] manifest written: 37 files hashed
+2026-11-01 13:39:37  [all] PHASE 1: RQ2 completion
+2026-11-01 13:39:37  [all] unsloth__gemma-3-4b-it: already complete, skipping
+2026-11-01 13:39:37  [all] START analyze_unsloth__gemma-3-4b-it
+2026-11-01 13:39:49  [all] FINISHED analyze_unsloth__gemma-3-4b-it (0.2 min)
+2026-11-01 13:39:49  [all] unsloth__gemma-3-4b-it__4bit: already complete, skipping
+2026-11-01 13:39:49  [all] START analyze_unsloth__gemma-3-4b-it__4bit
+2026-11-01 13:39:52  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit (0.1 min)
+2026-11-01 13:39:52  [all] Qwen__Qwen2.5-7B-Instruct__4bit: already complete, skipping
+2026-11-01 13:39:52  [all] START analyze_Qwen__Qwen2.5-7B-Instruct__4bit
+2026-11-01 13:39:55  [all] FINISHED analyze_Qwen__Qwen2.5-7B-Instruct__4bit (0.1 min)
+2026-11-01 13:39:55  [all] START eval_unsloth__Llama-3.1-8B-Instruct__4bit
+2026-11-01 13:40:32  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-11-01 13:40:57  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-11-01 13:40:57  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_okina: already complete, skipping
+2026-11-01 13:41:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 100/900
+2026-11-01 13:41:35  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 200/900
+2026-11-01 13:41:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 300/900
+2026-11-01 13:42:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 400/900
+2026-11-01 13:42:30  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 500/900
+2026-11-01 13:42:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 600/900
+2026-11-01 13:43:09  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 700/900
+2026-11-01 13:43:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 800/900
+2026-11-01 13:43:48  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii: 900/900
+2026-11-01 13:43:48  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_ascii     DONE acc=0.6967  n=900  170.9s
+2026-11-01 13:44:08  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 100/900
+2026-11-01 13:44:26  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 200/900
+2026-11-01 13:44:44  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 300/900
+2026-11-01 13:45:02  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 400/900
+2026-11-01 13:45:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 500/900
+2026-11-01 13:45:39  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 600/900
+2026-11-01 13:45:57  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 700/900
+2026-11-01 13:46:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 800/900
+2026-11-01 13:46:36  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick: 900/900
+2026-11-01 13:46:36  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_backtick  DONE acc=0.6922  n=900  167.3s
+2026-11-01 13:46:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 100/900
+2026-11-01 13:47:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 200/900
+2026-11-01 13:47:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 300/900
+2026-11-01 13:47:46  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 400/900
+2026-11-01 13:48:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 500/900
+2026-11-01 13:48:23  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 600/900
+2026-11-01 13:48:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 700/900
+2026-11-01 13:49:01  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 800/900
+2026-11-01 13:49:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo: 900/900
+2026-11-01 13:49:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit latin_rsquo     DONE acc=0.6900  n=900  164.3s
+2026-11-01 13:49:37  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 100/900
+2026-11-01 13:49:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 200/900
+2026-11-01 13:50:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 300/900
+2026-11-01 13:50:27  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 400/900
+2026-11-01 13:50:45  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 500/900
+2026-11-01 13:51:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 600/900
+2026-11-01 13:51:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 700/900
+2026-11-01 13:51:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 800/900
+2026-11-01 13:52:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026: 900/900
+2026-11-01 13:52:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new2026         DONE acc=0.6222  n=900  159.8s
+2026-11-01 13:52:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 100/900
+2026-11-01 13:52:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 200/900
+2026-11-01 13:53:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 300/900
+2026-11-01 13:53:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 400/900
+2026-11-01 13:53:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 500/900
+2026-11-01 13:54:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 600/900
+2026-11-01 13:54:25  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 700/900
+2026-11-01 13:54:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 800/900
+2026-11-01 13:55:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic: 900/900
+2026-11-01 13:55:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit cyrillic        DONE acc=0.6044  n=900  191.8s
+2026-11-01 13:55:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 100/900
+2026-11-01 13:55:46  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 200/900
+2026-11-01 13:56:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 300/900
+2026-11-01 13:56:21  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 400/900
+2026-11-01 13:56:38  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 500/900
+2026-11-01 13:56:57  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 600/900
+2026-11-01 13:57:15  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 700/900
+2026-11-01 13:57:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 800/900
+2026-11-01 13:57:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og: 900/900
+2026-11-01 13:57:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_og          DONE acc=0.6667  n=900  160.9s
+2026-11-01 13:58:10  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 100/900
+2026-11-01 13:58:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 200/900
+2026-11-01 13:58:46  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 300/900
+2026-11-01 13:59:04  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 400/900
+2026-11-01 13:59:22  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 500/900
+2026-11-01 13:59:41  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 600/900
+2026-11-01 14:00:00  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 700/900
+2026-11-01 14:00:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 800/900
+2026-11-01 14:00:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch: 900/900
+2026-11-01 14:00:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit new_shch        DONE acc=0.6611  n=900  167.4s
+2026-11-01 14:00:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 100/900
+2026-11-01 14:01:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 200/900
+2026-11-01 14:01:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 300/900
+2026-11-01 14:01:51  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 400/900
+2026-11-01 14:02:10  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 500/900
+2026-11-01 14:02:29  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 600/900
+2026-11-01 14:02:48  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 700/900
+2026-11-01 14:03:08  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 800/900
+2026-11-01 14:03:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv: 900/900
+2026-11-01 14:03:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit backconv        DONE acc=0.6922  n=900  167.8s
+2026-11-01 14:03:45  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 100/900
+2026-11-01 14:04:03  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 200/900
+2026-11-01 14:04:20  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 300/900
+2026-11-01 14:04:38  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 400/900
+2026-11-01 14:04:56  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 500/900
+2026-11-01 14:05:15  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 600/900
+2026-11-01 14:05:33  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 700/900
+2026-11-01 14:05:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 800/900
+2026-11-01 14:06:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe: 900/900
+2026-11-01 14:06:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit mixed_apostrophe DONE acc=0.6989  n=900  164.4s
+2026-11-01 14:06:14  [all] FINISHED eval_unsloth__Llama-3.1-8B-Instruct__4bit (26.3 min)
+2026-11-01 14:06:14  [all] START analyze_unsloth__Llama-3.1-8B-Instruct__4bit
+2026-11-01 14:06:26  [all] FINISHED analyze_unsloth__Llama-3.1-8B-Instruct__4bit (0.2 min)
+2026-11-01 14:06:26  [all] START eval_Qwen__Qwen3-8B__4bit
+2026-11-01 14:07:00  [rq2] Qwen/Qwen3-8B @ b968826: downloading (if needed) and loading
+2026-11-01 14:07:24  [rq2] Qwen/Qwen3-8B: loaded, GPU memory 6.0 GB
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit latin_okina: already complete, skipping
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: already complete, skipping
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: already complete, skipping
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: already complete, skipping
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit new2026: already complete, skipping
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit cyrillic: already complete, skipping
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit new_og: already complete, skipping
+2026-11-01 14:07:25  [rq2] Qwen__Qwen3-8B__4bit new_shch: already complete, skipping
+2026-11-01 14:07:45  [rq2] Qwen__Qwen3-8B__4bit backconv: 100/900
+2026-11-01 14:08:06  [rq2] Qwen__Qwen3-8B__4bit backconv: 200/900
+2026-11-01 14:08:28  [rq2] Qwen__Qwen3-8B__4bit backconv: 300/900
+2026-11-01 14:08:50  [rq2] Qwen__Qwen3-8B__4bit backconv: 400/900
+2026-11-01 14:09:12  [rq2] Qwen__Qwen3-8B__4bit backconv: 500/900
+2026-11-01 14:09:33  [rq2] Qwen__Qwen3-8B__4bit backconv: 600/900
+2026-11-01 14:09:54  [rq2] Qwen__Qwen3-8B__4bit backconv: 700/900
+2026-11-01 14:10:15  [rq2] Qwen__Qwen3-8B__4bit backconv: 800/900
+2026-11-01 14:10:37  [rq2] Qwen__Qwen3-8B__4bit backconv: 900/900
+2026-11-01 14:10:37  [rq2] Qwen__Qwen3-8B__4bit backconv        DONE acc=0.6956  n=900  192.2s
+2026-11-01 14:10:58  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 100/900
+2026-11-01 14:11:20  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 200/900
+2026-11-01 14:11:40  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 300/900
+2026-11-01 14:12:00  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 400/900
+2026-11-01 14:12:22  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 500/900
+2026-11-01 14:12:44  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 600/900
+2026-11-01 14:13:06  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 700/900
+2026-11-01 14:13:28  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 800/900
+2026-11-01 14:13:50  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe: 900/900
+2026-11-01 14:13:50  [rq2] Qwen__Qwen3-8B__4bit mixed_apostrophe DONE acc=0.7089  n=900  192.9s
+2026-11-01 14:13:51  [all] FINISHED eval_Qwen__Qwen3-8B__4bit (7.4 min)
+2026-11-01 14:13:51  [all] START analyze_Qwen__Qwen3-8B__4bit
+2026-11-01 14:13:54  [all] FINISHED analyze_Qwen__Qwen3-8B__4bit (0.1 min)
+2026-11-01 14:13:54  [all] START eval_unsloth__gemma-3-12b-it__4bit
+2026-11-01 14:14:03  [rq2] unsloth/gemma-3-12b-it @ 9478e66: downloading (if needed) and loading
+2026-11-01 14:14:39  [rq2] unsloth/gemma-3-12b-it: loaded, GPU memory 7.8 GB
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit latin_okina: already complete, skipping
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit latin_ascii: already complete, skipping
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit latin_backtick: already complete, skipping
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit latin_rsquo: already complete, skipping
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit new2026: already complete, skipping
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit cyrillic: already complete, skipping
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit new_og: already complete, skipping
+2026-11-01 14:14:39  [rq2] unsloth__gemma-3-12b-it__4bit new_shch: already complete, skipping
+2026-11-01 14:15:14  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 100/900
+2026-11-01 14:15:46  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 200/900
+2026-11-01 14:16:19  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 300/900
+2026-11-01 14:16:52  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 400/900
+2026-11-01 14:17:25  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 500/900
+2026-11-01 14:17:56  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 600/900
+2026-11-01 14:18:26  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 700/900
+2026-11-01 14:19:01  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 800/900
+2026-11-01 14:19:34  [rq2] unsloth__gemma-3-12b-it__4bit backconv: 900/900
+2026-11-01 14:19:34  [rq2] unsloth__gemma-3-12b-it__4bit backconv        DONE acc=0.8489  n=900  294.8s
+2026-11-01 14:20:06  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 100/900
+2026-11-01 14:20:40  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 200/900
+2026-11-01 14:21:12  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 300/900
+2026-11-01 14:21:44  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 400/900
+2026-11-01 14:22:14  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 500/900
+2026-11-01 14:22:47  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 600/900
+2026-11-01 14:23:20  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 700/900
+2026-11-01 14:23:53  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 800/900
+2026-11-01 14:24:28  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe: 900/900
+2026-11-01 14:24:28  [rq2] unsloth__gemma-3-12b-it__4bit mixed_apostrophe DONE acc=0.8567  n=900  293.5s
+2026-11-01 14:24:29  [all] FINISHED eval_unsloth__gemma-3-12b-it__4bit (10.6 min)
+2026-11-01 14:24:29  [all] START analyze_unsloth__gemma-3-12b-it__4bit
+2026-11-01 14:24:33  [all] FINISHED analyze_unsloth__gemma-3-12b-it__4bit (0.1 min)
+2026-11-01 14:24:33  [all] START eval_unsloth__Mistral-Nemo-Instruct-2407__4bit
+2026-11-01 14:24:44  [rq2] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: downloading (if needed) and loading
+2026-11-01 14:25:21  [rq2] unsloth/Mistral-Nemo-Instruct-2407: loaded, GPU memory 8.3 GB
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_okina: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_ascii: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_backtick: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit latin_rsquo: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new2026: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit cyrillic: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_og: already complete, skipping
+2026-11-01 14:25:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit new_shch: already complete, skipping
+2026-11-01 14:25:47  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 100/900
+2026-11-01 14:26:12  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 200/900
+2026-11-01 14:26:36  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 300/900
+2026-11-01 14:26:59  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 400/900
+2026-11-01 14:27:23  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 500/900
+2026-11-01 14:27:49  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 600/900
+2026-11-01 14:28:14  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 700/900
+2026-11-01 14:28:40  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 800/900
+2026-11-01 14:29:06  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv: 900/900
+2026-11-01 14:29:06  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit backconv        DONE acc=0.7467  n=900  224.3s
+2026-11-01 14:29:30  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 100/900
+2026-11-01 14:29:55  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 200/900
+2026-11-01 14:30:19  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 300/900
+2026-11-01 14:30:42  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 400/900
+2026-11-01 14:31:07  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 500/900
+2026-11-01 14:31:33  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 600/900
+2026-11-01 14:31:58  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 700/900
+2026-11-01 14:32:25  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 800/900
+2026-11-01 14:32:51  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe: 900/900
+2026-11-01 14:32:51  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit mixed_apostrophe DONE acc=0.7489  n=900  225.1s
+2026-11-01 14:32:52  [all] FINISHED eval_unsloth__Mistral-Nemo-Instruct-2407__4bit (8.3 min)
+2026-11-01 14:32:52  [all] START analyze_unsloth__Mistral-Nemo-Instruct-2407__4bit
+2026-11-01 14:32:56  [all] FINISHED analyze_unsloth__Mistral-Nemo-Instruct-2407__4bit (0.1 min)
+2026-11-01 14:32:56  [all] START summary
+2026-11-01 14:32:59  [all] FINISHED summary (0.1 min)
+2026-11-01 14:32:59  [all] START determinism
+2026-11-01 14:33:10  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 14:33:25  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 8.0 GB
+2026-11-01 14:33:35  [rq2] unsloth__gemma-3-4b-it__limit50 latin_okina     DONE acc=0.6800  n=50  10.3s
+2026-11-01 14:33:44  [rq2] unsloth__gemma-3-4b-it__limit50 new2026         DONE acc=0.6400  n=50  9.2s
+2026-11-01 14:33:46  [all] FINISHED determinism (0.8 min)
+2026-11-01 14:33:46  [all] START eval_unsloth__gemma-3-4b-it__4bit__chatprompt
+2026-11-01 14:33:55  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 14:34:11  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.2 GB
+2026-11-01 14:34:36  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 100/900
+2026-11-01 14:35:00  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 200/900
+2026-11-01 14:35:25  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 300/900
+2026-11-01 14:35:51  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 400/900
+2026-11-01 14:36:17  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 500/900
+2026-11-01 14:36:43  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 600/900
+2026-11-01 14:37:09  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 700/900
+2026-11-01 14:37:36  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 800/900
+2026-11-01 14:38:03  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina: 900/900
+2026-11-01 14:38:03  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt latin_okina     DONE acc=0.6478  n=900  232.1s
+2026-11-01 14:38:29  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 100/900
+2026-11-01 14:38:56  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 200/900
+2026-11-01 14:39:22  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 300/900
+2026-11-01 14:39:50  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 400/900
+2026-11-01 14:40:16  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 500/900
+2026-11-01 14:40:42  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 600/900
+2026-11-01 14:41:07  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 700/900
+2026-11-01 14:41:34  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 800/900
+2026-11-01 14:42:04  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026: 900/900
+2026-11-01 14:42:04  [rq2] unsloth__gemma-3-4b-it__4bit__chatprompt new2026         DONE acc=0.5900  n=900  241.7s
+2026-11-01 14:42:06  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__chatprompt (8.3 min)
+2026-11-01 14:42:06  [all] START analyze_unsloth__gemma-3-4b-it__4bit__chatprompt
+2026-11-01 14:42:09  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__chatprompt (0.0 min)
+2026-11-01 14:42:09  [all] START eval_Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt
+2026-11-01 14:42:18  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-11-01 14:42:43  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-11-01 14:43:02  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 100/900
+2026-11-01 14:43:19  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 200/900
+2026-11-01 14:43:37  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 300/900
+2026-11-01 14:43:54  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 400/900
+2026-11-01 14:44:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 500/900
+2026-11-01 14:44:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 600/900
+2026-11-01 14:44:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 700/900
+2026-11-01 14:45:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 800/900
+2026-11-01 14:45:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina: 900/900
+2026-11-01 14:45:28  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt latin_okina     DONE acc=0.5789  n=900  165.3s
+2026-11-01 14:45:46  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 100/900
+2026-11-01 14:46:04  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 200/900
+2026-11-01 14:46:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 300/900
+2026-11-01 14:46:39  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 400/900
+2026-11-01 14:46:57  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 500/900
+2026-11-01 14:47:15  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 600/900
+2026-11-01 14:47:33  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 700/900
+2026-11-01 14:47:53  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 800/900
+2026-11-01 14:48:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026: 900/900
+2026-11-01 14:48:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt new2026         DONE acc=0.5522  n=900  163.8s
+2026-11-01 14:48:14  [all] FINISHED eval_Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt (6.1 min)
+2026-11-01 14:48:14  [all] START analyze_Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt
+2026-11-01 14:48:16  [all] FINISHED analyze_Qwen__Qwen2.5-7B-Instruct__4bit__chatprompt (0.0 min)
+2026-11-01 14:48:16  [all] START eval_unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt
+2026-11-01 14:48:26  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-11-01 14:48:52  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-11-01 14:49:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 100/900
+2026-11-01 14:49:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 200/900
+2026-11-01 14:49:52  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 300/900
+2026-11-01 14:50:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 400/900
+2026-11-01 14:50:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 500/900
+2026-11-01 14:50:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 600/900
+2026-11-01 14:51:14  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 700/900
+2026-11-01 14:51:36  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 800/900
+2026-11-01 14:51:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina: 900/900
+2026-11-01 14:51:58  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt latin_okina     DONE acc=0.6678  n=900  185.8s
+2026-11-01 14:52:16  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 100/900
+2026-11-01 14:52:35  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 200/900
+2026-11-01 14:52:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 300/900
+2026-11-01 14:53:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 400/900
+2026-11-01 14:53:32  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 500/900
+2026-11-01 14:53:53  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 600/900
+2026-11-01 14:54:12  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 700/900
+2026-11-01 14:54:34  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 800/900
+2026-11-01 14:54:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026: 900/900
+2026-11-01 14:54:54  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt new2026         DONE acc=0.5911  n=900  176.8s
+2026-11-01 14:54:56  [all] FINISHED eval_unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt (6.7 min)
+2026-11-01 14:54:56  [all] START analyze_unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt
+2026-11-01 14:54:59  [all] FINISHED analyze_unsloth__Llama-3.1-8B-Instruct__4bit__chatprompt (0.0 min)
+2026-11-01 14:54:59  [all] START eval_Qwen__Qwen3-8B__4bit__chatprompt
+2026-11-01 14:55:08  [rq2] Qwen/Qwen3-8B @ b968826: downloading (if needed) and loading
+2026-11-01 14:55:34  [rq2] Qwen/Qwen3-8B: loaded, GPU memory 6.0 GB
+2026-11-01 14:56:00  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 100/900
+2026-11-01 14:56:22  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 200/900
+2026-11-01 14:56:44  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 300/900
+2026-11-01 14:57:06  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 400/900
+2026-11-01 14:57:29  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 500/900
+2026-11-01 14:57:54  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 600/900
+2026-11-01 14:58:18  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 700/900
+2026-11-01 14:58:42  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 800/900
+2026-11-01 14:59:05  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina: 900/900
+2026-11-01 14:59:05  [rq2] Qwen__Qwen3-8B__4bit__chatprompt latin_okina     DONE acc=0.6978  n=900  211.1s
+2026-11-01 14:59:28  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 100/900
+2026-11-01 14:59:52  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 200/900
+2026-11-01 15:00:14  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 300/900
+2026-11-01 15:00:37  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 400/900
+2026-11-01 15:00:59  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 500/900
+2026-11-01 15:01:21  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 600/900
+2026-11-01 15:01:45  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 700/900
+2026-11-01 15:02:10  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 800/900
+2026-11-01 15:02:33  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026: 900/900
+2026-11-01 15:02:33  [rq2] Qwen__Qwen3-8B__4bit__chatprompt new2026         DONE acc=0.6533  n=900  207.9s
+2026-11-01 15:02:35  [all] FINISHED eval_Qwen__Qwen3-8B__4bit__chatprompt (7.6 min)
+2026-11-01 15:02:35  [all] START analyze_Qwen__Qwen3-8B__4bit__chatprompt
+2026-11-01 15:02:37  [all] FINISHED analyze_Qwen__Qwen3-8B__4bit__chatprompt (0.0 min)
+2026-11-01 15:02:37  [all] START eval_unsloth__gemma-3-12b-it__4bit__chatprompt
+2026-11-01 15:02:47  [rq2] unsloth/gemma-3-12b-it @ 9478e66: downloading (if needed) and loading
+2026-11-01 15:03:27  [rq2] unsloth/gemma-3-12b-it: loaded, GPU memory 7.8 GB
+2026-11-01 15:04:06  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 100/900
+2026-11-01 15:04:40  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 200/900
+2026-11-01 15:05:14  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 300/900
+2026-11-01 15:05:52  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 400/900
+2026-11-01 15:06:28  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 500/900
+2026-11-01 15:07:02  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 600/900
+2026-11-01 15:07:34  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 700/900
+2026-11-01 15:08:10  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 800/900
+2026-11-01 15:08:44  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina: 900/900
+2026-11-01 15:08:44  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt latin_okina     DONE acc=0.8589  n=900  316.6s
+2026-11-01 15:09:17  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 100/900
+2026-11-01 15:09:55  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 200/900
+2026-11-01 15:10:32  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 300/900
+2026-11-01 15:11:06  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 400/900
+2026-11-01 15:11:42  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 500/900
+2026-11-01 15:12:18  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 600/900
+2026-11-01 15:12:52  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 700/900
+2026-11-01 15:13:27  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 800/900
+2026-11-01 15:14:05  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026: 900/900
+2026-11-01 15:14:05  [rq2] unsloth__gemma-3-12b-it__4bit__chatprompt new2026         DONE acc=0.8278  n=900  321.8s
+2026-11-01 15:14:07  [all] FINISHED eval_unsloth__gemma-3-12b-it__4bit__chatprompt (11.5 min)
+2026-11-01 15:14:07  [all] START analyze_unsloth__gemma-3-12b-it__4bit__chatprompt
+2026-11-01 15:14:10  [all] FINISHED analyze_unsloth__gemma-3-12b-it__4bit__chatprompt (0.1 min)
+2026-11-01 15:14:10  [all] START eval_unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt
+2026-11-01 15:14:21  [rq2] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: downloading (if needed) and loading
+2026-11-01 15:14:59  [rq2] unsloth/Mistral-Nemo-Instruct-2407: loaded, GPU memory 8.3 GB
+2026-11-01 15:15:24  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 100/900
+2026-11-01 15:15:49  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 200/900
+2026-11-01 15:16:14  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 300/900
+2026-11-01 15:16:37  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 400/900
+2026-11-01 15:17:02  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 500/900
+2026-11-01 15:17:28  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 600/900
+2026-11-01 15:17:54  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 700/900
+2026-11-01 15:18:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 800/900
+2026-11-01 15:18:47  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina: 900/900
+2026-11-01 15:18:47  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt latin_okina     DONE acc=0.7222  n=900  228.4s
+2026-11-01 15:19:12  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 100/900
+2026-11-01 15:19:37  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 200/900
+2026-11-01 15:20:03  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 300/900
+2026-11-01 15:20:27  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 400/900
+2026-11-01 15:20:53  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 500/900
+2026-11-01 15:21:19  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 600/900
+2026-11-01 15:21:46  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 700/900
+2026-11-01 15:22:13  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 800/900
+2026-11-01 15:22:41  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026: 900/900
+2026-11-01 15:22:41  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt new2026         DONE acc=0.6300  n=900  233.4s
+2026-11-01 15:22:42  [all] FINISHED eval_unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt (8.5 min)
+2026-11-01 15:22:42  [all] START analyze_unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt
+2026-11-01 15:22:46  [all] FINISHED analyze_unsloth__Mistral-Nemo-Instruct-2407__4bit__chatprompt (0.1 min)
+2026-11-01 15:22:46  [all] START eval_unsloth__gemma-3-4b-it__4bit__uzprompt
+2026-11-01 15:22:56  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 15:23:15  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.2 GB
+2026-11-01 15:23:45  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:24:11  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:24:37  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:25:02  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:25:29  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:25:59  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:26:26  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:26:52  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:27:16  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:27:16  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt latin_okina     DONE acc=0.5267  n=900  241.2s
+2026-11-01 15:27:42  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 100/900
+2026-11-01 15:28:05  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 200/900
+2026-11-01 15:28:28  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 300/900
+2026-11-01 15:28:52  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 400/900
+2026-11-01 15:29:18  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 500/900
+2026-11-01 15:29:47  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 600/900
+2026-11-01 15:30:17  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 700/900
+2026-11-01 15:30:44  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 800/900
+2026-11-01 15:31:09  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026: 900/900
+2026-11-01 15:31:09  [rq2] unsloth__gemma-3-4b-it__4bit__uzprompt new2026         DONE acc=0.5089  n=900  232.9s
+2026-11-01 15:31:11  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__uzprompt (8.4 min)
+2026-11-01 15:31:11  [all] START analyze_unsloth__gemma-3-4b-it__4bit__uzprompt
+2026-11-01 15:31:14  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__uzprompt (0.0 min)
+2026-11-01 15:31:14  [all] START eval_Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt
+2026-11-01 15:31:23  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-11-01 15:31:49  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-11-01 15:32:07  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:32:24  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:32:41  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:32:58  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:33:16  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:33:35  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:33:53  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:34:12  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:34:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:34:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt latin_okina     DONE acc=0.6000  n=900  162.2s
+2026-11-01 15:34:48  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 100/900
+2026-11-01 15:35:05  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 200/900
+2026-11-01 15:35:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 300/900
+2026-11-01 15:35:39  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 400/900
+2026-11-01 15:35:56  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 500/900
+2026-11-01 15:36:14  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 600/900
+2026-11-01 15:36:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 700/900
+2026-11-01 15:36:50  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 800/900
+2026-11-01 15:37:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026: 900/900
+2026-11-01 15:37:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt new2026         DONE acc=0.5622  n=900  158.0s
+2026-11-01 15:37:11  [all] FINISHED eval_Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt (5.9 min)
+2026-11-01 15:37:11  [all] START analyze_Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt
+2026-11-01 15:37:14  [all] FINISHED analyze_Qwen__Qwen2.5-7B-Instruct__4bit__uzprompt (0.1 min)
+2026-11-01 15:37:14  [all] START eval_unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt
+2026-11-01 15:37:24  [rq2] unsloth/Llama-3.1-8B-Instruct @ 4699cc7: downloading (if needed) and loading
+2026-11-01 15:37:51  [rq2] unsloth/Llama-3.1-8B-Instruct: loaded, GPU memory 5.6 GB
+2026-11-01 15:38:11  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:38:31  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:38:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:39:08  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:39:27  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:39:47  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:40:07  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:40:28  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:40:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:40:49  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt latin_okina     DONE acc=0.6578  n=900  177.9s
+2026-11-01 15:41:06  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 100/900
+2026-11-01 15:41:25  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 200/900
+2026-11-01 15:41:44  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 300/900
+2026-11-01 15:42:02  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 400/900
+2026-11-01 15:42:21  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 500/900
+2026-11-01 15:42:40  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 600/900
+2026-11-01 15:42:59  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 700/900
+2026-11-01 15:43:19  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 800/900
+2026-11-01 15:43:39  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026: 900/900
+2026-11-01 15:43:39  [rq2] unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt new2026         DONE acc=0.5600  n=900  169.9s
+2026-11-01 15:43:40  [all] FINISHED eval_unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt (6.4 min)
+2026-11-01 15:43:40  [all] START analyze_unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt
+2026-11-01 15:43:43  [all] FINISHED analyze_unsloth__Llama-3.1-8B-Instruct__4bit__uzprompt (0.0 min)
+2026-11-01 15:43:43  [all] START eval_Qwen__Qwen3-8B__4bit__uzprompt
+2026-11-01 15:43:52  [rq2] Qwen/Qwen3-8B @ b968826: downloading (if needed) and loading
+2026-11-01 15:44:19  [rq2] Qwen/Qwen3-8B: loaded, GPU memory 6.0 GB
+2026-11-01 15:44:42  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:45:04  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:45:26  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:45:49  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:46:11  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:46:34  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:46:55  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:47:18  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:47:42  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:47:42  [rq2] Qwen__Qwen3-8B__4bit__uzprompt latin_okina     DONE acc=0.6267  n=900  202.8s
+2026-11-01 15:48:05  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 100/900
+2026-11-01 15:48:27  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 200/900
+2026-11-01 15:48:49  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 300/900
+2026-11-01 15:49:11  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 400/900
+2026-11-01 15:49:34  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 500/900
+2026-11-01 15:49:58  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 600/900
+2026-11-01 15:50:22  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 700/900
+2026-11-01 15:50:46  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 800/900
+2026-11-01 15:51:09  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026: 900/900
+2026-11-01 15:51:09  [rq2] Qwen__Qwen3-8B__4bit__uzprompt new2026         DONE acc=0.5722  n=900  206.9s
+2026-11-01 15:51:10  [all] FINISHED eval_Qwen__Qwen3-8B__4bit__uzprompt (7.5 min)
+2026-11-01 15:51:10  [all] START analyze_Qwen__Qwen3-8B__4bit__uzprompt
+2026-11-01 15:51:13  [all] FINISHED analyze_Qwen__Qwen3-8B__4bit__uzprompt (0.0 min)
+2026-11-01 15:51:13  [all] START eval_unsloth__gemma-3-12b-it__4bit__uzprompt
+2026-11-01 15:51:23  [rq2] unsloth/gemma-3-12b-it @ 9478e66: downloading (if needed) and loading
+2026-11-01 15:52:04  [rq2] unsloth/gemma-3-12b-it: loaded, GPU memory 7.8 GB
+2026-11-01 15:52:39  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:53:13  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:53:51  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:54:28  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:55:03  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:55:38  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:56:14  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:56:48  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:57:23  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:57:23  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina     DONE acc=0.8322  n=900  319.1s
+2026-11-01 15:58:02  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 100/900
+2026-11-01 15:58:38  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 200/900
+2026-11-01 15:59:12  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 300/900
+2026-11-01 15:59:49  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 400/900
+2026-11-01 16:00:24  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 500/900
+2026-11-01 16:00:59  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 600/900
+2026-11-01 16:01:34  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 700/900
+2026-11-01 16:02:12  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 800/900
+2026-11-01 16:02:47  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 900/900
+2026-11-01 16:02:47  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026         DONE acc=0.7989  n=900  324.3s
+2026-11-01 16:02:49  [all] FINISHED eval_unsloth__gemma-3-12b-it__4bit__uzprompt (11.6 min)
+2026-11-01 16:02:49  [all] START analyze_unsloth__gemma-3-12b-it__4bit__uzprompt
+2026-11-01 16:02:52  [all] FINISHED analyze_unsloth__gemma-3-12b-it__4bit__uzprompt (0.1 min)
+2026-11-01 16:02:52  [all] START eval_unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt
+2026-11-01 16:03:02  [rq2] unsloth/Mistral-Nemo-Instruct-2407 @ e997604: downloading (if needed) and loading
+2026-11-01 16:03:40  [rq2] unsloth/Mistral-Nemo-Instruct-2407: loaded, GPU memory 8.3 GB
+2026-11-01 16:04:05  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 100/900
+2026-11-01 16:04:30  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 200/900
+2026-11-01 16:04:54  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 300/900
+2026-11-01 16:05:18  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 400/900
+2026-11-01 16:05:42  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 500/900
+2026-11-01 16:06:09  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 600/900
+2026-11-01 16:06:34  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 700/900
+2026-11-01 16:07:01  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 800/900
+2026-11-01 16:07:28  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina: 900/900
+2026-11-01 16:07:28  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt latin_okina     DONE acc=0.7189  n=900  227.6s
+2026-11-01 16:07:53  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 100/900
+2026-11-01 16:08:18  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 200/900
+2026-11-01 16:08:43  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 300/900
+2026-11-01 16:09:08  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 400/900
+2026-11-01 16:09:33  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 500/900
+2026-11-01 16:10:00  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 600/900
+2026-11-01 16:10:27  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 700/900
+2026-11-01 16:10:54  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 800/900
+2026-11-01 16:11:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026: 900/900
+2026-11-01 16:11:21  [rq2] unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt new2026         DONE acc=0.6356  n=900  233.7s
+2026-11-01 16:11:23  [all] FINISHED eval_unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt (8.5 min)
+2026-11-01 16:11:23  [all] START analyze_unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt
+2026-11-01 16:11:26  [all] FINISHED analyze_unsloth__Mistral-Nemo-Instruct-2407__4bit__uzprompt (0.1 min)
+2026-11-01 16:11:26  [all] PHASE 2: Exp B (LoRA)
+2026-11-01 16:11:26  [all] START lora_old_s42
+2026-11-01 16:11:56  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: 1,133 docs, 4,027,274 chars -> 1,429,899 tokens (0.355 tok/char), 2792 sequences of 512
+2026-11-01 16:13:14  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: before training, valid bits/word = 22.970; 174 optimizer steps
+2026-11-01 16:21:11  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: step 25/174 loss 3.2834 (8.0 min)
+2026-11-01 16:30:41  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: step 50/174 loss 2.8387 (17.5 min)
+2026-11-01 16:40:13  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: step 75/174 loss 2.0436 (27.0 min)
+2026-11-01 16:49:53  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: step 100/174 loss 2.3162 (36.7 min)
+2026-11-01 16:59:31  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: step 125/174 loss 3.8586 (46.3 min)
+2026-11-01 17:08:14  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: step 150/174 loss 1.9509 (55.0 min)
+2026-11-01 17:16:12  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: step 174/174 loss 2.1674 (63.0 min)
+2026-11-01 17:17:14  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s42: DONE in 63.0 min, 78 Wh, valid bits/word 22.970 -> 9.476
+2026-11-01 17:17:15  [all] FINISHED lora_old_s42 (65.8 min)
+2026-11-01 17:17:15  [all] START eval_unsloth__gemma-3-4b-it__4bit__lora_old_s42
+2026-11-01 17:17:25  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 17:17:43  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.3 GB
+2026-11-01 17:18:22  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 100/900
+2026-11-01 17:19:02  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 200/900
+2026-11-01 17:19:43  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 300/900
+2026-11-01 17:20:23  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 400/900
+2026-11-01 17:21:02  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 500/900
+2026-11-01 17:21:43  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 600/900
+2026-11-01 17:22:25  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 700/900
+2026-11-01 17:23:05  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 800/900
+2026-11-01 17:23:46  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina: 900/900
+2026-11-01 17:23:46  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 latin_okina     DONE acc=0.5789  n=900  362.8s
+2026-11-01 17:24:26  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 100/900
+2026-11-01 17:25:05  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 200/900
+2026-11-01 17:25:41  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 300/900
+2026-11-01 17:26:19  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 400/900
+2026-11-01 17:26:56  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 500/900
+2026-11-01 17:27:34  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 600/900
+2026-11-01 17:28:13  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 700/900
+2026-11-01 17:28:52  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 800/900
+2026-11-01 17:29:31  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026: 900/900
+2026-11-01 17:29:31  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s42 new2026         DONE acc=0.5467  n=900  345.5s
+2026-11-01 17:29:33  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__lora_old_s42 (12.3 min)
+2026-11-01 17:29:33  [all] START analyze_unsloth__gemma-3-4b-it__4bit__lora_old_s42
+2026-11-01 17:29:36  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__lora_old_s42 (0.0 min)
+2026-11-01 17:29:36  [all] START lora_new_s42
+2026-11-01 17:30:05  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: 1,133 docs, 3,874,588 chars -> 1,407,916 tokens (0.363 tok/char), 2749 sequences of 512
+2026-11-01 17:31:19  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: before training, valid bits/word = 28.380; 171 optimizer steps
+2026-11-01 17:39:21  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: step 25/171 loss 3.3255 (8.0 min)
+2026-11-01 17:47:25  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: step 50/171 loss 2.4244 (16.1 min)
+2026-11-01 17:55:25  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: step 75/171 loss 2.9152 (24.1 min)
+2026-11-01 18:04:04  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: step 100/171 loss 2.8798 (32.7 min)
+2026-11-01 18:12:13  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: step 125/171 loss 1.7177 (40.9 min)
+2026-11-01 18:20:41  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: step 150/171 loss 2.6284 (49.4 min)
+2026-11-01 18:27:46  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: step 171/171 loss 2.5070 (56.4 min)
+2026-11-01 18:28:49  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s42: DONE in 56.4 min, 74 Wh, valid bits/word 28.380 -> 10.012
+2026-11-01 18:28:51  [all] FINISHED lora_new_s42 (59.2 min)
+2026-11-01 18:28:51  [all] START eval_unsloth__gemma-3-4b-it__4bit__lora_new_s42
+2026-11-01 18:29:01  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 18:29:21  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.3 GB
+2026-11-01 18:30:08  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 100/900
+2026-11-01 18:30:46  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 200/900
+2026-11-01 18:31:24  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 300/900
+2026-11-01 18:32:04  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 400/900
+2026-11-01 18:32:43  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 500/900
+2026-11-01 18:33:23  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 600/900
+2026-11-01 18:34:04  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 700/900
+2026-11-01 18:34:43  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 800/900
+2026-11-01 18:35:22  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina: 900/900
+2026-11-01 18:35:22  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 latin_okina     DONE acc=0.5856  n=900  361.4s
+2026-11-01 18:36:03  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 100/900
+2026-11-01 18:36:42  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 200/900
+2026-11-01 18:37:21  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 300/900
+2026-11-01 18:38:02  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 400/900
+2026-11-01 18:38:39  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 500/900
+2026-11-01 18:39:16  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 600/900
+2026-11-01 18:39:57  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 700/900
+2026-11-01 18:40:36  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 800/900
+2026-11-01 18:41:16  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026: 900/900
+2026-11-01 18:41:16  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s42 new2026         DONE acc=0.5856  n=900  353.3s
+2026-11-01 18:41:17  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__lora_new_s42 (12.4 min)
+2026-11-01 18:41:17  [all] START analyze_unsloth__gemma-3-4b-it__4bit__lora_new_s42
+2026-11-01 18:41:20  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__lora_new_s42 (0.0 min)
+2026-11-01 18:41:20  [all] START lora_new_s43
+2026-11-01 18:41:51  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: 1,133 docs, 3,874,588 chars -> 1,407,916 tokens (0.363 tok/char), 2749 sequences of 512
+2026-11-01 18:43:08  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: before training, valid bits/word = 28.380; 171 optimizer steps
+2026-11-01 18:51:25  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 25/171 loss 2.2908 (8.3 min)
+2026-11-01 19:00:01  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 50/171 loss 2.4868 (16.9 min)
+2026-11-01 19:08:29  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 75/171 loss 3.3030 (25.4 min)
+2026-11-01 19:16:33  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 100/171 loss 3.5184 (33.4 min)
+2026-11-01 19:25:03  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 125/171 loss 2.3312 (41.9 min)
+2026-11-01 19:33:40  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 150/171 loss 2.2451 (50.5 min)
+2026-11-01 19:40:47  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 171/171 loss 2.4816 (57.7 min)
+2026-11-01 19:41:53  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: DONE in 57.7 min, 75 Wh, valid bits/word 28.380 -> 10.008
+2026-11-01 19:41:55  [all] FINISHED lora_new_s43 (60.6 min)
+2026-11-01 19:41:55  [all] START eval_unsloth__gemma-3-4b-it__4bit__lora_new_s43
+2026-11-01 19:42:06  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 19:42:23  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.3 GB
+2026-11-01 19:43:05  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 100/900
+2026-11-01 19:43:50  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 200/900
+2026-11-01 19:44:35  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 300/900
+2026-11-01 19:45:11  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 400/900
+2026-11-01 19:45:45  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 500/900
+2026-11-01 19:46:24  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 600/900
+2026-11-01 19:47:03  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 700/900
+2026-11-01 19:47:43  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 800/900
+2026-11-01 19:48:23  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina: 900/900
+2026-11-01 19:48:23  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 latin_okina     DONE acc=0.5756  n=900  359.6s
+2026-11-01 19:49:01  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 100/900
+2026-11-01 19:49:41  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 200/900
+2026-11-01 19:50:23  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 300/900
+2026-11-01 19:51:05  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 400/900
+2026-11-01 19:51:46  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 500/900
+2026-11-01 19:52:28  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 600/900
+2026-11-01 19:53:04  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 700/900
+2026-11-01 19:53:38  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 800/900
+2026-11-01 19:54:13  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026: 900/900
+2026-11-01 19:54:13  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s43 new2026         DONE acc=0.5778  n=900  350.1s
+2026-11-01 19:54:14  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__lora_new_s43 (12.3 min)
+2026-11-01 19:54:14  [all] START analyze_unsloth__gemma-3-4b-it__4bit__lora_new_s43
+2026-11-01 19:54:17  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__lora_new_s43 (0.1 min)
+2026-11-01 19:54:17  [all] START lora_old_s43
+2026-11-01 19:54:44  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: 1,133 docs, 4,027,274 chars -> 1,429,899 tokens (0.355 tok/char), 2792 sequences of 512
+2026-11-01 19:55:58  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: before training, valid bits/word = 22.970; 174 optimizer steps
+2026-11-01 20:06:34  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: step 25/174 loss 2.5296 (10.6 min)
+2026-11-01 20:15:19  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: step 50/174 loss 2.8036 (19.3 min)
+2026-11-01 20:24:16  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: step 75/174 loss 2.8099 (28.3 min)
+2026-11-01 20:33:10  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: step 100/174 loss 2.3054 (37.2 min)
+2026-11-01 20:42:04  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: step 125/174 loss 2.4141 (46.1 min)
+2026-11-01 20:50:58  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: step 150/174 loss 2.2059 (55.0 min)
+2026-11-01 20:58:57  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: step 174/174 loss 2.8648 (63.0 min)
+2026-11-01 21:00:01  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s43: DONE in 63.0 min, 77 Wh, valid bits/word 22.970 -> 9.460
+2026-11-01 21:00:03  [all] FINISHED lora_old_s43 (65.8 min)
+2026-11-01 21:00:03  [all] START eval_unsloth__gemma-3-4b-it__4bit__lora_old_s43
+2026-11-01 21:00:13  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 21:00:30  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.3 GB
+2026-11-01 21:01:12  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 100/900
+2026-11-01 21:01:50  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 200/900
+2026-11-01 21:02:30  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 300/900
+2026-11-01 21:03:08  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 400/900
+2026-11-01 21:03:48  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 500/900
+2026-11-01 21:04:27  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 600/900
+2026-11-01 21:05:05  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 700/900
+2026-11-01 21:05:46  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 800/900
+2026-11-01 21:06:27  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina: 900/900
+2026-11-01 21:06:27  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 latin_okina     DONE acc=0.5878  n=900  357.3s
+2026-11-01 21:07:05  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 100/900
+2026-11-01 21:07:44  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 200/900
+2026-11-01 21:08:20  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 300/900
+2026-11-01 21:08:55  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 400/900
+2026-11-01 21:09:33  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 500/900
+2026-11-01 21:10:13  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 600/900
+2026-11-01 21:10:53  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 700/900
+2026-11-01 21:11:32  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 800/900
+2026-11-01 21:12:11  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026: 900/900
+2026-11-01 21:12:11  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s43 new2026         DONE acc=0.5433  n=900  344.0s
+2026-11-01 21:12:13  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__lora_old_s43 (12.2 min)
+2026-11-01 21:12:13  [all] START analyze_unsloth__gemma-3-4b-it__4bit__lora_old_s43
+2026-11-01 21:12:16  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__lora_old_s43 (0.0 min)
+2026-11-01 21:12:16  [all] START lora_old_s44
+2026-11-01 21:12:46  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: 1,133 docs, 4,027,274 chars -> 1,429,899 tokens (0.355 tok/char), 2792 sequences of 512
+2026-11-01 21:14:06  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: before training, valid bits/word = 22.970; 174 optimizer steps
+2026-11-01 21:22:07  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: step 25/174 loss 2.9402 (8.0 min)
+2026-11-01 21:30:05  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: step 50/174 loss 2.4343 (16.0 min)
+2026-11-01 21:38:01  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: step 75/174 loss 2.4797 (23.9 min)
+2026-11-01 21:46:03  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: step 100/174 loss 2.5877 (31.9 min)
+2026-11-01 21:54:13  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: step 125/174 loss 3.5209 (40.1 min)
+2026-11-01 22:02:20  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: step 150/174 loss 1.9745 (48.2 min)
+2026-11-01 22:10:02  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: step 174/174 loss 2.9034 (55.9 min)
+2026-11-01 22:11:07  [train-B] unsloth__gemma-3-4b-it__4bit__lora_old_s44: DONE in 55.9 min, 72 Wh, valid bits/word 22.970 -> 9.475
+2026-11-01 22:11:09  [all] FINISHED lora_old_s44 (58.9 min)
+2026-11-01 22:11:09  [all] START eval_unsloth__gemma-3-4b-it__4bit__lora_old_s44
+2026-11-01 22:11:19  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 22:11:37  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.3 GB
+2026-11-01 22:12:17  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 100/900
+2026-11-01 22:12:51  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 200/900
+2026-11-01 22:13:28  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 300/900
+2026-11-01 22:14:11  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 400/900
+2026-11-01 22:14:51  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 500/900
+2026-11-01 22:15:30  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 600/900
+2026-11-01 22:16:09  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 700/900
+2026-11-01 22:16:48  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 800/900
+2026-11-01 22:17:27  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina: 900/900
+2026-11-01 22:17:27  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 latin_okina     DONE acc=0.5944  n=900  349.2s
+2026-11-01 22:18:08  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 100/900
+2026-11-01 22:18:47  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 200/900
+2026-11-01 22:19:23  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 300/900
+2026-11-01 22:19:59  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 400/900
+2026-11-01 22:20:37  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 500/900
+2026-11-01 22:21:15  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 600/900
+2026-11-01 22:21:56  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 700/900
+2026-11-01 22:22:35  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 800/900
+2026-11-01 22:23:14  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026: 900/900
+2026-11-01 22:23:14  [rq2] unsloth__gemma-3-4b-it__4bit__lora_old_s44 new2026         DONE acc=0.5511  n=900  347.2s
+2026-11-01 22:23:15  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__lora_old_s44 (12.1 min)
+2026-11-01 22:23:15  [all] START analyze_unsloth__gemma-3-4b-it__4bit__lora_old_s44
+2026-11-01 22:23:18  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__lora_old_s44 (0.0 min)
+2026-11-01 22:23:18  [all] START lora_new_s44
+2026-11-01 22:23:48  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: 1,133 docs, 3,874,588 chars -> 1,407,916 tokens (0.363 tok/char), 2749 sequences of 512
+2026-11-01 22:25:03  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: before training, valid bits/word = 28.380; 171 optimizer steps
+2026-11-01 22:33:11  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: step 25/171 loss 3.6950 (8.1 min)
+2026-11-01 22:41:10  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: step 50/171 loss 3.1750 (16.1 min)
+2026-11-01 22:49:14  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: step 75/171 loss 3.8434 (24.2 min)
+2026-11-01 22:57:31  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: step 100/171 loss 3.6457 (32.5 min)
+2026-11-01 23:05:29  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: step 125/171 loss 2.2896 (40.4 min)
+2026-11-01 23:13:15  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: step 150/171 loss 2.7892 (48.2 min)
+2026-11-01 23:20:08  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: step 171/171 loss 2.2870 (55.1 min)
+2026-11-01 23:21:10  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s44: DONE in 55.1 min, 71 Wh, valid bits/word 28.380 -> 10.008
+2026-11-01 23:21:11  [all] FINISHED lora_new_s44 (57.9 min)
+2026-11-01 23:21:11  [all] START eval_unsloth__gemma-3-4b-it__4bit__lora_new_s44
+2026-11-01 23:21:21  [rq2] unsloth/gemma-3-4b-it @ bf46152: downloading (if needed) and loading
+2026-11-01 23:21:39  [rq2] unsloth/gemma-3-4b-it: loaded, GPU memory 3.3 GB
+2026-11-01 23:22:22  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 100/900
+2026-11-01 23:23:00  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 200/900
+2026-11-01 23:23:37  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 300/900
+2026-11-01 23:24:13  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 400/900
+2026-11-01 23:24:49  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 500/900
+2026-11-01 23:25:27  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 600/900
+2026-11-01 23:26:11  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 700/900
+2026-11-01 23:26:50  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 800/900
+2026-11-01 23:27:28  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina: 900/900
+2026-11-01 23:27:28  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 latin_okina     DONE acc=0.5756  n=900  349.2s
+2026-11-01 23:28:07  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 100/900
+2026-11-01 23:28:46  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 200/900
+2026-11-01 23:29:22  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 300/900
+2026-11-01 23:30:01  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 400/900
+2026-11-01 23:30:39  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 500/900
+2026-11-01 23:31:16  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 600/900
+2026-11-01 23:31:57  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 700/900
+2026-11-01 23:32:34  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 800/900
+2026-11-01 23:33:12  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026: 900/900
+2026-11-01 23:33:12  [rq2] unsloth__gemma-3-4b-it__4bit__lora_new_s44 new2026         DONE acc=0.5833  n=900  343.5s
+2026-11-01 23:33:13  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit__lora_new_s44 (12.0 min)
+2026-11-01 23:33:13  [all] START analyze_unsloth__gemma-3-4b-it__4bit__lora_new_s44
+2026-11-01 23:33:16  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit__lora_new_s44 (0.0 min)
+2026-11-01 23:33:16  [all] PHASE 3: Exp A (from scratch)
+2026-11-01 23:33:16  [all] START scratch_separate_old_s42
+2026-11-01 23:36:13  [train-A] separate_old_s42: tokenizer 28s; train 200,001,319 chars -> 43,725,901 tokens (0.219 tok/char); 85,402 sequences
+2026-11-01 23:42:38  [train-A] separate_old_s42: step 200/1334 valid bits/word 16.229 (6.2 min)
+2026-11-01 23:48:28  [train-A] separate_old_s42: step 400/1334 valid bits/word 14.577 (11.8 min)
+2026-11-01 23:54:21  [train-A] separate_old_s42: step 600/1334 valid bits/word 13.454 (17.5 min)
+2026-11-02 00:00:14  [train-A] separate_old_s42: step 800/1334 valid bits/word 12.708 (23.1 min)
+2026-11-02 00:06:06  [train-A] separate_old_s42: step 1000/1334 valid bits/word 12.263 (28.8 min)
+2026-11-02 00:11:59  [train-A] separate_old_s42: step 1200/1334 valid bits/word 12.075 (34.5 min)
+2026-11-02 00:16:00  [train-A] separate_old_s42: step 1334/1334 valid bits/word 12.055 (38.3 min)
+2026-11-02 00:16:00  [train-A] separate_old_s42: DONE 98M params, 38.3 min, 59 Wh, final valid bits/word 12.055
+2026-11-02 00:16:02  [all] FINISHED scratch_separate_old_s42 (42.8 min)
+2026-11-02 00:16:02  [all] START scratch_separate_new_s42
+2026-11-02 00:19:39  [train-A] separate_new_s42: tokenizer 26s; train 192,390,984 chars -> 43,845,531 tokens (0.228 tok/char); 85,635 sequences
+2026-11-02 00:24:05  [train-A] separate_new_s42: step 200/1338 valid bits/word 16.364 (4.2 min)
+2026-11-02 00:28:28  [train-A] separate_new_s42: step 400/1338 valid bits/word 14.599 (8.4 min)
+2026-11-02 00:32:51  [train-A] separate_new_s42: step 600/1338 valid bits/word 13.375 (12.6 min)
+2026-11-02 00:37:13  [train-A] separate_new_s42: step 800/1338 valid bits/word 12.635 (16.7 min)
+2026-11-02 00:41:36  [train-A] separate_new_s42: step 1000/1338 valid bits/word 12.198 (20.9 min)
+2026-11-02 00:45:59  [train-A] separate_new_s42: step 1200/1338 valid bits/word 11.995 (25.1 min)
+2026-11-02 00:49:04  [train-A] separate_new_s42: step 1338/1338 valid bits/word 11.973 (28.0 min)
+2026-11-02 00:49:04  [train-A] separate_new_s42: DONE 98M params, 28.0 min, 52 Wh, final valid bits/word 11.973
+2026-11-02 00:49:06  [all] FINISHED scratch_separate_new_s42 (33.1 min)
+2026-11-02 00:49:06  [all] START scratch_shared_new_s42
+2026-11-02 00:52:34  [train-A] shared_new_s42: tokenizer 57s; train 192,390,984 chars -> 44,771,911 tokens (0.233 tok/char); 87,445 sequences
+2026-11-02 00:57:00  [train-A] shared_new_s42: step 200/1366 valid bits/word 16.490 (4.2 min)
+2026-11-02 01:01:23  [train-A] shared_new_s42: step 400/1366 valid bits/word 14.708 (8.4 min)
+2026-11-02 01:05:46  [train-A] shared_new_s42: step 600/1366 valid bits/word 13.503 (12.6 min)
+2026-11-02 01:10:09  [train-A] shared_new_s42: step 800/1366 valid bits/word 12.755 (16.7 min)
+2026-11-02 01:14:32  [train-A] shared_new_s42: step 1000/1366 valid bits/word 12.294 (20.9 min)
+2026-11-02 01:18:56  [train-A] shared_new_s42: step 1200/1366 valid bits/word 12.079 (25.1 min)
+2026-11-02 01:22:36  [train-A] shared_new_s42: step 1366/1366 valid bits/word 12.043 (28.6 min)
+2026-11-02 01:22:36  [train-A] shared_new_s42: DONE 98M params, 28.6 min, 53 Wh, final valid bits/word 12.043
+2026-11-02 01:22:38  [all] FINISHED scratch_shared_new_s42 (33.5 min)
+2026-11-02 01:22:38  [all] START scratch_shared_old_s42
+2026-11-02 01:24:54  [train-A] shared_old_s42: tokenizer 57s; train 200,001,319 chars -> 44,737,301 tokens (0.224 tok/char); 87,377 sequences
+2026-11-02 01:29:19  [train-A] shared_old_s42: step 200/1365 valid bits/word 16.326 (4.2 min)
+2026-11-02 01:33:42  [train-A] shared_old_s42: step 400/1365 valid bits/word 14.505 (8.4 min)
+2026-11-02 01:38:06  [train-A] shared_old_s42: step 600/1365 valid bits/word 13.295 (12.6 min)
+2026-11-02 01:42:28  [train-A] shared_old_s42: step 800/1365 valid bits/word 12.568 (16.7 min)
+2026-11-02 01:46:51  [train-A] shared_old_s42: step 1000/1365 valid bits/word 12.118 (20.9 min)
+2026-11-02 01:51:14  [train-A] shared_old_s42: step 1200/1365 valid bits/word 11.906 (25.1 min)
+2026-11-02 01:54:54  [train-A] shared_old_s42: step 1365/1365 valid bits/word 11.873 (28.6 min)
+2026-11-02 01:54:54  [train-A] shared_old_s42: DONE 98M params, 28.6 min, 53 Wh, final valid bits/word 11.873
+2026-11-02 01:54:56  [all] FINISHED scratch_shared_old_s42 (32.3 min)
+2026-11-02 01:54:56  [all] START scratch_separate_old_s43
+2026-11-02 01:57:35  [train-A] separate_old_s43: tokenizer 28s; train 200,001,319 chars -> 43,725,901 tokens (0.219 tok/char); 85,402 sequences
+2026-11-02 02:02:01  [train-A] separate_old_s43: step 200/1334 valid bits/word 16.375 (4.2 min)
+2026-11-02 02:06:24  [train-A] separate_old_s43: step 400/1334 valid bits/word 14.783 (8.4 min)
+2026-11-02 02:10:47  [train-A] separate_old_s43: step 600/1334 valid bits/word 13.706 (12.6 min)
+2026-11-02 02:15:09  [train-A] separate_old_s43: step 800/1334 valid bits/word 12.970 (16.7 min)
+2026-11-02 02:19:32  [train-A] separate_old_s43: step 1000/1334 valid bits/word 12.527 (20.9 min)
+2026-11-02 02:23:55  [train-A] separate_old_s43: step 1200/1334 valid bits/word 12.332 (25.1 min)
+2026-11-02 02:26:55  [train-A] separate_old_s43: step 1334/1334 valid bits/word 12.311 (27.9 min)
+2026-11-02 02:26:55  [train-A] separate_old_s43: DONE 98M params, 27.9 min, 52 Wh, final valid bits/word 12.310
+2026-11-02 02:26:57  [all] FINISHED scratch_separate_old_s43 (32.0 min)
+2026-11-02 02:26:57  [all] START scratch_separate_new_s43
+2026-11-02 02:29:30  [train-A] separate_new_s43: tokenizer 26s; train 192,390,984 chars -> 43,845,531 tokens (0.228 tok/char); 85,635 sequences
+2026-11-02 02:33:56  [train-A] separate_new_s43: step 200/1338 valid bits/word 16.257 (4.2 min)
+2026-11-02 02:38:19  [train-A] separate_new_s43: step 400/1338 valid bits/word 14.550 (8.4 min)
+2026-11-02 02:42:42  [train-A] separate_new_s43: step 600/1338 valid bits/word 13.441 (12.6 min)
+2026-11-02 02:47:04  [train-A] separate_new_s43: step 800/1338 valid bits/word 12.695 (16.7 min)
+2026-11-02 02:51:27  [train-A] separate_new_s43: step 1000/1338 valid bits/word 12.262 (20.9 min)
+2026-11-02 02:55:50  [train-A] separate_new_s43: step 1200/1338 valid bits/word 12.067 (25.1 min)
+2026-11-02 02:58:55  [train-A] separate_new_s43: step 1338/1338 valid bits/word 12.044 (28.0 min)
+2026-11-02 02:58:55  [train-A] separate_new_s43: DONE 98M params, 28.0 min, 52 Wh, final valid bits/word 12.044
+2026-11-02 02:58:57  [all] FINISHED scratch_separate_new_s43 (32.0 min)
+2026-11-02 02:58:57  [all] START scratch_shared_new_s43
+2026-11-02 03:01:25  [train-A] shared_new_s43: tokenizer 57s; train 192,390,984 chars -> 44,771,911 tokens (0.233 tok/char); 87,445 sequences
+2026-11-02 03:05:51  [train-A] shared_new_s43: step 200/1366 valid bits/word 16.595 (4.2 min)
+2026-11-02 03:10:14  [train-A] shared_new_s43: step 400/1366 valid bits/word 14.875 (8.4 min)
+2026-11-02 03:14:37  [train-A] shared_new_s43: step 600/1366 valid bits/word 13.785 (12.6 min)
+2026-11-02 03:19:00  [train-A] shared_new_s43: step 800/1366 valid bits/word 12.998 (16.7 min)
+2026-11-02 03:23:23  [train-A] shared_new_s43: step 1000/1366 valid bits/word 12.515 (20.9 min)
+2026-11-02 03:27:46  [train-A] shared_new_s43: step 1200/1366 valid bits/word 12.291 (25.1 min)
+2026-11-02 03:31:27  [train-A] shared_new_s43: step 1366/1366 valid bits/word 12.254 (28.6 min)
+2026-11-02 03:31:27  [train-A] shared_new_s43: DONE 98M params, 28.6 min, 53 Wh, final valid bits/word 12.254
+2026-11-02 03:31:29  [all] FINISHED scratch_shared_new_s43 (32.5 min)
+2026-11-02 03:31:29  [all] START scratch_shared_old_s43
+2026-11-02 03:33:52  [train-A] shared_old_s43: tokenizer 57s; train 200,001,319 chars -> 44,737,301 tokens (0.224 tok/char); 87,377 sequences
+2026-11-02 03:38:18  [train-A] shared_old_s43: step 200/1365 valid bits/word 16.335 (4.2 min)
+2026-11-02 03:42:41  [train-A] shared_old_s43: step 400/1365 valid bits/word 14.519 (8.4 min)
+2026-11-02 03:47:04  [train-A] shared_old_s43: step 600/1365 valid bits/word 13.315 (12.6 min)
+2026-11-02 03:51:27  [train-A] shared_old_s43: step 800/1365 valid bits/word 12.569 (16.7 min)
+2026-11-02 03:55:50  [train-A] shared_old_s43: step 1000/1365 valid bits/word 12.110 (20.9 min)
+2026-11-02 04:00:13  [train-A] shared_old_s43: step 1200/1365 valid bits/word 11.893 (25.1 min)
+2026-11-02 04:03:53  [train-A] shared_old_s43: step 1365/1365 valid bits/word 11.859 (28.6 min)
+2026-11-02 04:03:53  [train-A] shared_old_s43: DONE 98M params, 28.6 min, 53 Wh, final valid bits/word 11.859
+2026-11-02 04:03:55  [all] FINISHED scratch_shared_old_s43 (32.4 min)
+2026-11-02 04:03:55  [all] START scratch_separate_old_s44
+2026-11-02 04:06:13  [train-A] separate_old_s44: tokenizer 28s; train 200,001,319 chars -> 43,725,901 tokens (0.219 tok/char); 85,402 sequences
+2026-11-02 04:10:39  [train-A] separate_old_s44: step 200/1334 valid bits/word 16.189 (4.2 min)
+2026-11-02 04:14:55  [train-A] separate_old_s44: step 400/1334 valid bits/word 14.515 (8.3 min)
+2026-11-02 04:19:18  [train-A] separate_old_s44: step 600/1334 valid bits/word 13.346 (12.4 min)
+2026-11-02 04:23:41  [train-A] separate_old_s44: step 800/1334 valid bits/word 12.616 (16.6 min)
+2026-11-02 04:28:04  [train-A] separate_old_s44: step 1000/1334 valid bits/word 12.185 (20.8 min)
+2026-11-02 04:32:26  [train-A] separate_old_s44: step 1200/1334 valid bits/word 11.999 (25.0 min)
+2026-11-02 04:35:26  [train-A] separate_old_s44: step 1334/1334 valid bits/word 11.978 (27.8 min)
+2026-11-02 04:35:27  [train-A] separate_old_s44: DONE 98M params, 27.8 min, 52 Wh, final valid bits/word 11.978
+2026-11-02 04:35:29  [all] FINISHED scratch_separate_old_s44 (31.6 min)
+2026-11-02 04:35:29  [all] START scratch_separate_new_s44
+2026-11-02 04:38:21  [train-A] separate_new_s44: tokenizer 26s; train 192,390,984 chars -> 43,845,531 tokens (0.228 tok/char); 85,635 sequences
+2026-11-02 04:42:47  [train-A] separate_new_s44: step 200/1338 valid bits/word 16.241 (4.2 min)
+2026-11-02 04:47:10  [train-A] separate_new_s44: step 400/1338 valid bits/word 14.548 (8.4 min)
+2026-11-02 04:51:32  [train-A] separate_new_s44: step 600/1338 valid bits/word 13.390 (12.6 min)
+2026-11-02 04:55:55  [train-A] separate_new_s44: step 800/1338 valid bits/word 12.653 (16.7 min)
+2026-11-02 05:00:18  [train-A] separate_new_s44: step 1000/1338 valid bits/word 12.225 (20.9 min)
+2026-11-02 05:04:41  [train-A] separate_new_s44: step 1200/1338 valid bits/word 12.036 (25.1 min)
+2026-11-02 05:07:46  [train-A] separate_new_s44: step 1338/1338 valid bits/word 12.013 (28.0 min)
+2026-11-02 05:07:46  [train-A] separate_new_s44: DONE 98M params, 28.0 min, 52 Wh, final valid bits/word 12.013
+2026-11-02 05:07:48  [all] FINISHED scratch_separate_new_s44 (32.3 min)
+2026-11-02 05:07:48  [all] START scratch_shared_new_s44
+2026-11-02 05:10:15  [train-A] shared_new_s44: tokenizer 57s; train 192,390,984 chars -> 44,771,911 tokens (0.233 tok/char); 87,445 sequences
+2026-11-02 05:14:42  [train-A] shared_new_s44: step 200/1366 valid bits/word 16.472 (4.2 min)
+2026-11-02 05:19:05  [train-A] shared_new_s44: step 400/1366 valid bits/word 14.642 (8.4 min)
+2026-11-02 05:23:28  [train-A] shared_new_s44: step 600/1366 valid bits/word 13.425 (12.6 min)
+2026-11-02 05:27:51  [train-A] shared_new_s44: step 800/1366 valid bits/word 12.664 (16.7 min)
+2026-11-02 05:32:14  [train-A] shared_new_s44: step 1000/1366 valid bits/word 12.208 (20.9 min)
+2026-11-02 05:36:37  [train-A] shared_new_s44: step 1200/1366 valid bits/word 11.996 (25.1 min)
+2026-11-02 05:40:17  [train-A] shared_new_s44: step 1366/1366 valid bits/word 11.959 (28.6 min)
+2026-11-02 05:40:18  [train-A] shared_new_s44: DONE 98M params, 28.6 min, 54 Wh, final valid bits/word 11.959
+2026-11-02 05:40:20  [all] FINISHED scratch_shared_new_s44 (32.5 min)
+2026-11-02 05:40:20  [all] START scratch_shared_old_s44
+2026-11-02 05:42:52  [train-A] shared_old_s44: tokenizer 57s; train 200,001,319 chars -> 44,737,301 tokens (0.224 tok/char); 87,377 sequences
+2026-11-02 05:47:18  [train-A] shared_old_s44: step 200/1365 valid bits/word 16.615 (4.2 min)
+2026-11-02 05:51:41  [train-A] shared_old_s44: step 400/1365 valid bits/word 14.874 (8.4 min)
+2026-11-02 05:56:04  [train-A] shared_old_s44: step 600/1365 valid bits/word 13.703 (12.6 min)
+2026-11-02 06:00:27  [train-A] shared_old_s44: step 800/1365 valid bits/word 12.902 (16.7 min)
+2026-11-02 06:04:50  [train-A] shared_old_s44: step 1000/1365 valid bits/word 12.426 (20.9 min)
+2026-11-02 06:09:13  [train-A] shared_old_s44: step 1200/1365 valid bits/word 12.200 (25.1 min)
+2026-11-02 06:12:52  [train-A] shared_old_s44: step 1365/1365 valid bits/word 12.161 (28.6 min)
+2026-11-02 06:12:52  [train-A] shared_old_s44: DONE 98M params, 28.6 min, 53 Wh, final valid bits/word 12.161
+2026-11-02 06:12:55  [all] FINISHED scratch_shared_old_s44 (32.6 min)
+2026-11-02 06:12:55  [all] ========== ALL EXPERIMENTS FINISHED; failed steps: none ==========

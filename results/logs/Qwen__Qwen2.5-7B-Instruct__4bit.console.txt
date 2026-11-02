@@ -1,0 +1,28 @@
+2026-10-30 11:24:26  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-10-30 11:24:52  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: already complete, skipping
+2026-10-30 11:24:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: already complete, skipping
+2026-10-30 11:25:10  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 100/900
+2026-10-30 11:25:27  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 200/900
+2026-10-30 11:25:44  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 300/900
+2026-10-30 11:26:01  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 400/900
+2026-10-30 11:26:19  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 500/900
+2026-10-30 11:26:40  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 600/900
+2026-10-30 11:27:00  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 700/900
+2026-10-30 11:27:23  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 800/900
+2026-10-30 11:27:46  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: 900/900
+2026-10-30 11:27:46  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og          DONE acc=0.5900  n=900  174.0s
+2026-10-30 11:28:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 100/900
+2026-10-30 11:28:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 200/900
+2026-10-30 11:28:50  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 300/900
+2026-10-30 11:29:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 400/900
+2026-10-30 11:29:29  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 500/900
+2026-10-30 11:29:49  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 600/900
+2026-10-30 11:30:09  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 700/900
+2026-10-30 11:30:31  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 800/900
+2026-10-30 11:30:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: 900/900
+2026-10-30 11:30:52  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch        DONE acc=0.5978  n=900  185.7s

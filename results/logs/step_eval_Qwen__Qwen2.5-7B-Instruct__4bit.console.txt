@@ -1,0 +1,30 @@
+2026-11-01 13:25:57  [rq2] Qwen/Qwen2.5-7B-Instruct @ a09a354: downloading (if needed) and loading
+2026-11-01 13:26:22  [rq2] Qwen/Qwen2.5-7B-Instruct: loaded, GPU memory 5.5 GB
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_okina: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_ascii: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_backtick: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit latin_rsquo: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new2026: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit cyrillic: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_og: already complete, skipping
+2026-11-01 13:26:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit new_shch: already complete, skipping
+2026-11-01 13:26:40  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 100/900
+2026-11-01 13:26:57  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 200/900
+2026-11-01 13:27:13  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 300/900
+2026-11-01 13:27:29  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 400/900
+2026-11-01 13:27:47  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 500/900
+2026-11-01 13:28:04  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 600/900
+2026-11-01 13:28:22  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 700/900
+2026-11-01 13:28:41  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 800/900
+2026-11-01 13:28:59  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv: 900/900
+2026-11-01 13:28:59  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit backconv        DONE acc=0.6022  n=900  157.3s
+2026-11-01 13:29:16  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 100/900
+2026-11-01 13:29:34  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 200/900
+2026-11-01 13:29:51  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 300/900
+2026-11-01 13:30:08  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 400/900
+2026-11-01 13:30:26  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 500/900
+2026-11-01 13:30:45  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 600/900
+2026-11-01 13:31:03  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 700/900
+2026-11-01 13:31:23  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 800/900
+2026-11-01 13:31:42  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe: 900/900
+2026-11-01 13:31:42  [rq2] Qwen__Qwen2.5-7B-Instruct__4bit mixed_apostrophe DONE acc=0.5967  n=900  163.0s

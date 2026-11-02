@@ -1,0 +1,33 @@
+{
+ "time": "2026-11-01 14:25:21",
+ "model": "unsloth/Mistral-Nemo-Instruct-2407",
+ "revision": "e9976040f42d8a5590ed58cefe973061b3f973b5",
+ "load_4bit": true,
+ "adapter": null,
+ "prompt": "raw",
+ "dataset": "belebele_uzn",
+ "limit": null,
+ "seed": 42,
+ "template_sha256": "0d700020eb014214aa4e9a8d9cf5dfb4d6291e92bef3c8696e978937603fc6a4",
+ "letter_token_ids": [
+  1349,
+  1398,
+  1359,
+  1407
+ ],
+ "versions": {
+  "python": "3.12.10",
+  "torch": "2.9.0+cu128",
+  "transformers": "4.57.1",
+  "cuda": "12.8"
+ },
+ "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU",
+ "accuracy": {
+  "backconv": 0.7466666666666667,
+  "mixed_apostrophe": 0.7488888888888889
+ },
+ "seconds": {
+  "backconv": 224.3,
+  "mixed_apostrophe": 225.1
+ }
+}

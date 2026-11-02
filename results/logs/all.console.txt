@@ -1,0 +1,12 @@
+2026-11-01 11:40:31  [all] ========== full experiment run started ==========
+2026-11-01 11:40:37  [all] manifest written: 37 files hashed
+2026-11-01 11:40:37  [all] PHASE 1: RQ2 completion
+2026-11-01 11:40:37  [all] START eval_unsloth__gemma-3-4b-it
+2026-11-01 11:54:27  [all] FINISHED eval_unsloth__gemma-3-4b-it (13.8 min)
+2026-11-01 11:54:27  [all] START analyze_unsloth__gemma-3-4b-it
+2026-11-01 11:54:35  [all] FINISHED analyze_unsloth__gemma-3-4b-it (0.1 min)
+2026-11-01 11:54:35  [all] START eval_unsloth__gemma-3-4b-it__4bit
+2026-11-01 12:48:45  [all] FINISHED eval_unsloth__gemma-3-4b-it__4bit (54.2 min)
+2026-11-01 12:48:45  [all] START analyze_unsloth__gemma-3-4b-it__4bit
+2026-11-01 12:48:49  [all] FINISHED analyze_unsloth__gemma-3-4b-it__4bit (0.1 min)
+2026-11-01 12:48:49  [all] START eval_Qwen__Qwen2.5-7B-Instruct__4bit

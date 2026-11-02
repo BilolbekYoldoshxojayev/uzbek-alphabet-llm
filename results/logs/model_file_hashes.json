@@ -1,0 +1,105 @@
+{
+ "unsloth/gemma-3-4b-it": {
+  "revision": "bf46152c47f5dd20b896357cb51abc4c03b8ee8c",
+  "files": {
+   "added_tokens.json": "ok",
+   "chat_template.json": "not in cache",
+   "config.json": "ok",
+   "generation_config.json": "ok",
+   "model-00001-of-00002.safetensors": "ok",
+   "model-00002-of-00002.safetensors": "ok",
+   "model.safetensors.index.json": "ok",
+   "preprocessor_config.json": "not in cache",
+   "processor_config.json": "ok",
+   "special_tokens_map.json": "ok",
+   "tokenizer.json": "ok",
+   "tokenizer.model": "ok",
+   "tokenizer_config.json": "ok"
+  }
+ },
+ "Qwen/Qwen2.5-7B-Instruct": {
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "files": {
+   "config.json": "ok",
+   "generation_config.json": "ok",
+   "model-00001-of-00004.safetensors": "ok",
+   "model-00002-of-00004.safetensors": "ok",
+   "model-00003-of-00004.safetensors": "ok",
+   "model-00004-of-00004.safetensors": "ok",
+   "model.safetensors.index.json": "ok",
+   "tokenizer.json": "ok",
+   "tokenizer_config.json": "ok",
+   "vocab.json": "ok"
+  }
+ },
+ "unsloth/Llama-3.1-8B-Instruct": {
+  "revision": "4699cc75b550f9c6f3173fb80f4703b62d946aa5",
+  "files": {
+   "config.json": "ok",
+   "generation_config.json": "ok",
+   "model-00001-of-00004.safetensors": "ok",
+   "model-00002-of-00004.safetensors": "ok",
+   "model-00003-of-00004.safetensors": "ok",
+   "model-00004-of-00004.safetensors": "ok",
+   "model.safetensors.index.json": "ok",
+   "special_tokens_map.json": "ok",
+   "tokenizer.json": "ok",
+   "tokenizer_config.json": "ok"
+  }
+ },
+ "Qwen/Qwen3-8B": {
+  "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+  "files": {
+   "config.json": "ok",
+   "generation_config.json": "ok",
+   "model-00001-of-00005.safetensors": "ok",
+   "model-00002-of-00005.safetensors": "ok",
+   "model-00003-of-00005.safetensors": "ok",
+   "model-00004-of-00005.safetensors": "ok",
+   "model-00005-of-00005.safetensors": "ok",
+   "model.safetensors.index.json": "ok",
+   "tokenizer.json": "ok",
+   "tokenizer_config.json": "ok",
+   "vocab.json": "ok"
+  }
+ },
+ "unsloth/gemma-3-12b-it": {
+  "revision": "9478e665381f42974aa06177b019352fb6291876",
+  "files": {
+   "added_tokens.json": "ok",
+   "chat_template.json": "ok",
+   "config.json": "ok",
+   "generation_config.json": "ok",
+   "model-00001-of-00005.safetensors": "ok",
+   "model-00002-of-00005.safetensors": "ok",
+   "model-00003-of-00005.safetensors": "ok",
+   "model-00004-of-00005.safetensors": "ok",
+   "model-00005-of-00005.safetensors": "ok",
+   "model.safetensors.index.json": "ok",
+   "preprocessor_config.json": "ok",
+   "processor_config.json": "ok",
+   "special_tokens_map.json": "ok",
+   "tokenizer.json": "ok",
+   "tokenizer.model": "ok",
+   "tokenizer_config.json": "ok"
+  }
+ },
+ "unsloth/Mistral-Nemo-Instruct-2407": {
+  "revision": "e9976040f42d8a5590ed58cefe973061b3f973b5",
+  "files": {
+   "config.json": "ok",
+   "generation_config.json": "ok",
+   "model-00001-of-00005.safetensors": "ok",
+   "model-00002-of-00005.safetensors": "ok",
+   "model-00003-of-00005.safetensors": "ok",
+   "model-00004-of-00005.safetensors": "ok",
+   "model-00005-of-00005.safetensors": "ok",
+   "model.safetensors.index.json": "ok",
+   "special_tokens_map.json": "ok",
+   "tekken.json": "ok",
+   "tokenizer.json": "ok",
+   "tokenizer_config.json": "ok",
+   "vocab.json": "ok"
+  }
+ }
+}

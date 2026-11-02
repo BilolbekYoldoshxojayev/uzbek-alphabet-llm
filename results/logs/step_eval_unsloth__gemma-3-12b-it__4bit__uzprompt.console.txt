@@ -1,0 +1,22 @@
+2026-11-01 15:51:23  [rq2] unsloth/gemma-3-12b-it @ 9478e66: downloading (if needed) and loading
+2026-11-01 15:52:04  [rq2] unsloth/gemma-3-12b-it: loaded, GPU memory 7.8 GB
+2026-11-01 15:52:39  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 100/900
+2026-11-01 15:53:13  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 200/900
+2026-11-01 15:53:51  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 300/900
+2026-11-01 15:54:28  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 400/900
+2026-11-01 15:55:03  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 500/900
+2026-11-01 15:55:38  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 600/900
+2026-11-01 15:56:14  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 700/900
+2026-11-01 15:56:48  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 800/900
+2026-11-01 15:57:23  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina: 900/900
+2026-11-01 15:57:23  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt latin_okina     DONE acc=0.8322  n=900  319.1s
+2026-11-01 15:58:02  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 100/900
+2026-11-01 15:58:38  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 200/900
+2026-11-01 15:59:12  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 300/900
+2026-11-01 15:59:49  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 400/900
+2026-11-01 16:00:24  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 500/900
+2026-11-01 16:00:59  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 600/900
+2026-11-01 16:01:34  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 700/900
+2026-11-01 16:02:12  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 800/900
+2026-11-01 16:02:47  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026: 900/900
+2026-11-01 16:02:47  [rq2] unsloth__gemma-3-12b-it__4bit__uzprompt new2026         DONE acc=0.7989  n=900  324.3s

@@ -1,0 +1,46 @@
+{
+ "model": "unsloth/gemma-3-4b-it",
+ "revision": "bf46152c47f5dd20b896357cb51abc4c03b8ee8c",
+ "spelling": "new",
+ "seed": 42,
+ "args": {
+  "model": "unsloth/gemma-3-4b-it",
+  "spelling": "new",
+  "chars": 4000000,
+  "seq": 512,
+  "batch": 1,
+  "accum": 16,
+  "lr": 0.0002,
+  "r": 16,
+  "seed": 42,
+  "outroot": "results/train/lora"
+ },
+ "train_docs": 1133,
+ "train_chars": 3874588,
+ "train_tokens": 1407916,
+ "tokens_per_char": 0.3633717959173982,
+ "steps": 171,
+ "train_seconds": 3386.9,
+ "tokens_per_second": 415.6,
+ "chars_per_second": 1144.0,
+ "peak_gpu_memory_gb": 6.58,
+ "gpu_mean_power_w": 78.6,
+ "gpu_energy_wh": 74.0,
+ "power_samples": 1629,
+ "valid_before": {
+  "bits_per_word": 28.379823146978033,
+  "bits_per_char": 3.618176446540395
+ },
+ "valid_after": {
+  "bits_per_word": 10.012105354243152,
+  "bits_per_char": 1.2764548808282816
+ },
+ "valid_words": 27316,
+ "valid_chars": 214258,
+ "versions": {
+  "torch": "2.9.0+cu128",
+  "transformers": "4.57.1",
+  "peft": "0.17.1"
+ },
+ "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU"
+}

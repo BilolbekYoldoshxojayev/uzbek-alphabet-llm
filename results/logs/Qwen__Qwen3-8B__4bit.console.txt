@@ -1,0 +1,82 @@
+2026-10-30 11:58:15  [rq2] Qwen/Qwen3-8B @ b968826: downloading (if needed) and loading
+2026-10-30 12:05:45  [rq2] Qwen/Qwen3-8B: loaded, GPU memory 6.0 GB
+2026-10-30 12:06:11  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 100/900
+2026-10-30 12:06:34  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 200/900
+2026-10-30 12:06:55  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 300/900
+2026-10-30 12:07:19  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 400/900
+2026-10-30 12:07:41  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 500/900
+2026-10-30 12:08:04  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 600/900
+2026-10-30 12:08:28  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 700/900
+2026-10-30 12:08:53  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 800/900
+2026-10-30 12:09:17  [rq2] Qwen__Qwen3-8B__4bit latin_okina: 900/900
+2026-10-30 12:09:17  [rq2] Qwen__Qwen3-8B__4bit latin_okina     DONE acc=0.6967  n=900  212.0s
+2026-10-30 12:09:40  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 100/900
+2026-10-30 12:10:03  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 200/900
+2026-10-30 12:10:25  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 300/900
+2026-10-30 12:10:47  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 400/900
+2026-10-30 12:11:10  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 500/900
+2026-10-30 12:11:35  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 600/900
+2026-10-30 12:11:59  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 700/900
+2026-10-30 12:12:25  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 800/900
+2026-10-30 12:12:50  [rq2] Qwen__Qwen3-8B__4bit latin_ascii: 900/900
+2026-10-30 12:12:50  [rq2] Qwen__Qwen3-8B__4bit latin_ascii     DONE acc=0.7056  n=900  213.1s
+2026-10-30 12:13:14  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 100/900
+2026-10-30 12:13:38  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 200/900
+2026-10-30 12:14:01  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 300/900
+2026-10-30 12:14:39  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 400/900
+2026-10-30 12:15:21  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 500/900
+2026-10-30 12:15:59  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 600/900
+2026-10-30 12:16:29  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 700/900
+2026-10-30 12:17:10  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 800/900
+2026-10-30 12:17:35  [rq2] Qwen__Qwen3-8B__4bit latin_backtick: 900/900
+2026-10-30 12:17:35  [rq2] Qwen__Qwen3-8B__4bit latin_backtick  DONE acc=0.7011  n=900  284.3s
+2026-10-30 12:18:01  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 100/900
+2026-10-30 12:18:28  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 200/900
+2026-10-30 12:18:53  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 300/900
+2026-10-30 12:19:18  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 400/900
+2026-10-30 12:19:43  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 500/900
+2026-10-30 12:20:10  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 600/900
+2026-10-30 12:20:35  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 700/900
+2026-10-30 12:21:01  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 800/900
+2026-10-30 12:21:26  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo: 900/900
+2026-10-30 12:21:26  [rq2] Qwen__Qwen3-8B__4bit latin_rsquo     DONE acc=0.7022  n=900  231.6s
+2026-10-30 12:21:52  [rq2] Qwen__Qwen3-8B__4bit new2026: 100/900
+2026-10-30 12:22:18  [rq2] Qwen__Qwen3-8B__4bit new2026: 200/900
+2026-10-30 12:22:45  [rq2] Qwen__Qwen3-8B__4bit new2026: 300/900
+2026-10-30 12:23:10  [rq2] Qwen__Qwen3-8B__4bit new2026: 400/900
+2026-10-30 12:23:34  [rq2] Qwen__Qwen3-8B__4bit new2026: 500/900
+2026-10-30 12:24:01  [rq2] Qwen__Qwen3-8B__4bit new2026: 600/900
+2026-10-30 12:24:26  [rq2] Qwen__Qwen3-8B__4bit new2026: 700/900
+2026-10-30 12:24:51  [rq2] Qwen__Qwen3-8B__4bit new2026: 800/900
+2026-10-30 12:25:16  [rq2] Qwen__Qwen3-8B__4bit new2026: 900/900
+2026-10-30 12:25:16  [rq2] Qwen__Qwen3-8B__4bit new2026         DONE acc=0.6533  n=900  229.7s
+2026-10-30 12:25:43  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 100/900
+2026-10-30 12:26:11  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 200/900
+2026-10-30 12:26:38  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 300/900
+2026-10-30 12:27:03  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 400/900
+2026-10-30 12:27:30  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 500/900
+2026-10-30 12:28:00  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 600/900
+2026-10-30 12:28:27  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 700/900
+2026-10-30 12:28:57  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 800/900
+2026-10-30 12:29:26  [rq2] Qwen__Qwen3-8B__4bit cyrillic: 900/900
+2026-10-30 12:29:26  [rq2] Qwen__Qwen3-8B__4bit cyrillic        DONE acc=0.6633  n=900  250.0s
+2026-10-30 12:29:52  [rq2] Qwen__Qwen3-8B__4bit new_og: 100/900
+2026-10-30 12:30:18  [rq2] Qwen__Qwen3-8B__4bit new_og: 200/900
+2026-10-30 12:30:43  [rq2] Qwen__Qwen3-8B__4bit new_og: 300/900
+2026-10-30 12:31:08  [rq2] Qwen__Qwen3-8B__4bit new_og: 400/900
+2026-10-30 12:31:32  [rq2] Qwen__Qwen3-8B__4bit new_og: 500/900
+2026-10-30 12:31:58  [rq2] Qwen__Qwen3-8B__4bit new_og: 600/900
+2026-10-30 12:32:23  [rq2] Qwen__Qwen3-8B__4bit new_og: 700/900
+2026-10-30 12:32:50  [rq2] Qwen__Qwen3-8B__4bit new_og: 800/900
+2026-10-30 12:33:15  [rq2] Qwen__Qwen3-8B__4bit new_og: 900/900
+2026-10-30 12:33:15  [rq2] Qwen__Qwen3-8B__4bit new_og          DONE acc=0.6789  n=900  229.0s
+2026-10-30 12:33:40  [rq2] Qwen__Qwen3-8B__4bit new_shch: 100/900
+2026-10-30 12:34:07  [rq2] Qwen__Qwen3-8B__4bit new_shch: 200/900
+2026-10-30 12:34:32  [rq2] Qwen__Qwen3-8B__4bit new_shch: 300/900
+2026-10-30 12:34:57  [rq2] Qwen__Qwen3-8B__4bit new_shch: 400/900
+2026-10-30 12:35:22  [rq2] Qwen__Qwen3-8B__4bit new_shch: 500/900
+2026-10-30 12:35:48  [rq2] Qwen__Qwen3-8B__4bit new_shch: 600/900
+2026-10-30 12:36:14  [rq2] Qwen__Qwen3-8B__4bit new_shch: 700/900
+2026-10-30 12:36:40  [rq2] Qwen__Qwen3-8B__4bit new_shch: 800/900
+2026-10-30 12:37:06  [rq2] Qwen__Qwen3-8B__4bit new_shch: 900/900
+2026-10-30 12:37:06  [rq2] Qwen__Qwen3-8B__4bit new_shch        DONE acc=0.6856  n=900  230.5s

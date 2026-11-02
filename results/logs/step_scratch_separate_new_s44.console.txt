@@ -1,0 +1,10 @@
+2026-11-02 04:38:21  [train-A] separate_new_s44: tokenizer 26s; train 192,390,984 chars -> 43,845,531 tokens (0.228 tok/char); 85,635 sequences
+`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+2026-11-02 04:42:47  [train-A] separate_new_s44: step 200/1338 valid bits/word 16.241 (4.2 min)
+2026-11-02 04:47:10  [train-A] separate_new_s44: step 400/1338 valid bits/word 14.548 (8.4 min)
+2026-11-02 04:51:32  [train-A] separate_new_s44: step 600/1338 valid bits/word 13.390 (12.6 min)
+2026-11-02 04:55:55  [train-A] separate_new_s44: step 800/1338 valid bits/word 12.653 (16.7 min)
+2026-11-02 05:00:18  [train-A] separate_new_s44: step 1000/1338 valid bits/word 12.225 (20.9 min)
+2026-11-02 05:04:41  [train-A] separate_new_s44: step 1200/1338 valid bits/word 12.036 (25.1 min)
+2026-11-02 05:07:46  [train-A] separate_new_s44: step 1338/1338 valid bits/word 12.013 (28.0 min)
+2026-11-02 05:07:46  [train-A] separate_new_s44: DONE 98M params, 28.0 min, 52 Wh, final valid bits/word 12.013

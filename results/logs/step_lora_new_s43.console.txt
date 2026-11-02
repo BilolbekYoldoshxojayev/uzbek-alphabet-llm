@@ -1,0 +1,13 @@
+2026-11-01 18:41:51  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: 1,133 docs, 3,874,588 chars -> 1,407,916 tokens (0.363 tok/char), 2749 sequences of 512
+2026-11-01 18:43:08  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: before training, valid bits/word = 28.380; 171 optimizer steps
+`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+C:\Users\Bilolbek\Desktop\Research\.venv\Lib\site-packages\torch\_dynamo\eval_frame.py:1044: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. Starting in PyTorch 2.9, calling checkpoint without use_reentrant will raise an exception. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+2026-11-01 18:51:25  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 25/171 loss 2.2908 (8.3 min)
+2026-11-01 19:00:01  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 50/171 loss 2.4868 (16.9 min)
+2026-11-01 19:08:29  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 75/171 loss 3.3030 (25.4 min)
+2026-11-01 19:16:33  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 100/171 loss 3.5184 (33.4 min)
+2026-11-01 19:25:03  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 125/171 loss 2.3312 (41.9 min)
+2026-11-01 19:33:40  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 150/171 loss 2.2451 (50.5 min)
+2026-11-01 19:40:47  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: step 171/171 loss 2.4816 (57.7 min)
+2026-11-01 19:41:53  [train-B] unsloth__gemma-3-4b-it__4bit__lora_new_s43: DONE in 57.7 min, 75 Wh, valid bits/word 28.380 -> 10.008
