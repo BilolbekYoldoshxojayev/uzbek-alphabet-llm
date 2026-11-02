@@ -1,0 +1,26 @@
+% Long version for arXiv (no page limit, author shown). The 4-page version is main.tex.
+% Build: ..\tools\tectonic\tectonic.exe -X compile main_long.tex
+\documentclass[11pt]{article}
+\usepackage{acl}
+\usepackage{latexsym}
+\usepackage{iftex}
+\ifXeTeX
+  \usepackage{fontspec}
+  \setmainfont{Times New Roman}
+  \newcommand{\cyrillic}[1]{#1}
+\else
+  \usepackage{times}
+  \usepackage[T2A,T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \newcommand{\cyrillic}[1]{{\fontencoding{T2A}\selectfont #1}}
+\fi
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\newcommand{\todo}[1]{\textcolor{red}{[TODO: #1]}}
+\graphicspath{{./}}
+
+\begin{document}
+\input{content_long}
+\end{document}
